@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-22212211@dr-ravenholm
 DTSTAMP:20260105T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260126T213000Z
 DTEND:20260126T233000Z
 SUMMARY:StarRupture | Ep. 3 - Just Another Day Under a Very Unstable Star
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22232211@dr-ravenholm
 DTSTAMP:20260107T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260128T213000Z
 DTEND:20260128T233000Z
 SUMMARY:Star Trek Online | Ep. 7 - Shut up, Wesley!
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22242211@dr-ravenholm
 DTSTAMP:20260108T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260129T213000Z
 DTEND:20260129T233000Z
 SUMMARY:Simon the Sorcerer Origins | Ep. 3 - I Missed One Line of
@@ -63,7 +63,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22252211@dr-ravenholm
 DTSTAMP:20260109T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260130T213000Z
 DTEND:20260130T233000Z
 SUMMARY:Red Dead Redemption 2 | Ep. 3 - The Road's Long and the Law's
@@ -81,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22262211@dr-ravenholm
 DTSTAMP:20260110T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175259Z
 DTSTART:20260131T213000Z
 DTEND:20260131T233000Z
 SUMMARY:Fallout 4 | Ep. 39 - This Park Closed for a Reason, Didn't It
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22272211@dr-ravenholm
 DTSTAMP:20260111T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175259Z
 DTSTART:20260201T213000Z
 DTEND:20260201T233000Z
 SUMMARY:Movie Night | Ep. 49 - The Lost World: Jurassic Park (1997)
@@ -113,12 +113,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22282211@dr-ravenholm
 DTSTAMP:20260112T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175259Z
 DTSTART:20260202T213000Z
 DTEND:20260202T233000Z
 SUMMARY:StarRupture | Ep. 4 -Activating the Forgotten World Engine... What
  Could Possibly Go Wrong
-DESCRIPTION: StarRupture is a first-person open world base-building game
+DESCRIPTION:We push the big red button. Ancient systems wake up.
+ Consequences happen. Join me as we find out why this was probably a
+ terrible idea. StarRupture is a first-person open world base-building game
  with advanced combat and tons of exploration. Play alone or in a group on
  this sublime and ever-changing planet, extract and manage resources,
  create your complex industrial system and fight off hordes of alien
@@ -131,16 +133,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22292211@dr-ravenholm
 DTSTAMP:20260113T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175259Z
 DTSTART:20260203T213000Z
 DTEND:20260203T233000Z
 SUMMARY:Dune: Awakening | Ep. 23 - Raiders of the Broken Lands Begin...
  Sand Is Already Everywhere
-DESCRIPTION: Rise from survival to greatness and challenge the power of an
- Imperium in Dune: Awakening, a brand-new open world survival and crafting
- game. Alone or together with others, you must survive the sandworm, build
- a home, craft your ornithopter, and unravel the story of the missing
- Fremen.
+DESCRIPTION:Back on Arrakis, where the sand is relentless, the danger is
+ constant, and everything wants me dead. Business as usual. Rise from
+ survival to greatness and challenge the power of an Imperium in Dune:
+ Awakening, a brand-new open world survival and crafting game. Alone or
+ together with others, you must survive the sandworm, build a home, craft
+ your ornithopter, and unravel the story of the missing Fremen.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Dune: Awakening
 STATUS:CONFIRMED
@@ -149,14 +152,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22302211@dr-ravenholm
 DTSTAMP:20260114T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175259Z
 DTSTART:20260204T213000Z
 DTEND:20260204T233000Z
 SUMMARY:7 Days to Die | Ep. 1 - 7 Days to Die? I Did It in 3
-DESCRIPTION: 7 Days to Die is an open-world game that is a unique
- combination of first-person shooter, survival horror, tower defense, and
- role-playing games. Play the definitive zombie survival sandbox RPG that
- came first. Navezgane awaits!
+DESCRIPTION:Another attempt, another apocalypse. Zombies, crafting, panic,
+ and the ongoing mystery of why I never learn. 7 Days to Die is an
+ open-world game that is a unique combination of first-person shooter,
+ survival horror, tower defense, and role-playing games. Play the
+ definitive zombie survival sandbox RPG that came first. Navezgane awaits!
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:7 Days to Die
 STATUS:CONFIRMED
@@ -165,12 +169,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22312211@dr-ravenholm
 DTSTAMP:20260115T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175259Z
 DTSTART:20260205T213000Z
 DTEND:20260205T233000Z
 SUMMARY:Simon the Sorcerer Origins | Ep. 4 - Ah Yes. Of Course. Obviously
-DESCRIPTION: Experience the Magical World like never before in Simon the
- Sorcerer Origins, the highly anticipated prequel to the cult classic
+DESCRIPTION:That moment when the solution finally clicks... and you can't
+ believe you didn't see it sooner. Classic adventure-game energy.
+ Experience the Magical World like never before in Simon the Sorcerer
+ Origins, the highly anticipated prequel to the cult classic
  Point-and-Click adventure series. In this new adventure, Simon, the most
  sarcastic wizard in video game history, returns to reveal secrets and
  stories from his past!
@@ -182,15 +188,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22322211@dr-ravenholm
 DTSTAMP:20260116T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260206T213000Z
 DTEND:20260206T233000Z
 SUMMARY:Red Dead Redemption 2 | Ep. 4 - Out Here, You Learn Fast or You
  Don't Last
-DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
- run. With federal agents and bounty hunters massing on their heels, the
- gang must rob, steal, and fight their way across the rugged heartland in
- order to survive.
+DESCRIPTION:The world gets harsher, the stakes get higher, and survival in
+ the Old West becomes very real. Arthur Morgan and the Van der Linde Gang
+ are outlaws on the run. With federal agents and bounty hunters massing on
+ their heels, the gang must rob, steal, and fight their way across the
+ rugged heartland in order to survive.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
@@ -199,15 +206,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22332211@dr-ravenholm
 DTSTAMP:20260117T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260207T213000Z
 DTEND:20260207T233000Z
 SUMMARY:Fallout 4 | Ep. 40 - Continuing Nuka-World Because I Survived
  Yesterday
-DESCRIPTION: As the sole survivor of Vault 111, you enter a world
- destroyed by nuclear war. Every second is a fight for survival, and every
- choice is yours. Only you can rebuild and determine the fate of the
- Wasteland. Welcome home.
+DESCRIPTION:Somehow, I lived. So naturally, we're going back in. More
+ danger, more chaos, and zero safety regulations. As the sole survivor of
+ Vault 111, you enter a world destroyed by nuclear war. Every second is a
+ fight for survival, and every choice is yours. Only you can rebuild and
+ determine the fate of the Wasteland. Welcome home.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Fallout 4
 STATUS:CONFIRMED
@@ -216,11 +224,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22342211@dr-ravenholm
 DTSTAMP:20260118T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260208T213000Z
 DTEND:20260208T233000Z
 SUMMARY:Movie Night | Ep. 50 - Jurassic Park III (2001)
-DESCRIPTION: Meet you all on Discord for Movie Night.
+DESCRIPTION:We cap off the trilogy with dinosaurs, questionable decisions,
+ and a perfect Sunday night watch with the community. Meet you all on
+ Discord for Movie Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
 STATUS:CONFIRMED
@@ -229,7 +239,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22352211@dr-ravenholm
 DTSTAMP:20260119T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260209T213000Z
 DTEND:20260209T233000Z
 SUMMARY:Motor Town: Behind The Wheel | Ep. 17
@@ -245,7 +255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22362211@dr-ravenholm
 DTSTAMP:20260120T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260210T213000Z
 DTEND:20260210T233000Z
 SUMMARY:Dune: Awakening | Ep. 24 - Raiders of the Broken Lands DLC
@@ -262,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22372211@dr-ravenholm
 DTSTAMP:20260121T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260211T213000Z
 DTEND:20260211T233000Z
 SUMMARY:World of Warships | Ep. 5 - The Ocean Is My Enemy Now
@@ -279,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22382211@dr-ravenholm
 DTSTAMP:20260122T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260212T213000Z
 DTEND:20260212T233000Z
 SUMMARY:Simon the Sorcerer Origins | Ep. 5
@@ -296,7 +306,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22392211@dr-ravenholm
 DTSTAMP:20260123T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260213T213000Z
 DTEND:20260213T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 5
@@ -312,7 +322,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22402211@dr-ravenholm
 DTSTAMP:20260124T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260214T213000Z
 DTEND:20260214T233000Z
 SUMMARY:Fallout 4 | Ep. 41
@@ -328,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22412211@dr-ravenholm
 DTSTAMP:20260125T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260215T213000Z
 DTEND:20260215T233000Z
 SUMMARY:Movie Night | Ep. 51 - Jurassic World (2015)
@@ -341,7 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22422211@dr-ravenholm
 DTSTAMP:20260126T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260216T213000Z
 DTEND:20260216T233000Z
 SUMMARY:Motor Town: Behind The Wheel | Ep. 17
@@ -357,7 +367,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22432211@dr-ravenholm
 DTSTAMP:20260127T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260217T213000Z
 DTEND:20260217T233000Z
 SUMMARY:Dune: Awakening | Ep. 25
@@ -372,11 +382,11 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stream-22442211@dr-ravenholm
-DTSTAMP:20260128T010000Z
-LAST-MODIFIED:20260201T234700Z
-DTSTART:20260218T213000Z
-DTEND:20260218T233000Z
+UID:stream-22452211@dr-ravenholm
+DTSTAMP:20260129T010000Z
+LAST-MODIFIED:20260202T175300Z
+DTSTART:20260219T213000Z
+DTEND:20260219T233000Z
 SUMMARY:Len's Island | Ep. 9
 DESCRIPTION: Build, fight, farm and explore. Experience your own path.
  Whether it's building the home of your dreams, tending to your crops and
@@ -390,7 +400,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22462211@dr-ravenholm
 DTSTAMP:20260130T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260220T213000Z
 DTEND:20260220T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 6
@@ -406,7 +416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22472211@dr-ravenholm
 DTSTAMP:20260131T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260221T213000Z
 DTEND:20260221T233000Z
 SUMMARY:6 Years
@@ -422,7 +432,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22482211@dr-ravenholm
 DTSTAMP:20260201T010000Z
-LAST-MODIFIED:20260201T234700Z
+LAST-MODIFIED:20260202T175300Z
 DTSTART:20260222T213000Z
 DTEND:20260222T233000Z
 SUMMARY:Movie Night | Ep. 52 - Jurassic World: Fallen Kingdom (2018)
