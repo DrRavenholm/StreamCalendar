@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-22412211@dr-ravenholm
 DTSTAMP:20260125T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260215T213000Z
 DTEND:20260215T233000Z
 SUMMARY:Movie Night | Ep. 51 - Lisa Frankenstein (2024)
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22422211@dr-ravenholm
 DTSTAMP:20260126T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260216T213000Z
 DTEND:20260216T233000Z
 SUMMARY:Motor Town: Behind The Wheel | Ep. 17 - This Delivery Felt Closer
@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22432211@dr-ravenholm
 DTSTAMP:20260127T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260217T213000Z
 DTEND:20260217T233000Z
 SUMMARY:Star Trek Online | Ep. 9 - At Least it's not Starfleet Academy
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22442211@dr-ravenholm
 DTSTAMP:20260128T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260218T213000Z
 DTEND:20260218T233000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 1 - Prologue & Schöneberg Convoy
@@ -75,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22452211@dr-ravenholm
 DTSTAMP:20260129T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260219T213000Z
 DTEND:20260219T233000Z
 SUMMARY:Star Trek: Voyager - Across the Unknown | Ep. 1 - There's Coffee
@@ -94,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22462211@dr-ravenholm
 DTSTAMP:20260130T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260220T213000Z
 DTEND:20260220T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 5 - Trust Don't Come Easy on the
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22472211@dr-ravenholm
 DTSTAMP:20260131T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260221T213000Z
 DTEND:20260221T233000Z
 SUMMARY:6 Years Streamaversary Celebration With Portal Speedrun with
@@ -129,7 +129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22482211@dr-ravenholm
 DTSTAMP:20260201T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260222T213000Z
 DTEND:20260222T233000Z
 SUMMARY:Movie Night | Ep. 52 - Jurassic World (2015)
@@ -144,15 +144,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22492211@dr-ravenholm
 DTSTAMP:20260202T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260223T213000Z
 DTEND:20260223T233000Z
 SUMMARY:theHunter: Call of the Wild | Ep. 47 - The Highlands Belong to the
  Haggis
-DESCRIPTION: Experience an atmospheric hunting game like no other in this
- realistic and visually breathtaking open world. Immerse yourself in the
- atmospheric single player campaign, or share the ultimate hunting
- experience with friends.
+DESCRIPTION:We return to the wild landscapes of theHunter: Call of the
+ Wild for more tracking, patience, and questionable aim. The Highlands are
+ calling - and I'm fairly certain something is watching us already.\n
+ Experience an atmospheric hunting game like no other in this realistic and
+ visually breathtaking open world. Immerse yourself in the atmospheric
+ single player campaign, or share the ultimate hunting experience with
+ friends.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:theHunter: Call of the Wild
 STATUS:CONFIRMED
@@ -161,15 +164,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22502211@dr-ravenholm
 DTSTAMP:20260203T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260224T213000Z
 DTEND:20260224T233000Z
 SUMMARY:Star Trek Online | Ep. 10 - Perhaps Today Is a Good Day to Explore
-DESCRIPTION: In Star Trek Online, the Star Trek universe appears for the
- first time on a truly massive scale. Players take the captain's chair as
- they command their own starship and crew. Explore strange new worlds, seek
- out new life and new civilizations, and boldly go where no one has gone
- before.
+DESCRIPTION:Back into Star Trek Online for more exploration, unexpected
+ encounters, and boldly going because someone has to. In Star Trek Online,
+ the Star Trek universe appears for the first time on a truly massive
+ scale. Players take the captain's chair as they command their own starship
+ and crew. Explore strange new worlds, seek out new life and new
+ civilizations, and boldly go where no one has gone before.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Star Trek Online
 STATUS:CONFIRMED
@@ -178,14 +182,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22512211@dr-ravenholm
 DTSTAMP:20260204T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260225T213000Z
 DTEND:20260225T233000Z
 SUMMARY: Plumb Hunters Sniper Elite V2 Remastered | Ep. 2 - Mittelwerk
  Facility
-DESCRIPTION: In the dark days of the end of World War 2 amidst the ruins
- of Berlin, one bullet can change history... Elite sniper Karl Fairburne
- returns to the front line in the remaster of this award-winning
+DESCRIPTION:Precision, patience, and cinematic slow-mo returns in Sniper
+ Elite V2 Remastered. The mission continues - and yes, the shots will be
+ carefully lined up. In the dark days of the end of World War 2 amidst the
+ ruins of Berlin, one bullet can change history... Elite sniper Karl
+ Fairburne returns to the front line in the remaster of this award-winning
  stealth-action experience. Packed with new features, contemporary visuals
  and definitive content.
 URL:https://www.twitch.tv/dr_ravenholm
@@ -196,14 +202,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22522211@dr-ravenholm
 DTSTAMP:20260205T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260226T213000Z
 DTEND:20260226T233000Z
 SUMMARY:Star Trek: Voyager - Across the Unknown | Ep. 2 - Diplomacy First.
  Unless They're Rude
-DESCRIPTION: Star Trek: Voyager - Across the Unknown is a story-driven
- survival strategy game in which the fate of the iconic starship is in your
- hands. Take the helm, manage the ship and resources, and make difficult
+DESCRIPTION:Our journey inspired by Star Trek: Voyager continues.
+ Exploration, negotiation... and possibly photon torpedoes if diplomacy
+ fails. Star Trek: Voyager - Across the Unknown is a story-driven survival
+ strategy game in which the fate of the iconic starship is in your hands.
+ Take the helm, manage the ship and resources, and make difficult
  decisions. Will you be able to bring home the ship and its crew?
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Star Trek: Voyager - Across the Unknown
@@ -213,14 +221,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22532211@dr-ravenholm
 DTSTAMP:20260206T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260227T213000Z
 DTEND:20260227T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 6 - The West Ain't Kind to Anyone
-DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
- run. With federal agents and bounty hunters massing on their heels, the
- gang must rob, steal, and fight their way across the rugged heartland in
- order to survive.
+DESCRIPTION:The frontier remains unforgiving in Red Dead Redemption 2.
+ Every ride feels heavier, every choice matters more. Arthur Morgan and the
+ Van der Linde Gang are outlaws on the run. With federal agents and bounty
+ hunters massing on their heels, the gang must rob, steal, and fight their
+ way across the rugged heartland in order to survive.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
@@ -229,15 +238,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22542211@dr-ravenholm
 DTSTAMP:20260207T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260228T213000Z
 DTEND:20260228T233000Z
 SUMMARY:Fallout 4 | Ep. 40 - Continuing Nuka-World Because I Survived
  Yesterday
-DESCRIPTION: As the sole survivor of Vault 111, you enter a world
- destroyed by nuclear war. Every second is a fight for survival, and every
- choice is yours. Only you can rebuild and determine the fate of the
- Wasteland. Welcome home.
+DESCRIPTION:Back into the chaos of Fallout 4. The park is still dangerous.
+ I am still underprepared. We're going anyway. As the sole survivor of
+ Vault 111, you enter a world destroyed by nuclear war. Every second is a
+ fight for survival, and every choice is yours. Only you can rebuild and
+ determine the fate of the Wasteland. Welcome home.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Fallout 4
 STATUS:CONFIRMED
@@ -246,11 +256,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22552211@dr-ravenholm
 DTSTAMP:20260208T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260301T213000Z
 DTEND:20260301T233000Z
 SUMMARY:Movie Night | Ep. 53 - Jurassic World: Fallen Kingdom (2018)
-DESCRIPTION: Meet you all on Discord for Movie Night.
+DESCRIPTION:The dino marathon continues with Jurassic World: Fallen
+ Kingdom - more action, bigger stakes, and absolutely no lessons learned
+ from previous parks. Meet you all on Discord for Movie Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
 STATUS:CONFIRMED
@@ -259,7 +271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22562211@dr-ravenholm
 DTSTAMP:20260209T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260302T213000Z
 DTEND:20260302T233000Z
 SUMMARY:Euro Truck Simulator 2 | Ep. 6
@@ -275,7 +287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22572211@dr-ravenholm
 DTSTAMP:20260210T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260303T213000Z
 DTEND:20260303T233000Z
 SUMMARY:Star Trek Online | Ep. 11 - We're Starfleet Officers. Weird Is
@@ -293,7 +305,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22582211@dr-ravenholm
 DTSTAMP:20260211T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260304T213000Z
 DTEND:20260304T233000Z
 SUMMARY: Plumb Hunters Sniper Elite V2 Remastered | Ep. 3 -
@@ -311,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22602211@dr-ravenholm
 DTSTAMP:20260213T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260306T213000Z
 DTEND:20260306T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 7
@@ -327,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22612211@dr-ravenholm
 DTSTAMP:20260214T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260307T213000Z
 DTEND:20260307T233000Z
 SUMMARY:Fallout 4 | Ep. 41
@@ -343,7 +355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22622211@dr-ravenholm
 DTSTAMP:20260215T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260308T213000Z
 DTEND:20260308T233000Z
 SUMMARY:Movie Night | Ep. 54 - Jurassic World Dominion (2022)
@@ -356,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22652211@dr-ravenholm
 DTSTAMP:20260218T010000Z
-LAST-MODIFIED:20260221T190000Z
+LAST-MODIFIED:20260221T205600Z
 DTSTART:20260311T213000Z
 DTEND:20260311T233000Z
 SUMMARY: Plumb Hunters Sniper Elite V2 Remastered | Ep. 4 - Opernplatz
