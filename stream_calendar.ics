@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-22522211@dr-ravenholm
 DTSTAMP:20260205T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260226T213000Z
 DTEND:20260226T233000Z
 SUMMARY:Star Trek: Voyager - Across the Unknown | Ep. 2 - Diplomacy First.
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22542211@dr-ravenholm
 DTSTAMP:20260207T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260228T213000Z
 DTEND:20260228T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 6 - The West Ain't Kind to Anyone
@@ -42,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22552211@dr-ravenholm
 DTSTAMP:20260208T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260301T213000Z
 DTEND:20260301T233000Z
 SUMMARY:Movie Night | Ep. 53 - Jurassic World: Fallen Kingdom (2018)
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22562211@dr-ravenholm
 DTSTAMP:20260209T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260302T213000Z
 DTEND:20260302T233000Z
 SUMMARY:Euro Truck Simulator 2 | Ep. 6 - Taking the Scenic Route Across
@@ -75,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22572211@dr-ravenholm
 DTSTAMP:20260210T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260303T213000Z
 DTEND:20260303T233000Z
 SUMMARY:Star Trek Online | Ep. 11 - We're Starfleet Officers. Weird Is
@@ -94,7 +94,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22582211@dr-ravenholm
 DTSTAMP:20260211T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260304T213000Z
 DTEND:20260304T233000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 3 - Kaiser-Friedrich Museum
@@ -104,7 +104,7 @@ DESCRIPTION:Precision returns in Sniper Elite V2 Remastered. Steady aim,
  change history... Elite sniper Karl Fairburne returns to the front line in
  the remaster of this award-winning stealth-action experience. Packed with
  new features, contemporary visuals and definitive content.
-URL:https://www.twitch.tv/dr_ravenholm
+URL:https://www.youtube.com/watch?v=zE9gfs6BrD0
 CATEGORIES:Sniper Elite V2 Remastered
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22592211@dr-ravenholm
 DTSTAMP:20260212T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260305T213000Z
 DTEND:20260305T233000Z
 SUMMARY:Star Trek: Voyager - Across the Unknown | Ep. 3 - Resistance and
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22602211@dr-ravenholm
 DTSTAMP:20260213T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260306T213000Z
 DTEND:20260306T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 7 - The West Don't Forgive, and It
@@ -151,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22612211@dr-ravenholm
 DTSTAMP:20260214T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260307T213000Z
 DTEND:20260307T233000Z
 SUMMARY:Fallout 4 | Ep. 40 - Continuing Nuka-World Because I Survived
@@ -169,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22622211@dr-ravenholm
 DTSTAMP:20260215T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260308T213000Z
 DTEND:20260308T233000Z
 SUMMARY:Movie Night | Ep. 54 - Jurassic World Dominion (2022)
@@ -184,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22632211@dr-ravenholm
 DTSTAMP:20260216T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260309T213000Z
 DTEND:20260309T233000Z
 SUMMARY:Euro Truck Simulator 2 | Ep. 7 - I Meant to Take That Exit
@@ -200,27 +200,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22642211@dr-ravenholm
 DTSTAMP:20260217T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260310T213000Z
 DTEND:20260310T233000Z
-SUMMARY:Star Trek: Resurgence | Ep. 7
-DESCRIPTION: Authentic Star Trek adventure from former members of Telltale
- Games. Engage in diplomacy, pilot shuttlecraft, and use your tricorder and
- phaser to overcome challenging puzzles and deadly threats. Tough decisions
- will impact relationships, your story, and the fate of the galaxy. What
- will YOU do? As first officer Jara Rydek and enlisted engineer Carter
- Diaz, you will join the crew of the U.S.S. Resolute, a science vessel on
- the edge of Federation space. Its mission: to prevent an ancient and
- powerful force from engulfing everything in its wake.
+SUMMARY:Star Trek Online | Ep. 12 - Quark Said This Would Make Profit...
+ I'm Not So Sure
+DESCRIPTION: In Star Trek Online, the Star Trek universe appears for the
+ first time on a truly massive scale. Players take the captain's chair as
+ they command their own starship and crew. Explore strange new worlds, seek
+ out new life and new civilizations, and boldly go where no one has gone
+ before.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Star Trek: Resurgence
+CATEGORIES:Star Trek Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-22652211@dr-ravenholm
 DTSTAMP:20260218T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260311T213000Z
 DTEND:20260311T233000Z
 SUMMARY: Plumb Hunters Sniper Elite V2 Remastered | Ep. 4 - Opernplatz
@@ -235,9 +233,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stream-22662211@dr-ravenholm
+DTSTAMP:20260219T010000Z
+LAST-MODIFIED:20260305T171600Z
+DTSTART:20260312T213000Z
+DTEND:20260312T233000Z
+SUMMARY:Before We Leave | Ep. 1 - The Peeps Have Discovered Potatoes.
+ Civilization Begins
+DESCRIPTION: Before We Leave is a city building game set in a cozy corner
+ of the universe. Nurture your Peeps and their surroundings while
+ rebuilding and rediscovering civilisation. Settle new lands and planets
+ while avoiding hungry Space Whales.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Before We Leave
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stream-22672211@dr-ravenholm
 DTSTAMP:20260220T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260313T213000Z
 DTEND:20260313T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 8 - No Law Out Here but What You Carry
@@ -253,10 +268,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22682211@dr-ravenholm
 DTSTAMP:20260221T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260314T213000Z
 DTEND:20260314T233000Z
-SUMMARY:Fallout 4 | Ep. 41
+SUMMARY:Fallout 4 | Ep. 41 - Theme Park Safety Standards = Zero
 DESCRIPTION: As the sole survivor of Vault 111, you enter a world
  destroyed by nuclear war. Every second is a fight for survival, and every
  choice is yours. Only you can rebuild and determine the fate of the
@@ -269,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22692211@dr-ravenholm
 DTSTAMP:20260222T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260315T213000Z
 DTEND:20260315T233000Z
 SUMMARY:Movie Night | Ep. 55 - Jurassic World Rebirth (2025)
@@ -282,7 +297,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22702211@dr-ravenholm
 DTSTAMP:20260223T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260316T213000Z
 DTEND:20260316T233000Z
 SUMMARY:Euro Truck Simulator 2 | Ep. 8 - Rain on the Windshield, Cargo in
@@ -299,27 +314,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22712211@dr-ravenholm
 DTSTAMP:20260224T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260317T213000Z
 DTEND:20260317T233000Z
-SUMMARY:Star Trek: Resurgence | Ep. 8
-DESCRIPTION: Authentic Star Trek adventure from former members of Telltale
- Games. Engage in diplomacy, pilot shuttlecraft, and use your tricorder and
- phaser to overcome challenging puzzles and deadly threats. Tough decisions
- will impact relationships, your story, and the fate of the galaxy. What
- will YOU do? As first officer Jara Rydek and enlisted engineer Carter
- Diaz, you will join the crew of the U.S.S. Resolute, a science vessel on
- the edge of Federation space. Its mission: to prevent an ancient and
- powerful force from engulfing everything in its wake.
+SUMMARY:Star Trek Online | Ep. 13 - Garak Said It Was \"Simple\"... I
+ Don't Trust That
+DESCRIPTION: In Star Trek Online, the Star Trek universe appears for the
+ first time on a truly massive scale. Players take the captain's chair as
+ they command their own starship and crew. Explore strange new worlds, seek
+ out new life and new civilizations, and boldly go where no one has gone
+ before.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Star Trek: Resurgence
+CATEGORIES:Star Trek Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-22722211@dr-ravenholm
 DTSTAMP:20260225T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260318T213000Z
 DTEND:20260318T233000Z
 SUMMARY: Plumb Hunters Sniper Elite V2 Remastered | Ep. 5 - St. Olibartus
@@ -335,9 +348,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stream-22732211@dr-ravenholm
+DTSTAMP:20260226T010000Z
+LAST-MODIFIED:20260305T171600Z
+DTSTART:20260319T213000Z
+DTEND:20260319T233000Z
+SUMMARY:Before We Leave | Ep. 2 - Rebuilding Civilization... But the
+ Potatoes Are in Charge
+DESCRIPTION: Before We Leave is a city building game set in a cozy corner
+ of the universe. Nurture your Peeps and their surroundings while
+ rebuilding and rediscovering civilisation. Settle new lands and planets
+ while avoiding hungry Space Whales.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Before We Leave
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stream-22742211@dr-ravenholm
 DTSTAMP:20260227T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260320T213000Z
 DTEND:20260320T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 9 - A Man's Worth Is Measured in Lead
@@ -354,10 +384,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22752211@dr-ravenholm
 DTSTAMP:20260228T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260321T213000Z
 DTEND:20260321T233000Z
-SUMMARY:Fallout 4 | Ep. 42
+SUMMARY:Fallout 4 | Ep. 42 - The Only Theme Park With More Bullets Than
+ Rides
 DESCRIPTION: As the sole survivor of Vault 111, you enter a world
  destroyed by nuclear war. Every second is a fight for survival, and every
  choice is yours. Only you can rebuild and determine the fate of the
@@ -370,10 +401,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22762211@dr-ravenholm
 DTSTAMP:20260301T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260322T213000Z
 DTEND:20260322T233000Z
-SUMMARY:Movie Night | Ep. 56
+SUMMARY:Movie Night | Ep. 56 - Highlander (1986)
 DESCRIPTION: Meet you all on Discord for Movie Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
@@ -381,9 +412,44 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stream-22772211@dr-ravenholm
+DTSTAMP:20260302T010000Z
+LAST-MODIFIED:20260305T171600Z
+DTSTART:20260323T213000Z
+DTEND:20260323T233000Z
+SUMMARY:Euro Truck Simulator 2 | Ep. 9 - Smooth driving until literally
+ that last corner
+DESCRIPTION: Travel across Europe as king of the road, a trucker who
+ delivers important cargo across impressive distances! With dozens of
+ cities to explore, your endurance, skill and speed will all be pushed to
+ their limits.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Euro Truck Simulator 2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-22782211@dr-ravenholm
+DTSTAMP:20260303T010000Z
+LAST-MODIFIED:20260305T171600Z
+DTSTART:20260324T213000Z
+DTEND:20260324T233000Z
+SUMMARY:Star Trek Online | Ep. 14 - Garak Assured Me Nothing Suspicious
+ Would Happen
+DESCRIPTION: In Star Trek Online, the Star Trek universe appears for the
+ first time on a truly massive scale. Players take the captain's chair as
+ they command their own starship and crew. Explore strange new worlds, seek
+ out new life and new civilizations, and boldly go where no one has gone
+ before.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Star Trek Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stream-22792211@dr-ravenholm
 DTSTAMP:20260304T010000Z
-LAST-MODIFIED:20260304T234000Z
+LAST-MODIFIED:20260305T171600Z
 DTSTART:20260325T213000Z
 DTEND:20260325T233000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 6 - Tiergarten Flak Tower
@@ -394,6 +460,23 @@ DESCRIPTION: In the dark days of the end of World War 2 amidst the ruins
  and definitive content.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Sniper Elite V2 Remastered
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-22802211@dr-ravenholm
+DTSTAMP:20260305T010000Z
+LAST-MODIFIED:20260305T171600Z
+DTSTART:20260326T213000Z
+DTEND:20260326T233000Z
+SUMMARY:Before We Leave | Ep. 3 - Saving the Planet One Confused Peep at a
+ Time
+DESCRIPTION: Before We Leave is a city building game set in a cozy corner
+ of the universe. Nurture your Peeps and their surroundings while
+ rebuilding and rediscovering civilisation. Settle new lands and planets
+ while avoiding hungry Space Whales.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Before We Leave
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
