@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-22752211@dr-ravenholm
 DTSTAMP:20260228T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260321T213000Z
 DTEND:20260321T233000Z
 SUMMARY:Fallout 4 | Ep. 41 - Theme Park Safety Standards = Zero
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22762211@dr-ravenholm
 DTSTAMP:20260301T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260322T213000Z
 DTEND:20260322T233000Z
 SUMMARY:Movie Night | Ep. 56 - Highlander (1986)
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22772211@dr-ravenholm
 DTSTAMP:20260302T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260323T213000Z
 DTEND:20260323T233000Z
 SUMMARY:Euro Truck Simulator 2 | Ep. 9 - Smooth driving until literally
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22782211@dr-ravenholm
 DTSTAMP:20260303T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260324T213000Z
 DTEND:20260324T233000Z
 SUMMARY:Star Trek Online | Ep. 13 - Garak Said It Was \"Simple\"... I
@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22792211@dr-ravenholm
 DTSTAMP:20260304T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260325T213000Z
 DTEND:20260325T233000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 6 - Tiergarten Flak Tower
@@ -96,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22802211@dr-ravenholm
 DTSTAMP:20260305T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260326T213000Z
 DTEND:20260326T233000Z
 SUMMARY:Retro Rewind: Video Store Simulator | Ep. 2 - Be Kind, Rewind Is
@@ -112,11 +112,11 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stream-22812211@dr-ravenholm
-DTSTAMP:20260306T010000Z
-LAST-MODIFIED:20260327T134600Z
-DTSTART:20260327T213000Z
-DTEND:20260327T233000Z
+UID:stream-22822211@dr-ravenholm
+DTSTAMP:20260307T010000Z
+LAST-MODIFIED:20260328T094600Z
+DTSTART:20260328T203000Z
+DTEND:20260328T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 9 - A Man's Worth Is Measured in Lead
  and Loyalty
 DESCRIPTION:The frontier story continues, where trust is hard-earned and
@@ -130,27 +130,9 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stream-22822211@dr-ravenholm
-DTSTAMP:20260307T010000Z
-LAST-MODIFIED:20260327T134600Z
-DTSTART:20260328T203000Z
-DTEND:20260328T223000Z
-SUMMARY:Fallout 4 | Ep. 42 - The Only Theme Park With More Bullets Than
- Rides
-DESCRIPTION:Back into Nuka-World - still dangerous, still chaotic, and
- still somehow a place we keep returning to. As the sole survivor of Vault
- 111, you enter a world destroyed by nuclear war. Every second is a fight
- for survival, and every choice is yours. Only you can rebuild and
- determine the fate of the Wasteland. Welcome home.
-URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Fallout 4
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-22832211@dr-ravenholm
 DTSTAMP:20260308T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260329T203000Z
 DTEND:20260329T223000Z
 SUMMARY:Movie Night | Ep. 57 - Pitch Black (2000)
@@ -165,15 +147,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22842211@dr-ravenholm
 DTSTAMP:20260309T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260330T203000Z
 DTEND:20260330T223000Z
 SUMMARY:Euro Truck Simulator 2 | Ep. 10 - Crossed Greece, Still a Long Way
  to Go
-DESCRIPTION: Travel across Europe as king of the road, a trucker who
- delivers important cargo across impressive distances! With dozens of
- cities to explore, your endurance, skill and speed will all be pushed to
- their limits.
+DESCRIPTION:The journey continues across Europe. We've made progress...
+ but the road ahead is still long. Expect chill vibes, scenic drives, and
+ the occasional navigation regret. Travel across Europe as king of the
+ road, a trucker who delivers important cargo across impressive distances!
+ With dozens of cities to explore, your endurance, skill and speed will all
+ be pushed to their limits.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Euro Truck Simulator 2
 STATUS:CONFIRMED
@@ -182,12 +166,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22852211@dr-ravenholm
 DTSTAMP:20260310T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260331T203000Z
 DTEND:20260331T223000Z
 SUMMARY:Star Trek Online | Ep. 14 - Garak Assured Me Nothing Suspicious
  Would Happen
-DESCRIPTION: In Star Trek Online, the Star Trek universe appears for the
+DESCRIPTION:If Garak says everything is fine, it absolutely isn't. More
+ space missions, unexpected twists, and decisions that may come back to
+ haunt me. In Star Trek Online, the Star Trek universe appears for the
  first time on a truly massive scale. Players take the captain's chair as
  they command their own starship and crew. Explore strange new worlds, seek
  out new life and new civilizations, and boldly go where no one has gone
@@ -200,15 +186,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22862211@dr-ravenholm
 DTSTAMP:20260311T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260401T203000Z
 DTEND:20260401T223000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 7 - Karlshorst Command Post
-DESCRIPTION: In the dark days of the end of World War 2 amidst the ruins
- of Berlin, one bullet can change history... Elite sniper Karl Fairburne
- returns to the front line in the remaster of this award-winning
- stealth-action experience. Packed with new features, contemporary visuals
- and definitive content.
+DESCRIPTION:Precision gameplay continues. One shot, one chance - and
+ hopefully no \"that definitely alerted everyone\" moments. In the dark
+ days of the end of World War 2 amidst the ruins of Berlin, one bullet can
+ change history... Elite sniper Karl Fairburne returns to the front line in
+ the remaster of this award-winning stealth-action experience. Packed with
+ new features, contemporary visuals and definitive content.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Sniper Elite V2 Remastered
 STATUS:CONFIRMED
@@ -217,14 +204,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22872211@dr-ravenholm
 DTSTAMP:20260312T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260402T203000Z
 DTEND:20260402T223000Z
 SUMMARY:Mika and The Witch's Mountain | Ep. 1 - Just a Cozy Flight Around
  the Mountain
-DESCRIPTION: Mika and the Witch's Mountain is a fantasy adventure about an
- aspiring witch who delivers packages to the townspeople of a small island.
- Explore every cranny and soar through the sky with your magic broom.
+DESCRIPTION:A brand-new cozy adventure begins! Flying, exploring, and
+ delivering packages in a charming world - what could possibly go wrong?
+ Mika and the Witch's Mountain is a fantasy adventure about an aspiring
+ witch who delivers packages to the townspeople of a small island. Explore
+ every cranny and soar through the sky with your magic broom.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Mika and The Witch's Mountain
 STATUS:CONFIRMED
@@ -233,15 +222,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22882211@dr-ravenholm
 DTSTAMP:20260313T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260403T203000Z
 DTEND:20260403T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 10 - Outlaws, Dust, and a Debt to
  Settle
-DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
- run. With federal agents and bounty hunters massing on their heels, the
- gang must rob, steal, and fight their way across the rugged heartland in
- order to survive.
+DESCRIPTION:Back into the Wild West, where unfinished business always
+ comes back around. Expect tension, storytelling, and tough decisions.
+ Arthur Morgan and the Van der Linde Gang are outlaws on the run. With
+ federal agents and bounty hunters massing on their heels, the gang must
+ rob, steal, and fight their way across the rugged heartland in order to
+ survive.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
@@ -250,11 +241,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22892211@dr-ravenholm
 DTSTAMP:20260314T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260404T203000Z
 DTEND:20260404T223000Z
-SUMMARY:Fallout 4 | Ep. 43 - The Most Dangerous Vacation in the Wasteland
-DESCRIPTION: As the sole survivor of Vault 111, you enter a world
+SUMMARY:Fallout 4 | Ep. 42 - The Only Theme Park With More Bullets Than
+ Rides
+DESCRIPTION:Nuka-World continues to be exactly as safe as you'd expect -
+ which is to say, not safe at all. More chaos, more danger, more
+ questionable choices. As the sole survivor of Vault 111, you enter a world
  destroyed by nuclear war. Every second is a fight for survival, and every
  choice is yours. Only you can rebuild and determine the fate of the
  Wasteland. Welcome home.
@@ -266,11 +260,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22902211@dr-ravenholm
 DTSTAMP:20260315T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260405T203000Z
 DTEND:20260405T223000Z
 SUMMARY:Movie Night | Ep. 58 - The Chronicles of Riddick (2004)
-DESCRIPTION: Meet you all on Discord for Movie Night.
+DESCRIPTION:We close out the week with a sci-fi action classic. Grab your
+ snacks, settle in, and enjoy a relaxed movie night with the community.
+ Meet you all on Discord for Movie Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
 STATUS:CONFIRMED
@@ -279,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22912211@dr-ravenholm
 DTSTAMP:20260316T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260406T203000Z
 DTEND:20260406T223000Z
 SUMMARY:Euro Truck Simulator 2 | Ep. 11
@@ -295,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22922211@dr-ravenholm
 DTSTAMP:20260317T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260407T203000Z
 DTEND:20260407T223000Z
 SUMMARY:Star Trek Online | Ep. 15
@@ -312,7 +308,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22932211@dr-ravenholm
 DTSTAMP:20260318T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260408T203000Z
 DTEND:20260408T223000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 8 - Kreuzberg Headquarters
@@ -329,7 +325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22942211@dr-ravenholm
 DTSTAMP:20260319T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260409T203000Z
 DTEND:20260409T223000Z
 SUMMARY:Final Fantasy Mystic Quest | Ep. 1 - The \"Easy\" Final Fantasy...
@@ -354,7 +350,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22952211@dr-ravenholm
 DTSTAMP:20260320T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260410T203000Z
 DTEND:20260410T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 11
@@ -370,10 +366,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22962211@dr-ravenholm
 DTSTAMP:20260321T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260411T203000Z
 DTEND:20260411T223000Z
-SUMMARY:Fallout 4 | Ep. 44
+SUMMARY:Fallout 4 | Ep. 43 - The Most Dangerous Vacation in the Wasteland
 DESCRIPTION: As the sole survivor of Vault 111, you enter a world
  destroyed by nuclear war. Every second is a fight for survival, and every
  choice is yours. Only you can rebuild and determine the fate of the
@@ -386,7 +382,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22972211@dr-ravenholm
 DTSTAMP:20260322T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260412T203000Z
 DTEND:20260412T223000Z
 SUMMARY:Movie Night | Ep. 59 - Riddick (2013)
@@ -399,7 +395,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22982211@dr-ravenholm
 DTSTAMP:20260323T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260413T203000Z
 DTEND:20260413T223000Z
 SUMMARY:Euro Truck Simulator 2 | Ep. 12
@@ -415,7 +411,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22992211@dr-ravenholm
 DTSTAMP:20260324T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260414T203000Z
 DTEND:20260414T223000Z
 SUMMARY:Star Trek Online | Ep. 16
@@ -432,7 +428,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23002211@dr-ravenholm
 DTSTAMP:20260325T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260415T203000Z
 DTEND:20260415T223000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 9 - Köpenick Launch Site
@@ -449,7 +445,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23012211@dr-ravenholm
 DTSTAMP:20260326T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260416T203000Z
 DTEND:20260416T223000Z
 SUMMARY:Crime Scene Cleaner | Ep. 12
@@ -466,7 +462,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23022211@dr-ravenholm
 DTSTAMP:20260327T010000Z
-LAST-MODIFIED:20260327T134600Z
+LAST-MODIFIED:20260328T094600Z
 DTSTART:20260417T203000Z
 DTEND:20260417T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 12
@@ -476,6 +472,22 @@ DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
  order to survive.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Red Dead Redemption II
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-23032211@dr-ravenholm
+DTSTAMP:20260328T010000Z
+LAST-MODIFIED:20260328T094600Z
+DTSTART:20260418T203000Z
+DTEND:20260418T223000Z
+SUMMARY:Fallout 4 | Ep. 44
+DESCRIPTION: As the sole survivor of Vault 111, you enter a world
+ destroyed by nuclear war. Every second is a fight for survival, and every
+ choice is yours. Only you can rebuild and determine the fate of the
+ Wasteland. Welcome home.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Fallout 4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
