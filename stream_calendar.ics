@@ -4,9 +4,24 @@ PRODID:-////Stream Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:stream-22832211@dr-ravenholm
+DTSTAMP:20260308T010000Z
+LAST-MODIFIED:20260405T235800Z
+DTSTART:20260329T203000Z
+DTEND:20260329T223000Z
+SUMMARY:Movie Night | Ep. 57 - Pitch Black (2000)
+DESCRIPTION:A mystery movie night to close out the week! Grab your snacks,
+ settle in, and enjoy a relaxed evening with the community. Meet you all on
+ Discord for Movie Night.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Movie Night
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stream-22842211@dr-ravenholm
 DTSTAMP:20260309T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260330T203000Z
 DTEND:20260330T223000Z
 SUMMARY:Euro Truck Simulator 2 | Ep. 10 - Crossed Greece, Still a Long Way
@@ -25,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22862211@dr-ravenholm
 DTSTAMP:20260311T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260401T203000Z
 DTEND:20260401T223000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 7 - Karlshorst Command Post
@@ -43,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22882211@dr-ravenholm
 DTSTAMP:20260313T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260403T203000Z
 DTEND:20260403T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 10 - Outlaws, Dust, and a Debt to
@@ -62,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22892211@dr-ravenholm
 DTSTAMP:20260314T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260404T203000Z
 DTEND:20260404T223000Z
 SUMMARY:Fallout 4 | Ep. 42 - The Only Theme Park With More Bullets Than
@@ -73,7 +88,7 @@ DESCRIPTION:Nuka-World continues to be exactly as safe as you'd expect -
  destroyed by nuclear war. Every second is a fight for survival, and every
  choice is yours. Only you can rebuild and determine the fate of the
  Wasteland. Welcome home.
-URL:https://www.twitch.tv/dr_ravenholm
+URL:https://www.youtube.com/watch?v=pU0UHbDmTrQ
 CATEGORIES:Fallout 4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -81,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22902211@dr-ravenholm
 DTSTAMP:20260315T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260405T203000Z
 DTEND:20260405T223000Z
 SUMMARY:Movie Night | Ep. 58 - The Chronicles of Riddick (2004)
@@ -96,16 +111,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22912211@dr-ravenholm
 DTSTAMP:20260316T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260406T203000Z
 DTEND:20260406T223000Z
-SUMMARY:I Am Jesus Christ | Ep. 1 - Ah, I love your religion - for the
- crazy! Virgin birth, water into wine; it's like Harry Potter, but it
- causes genocide and bad folk music.
-DESCRIPTION: Walk in the footsteps of Jesus in this immersive first-person
- retelling of His life, from baptism to resurrection. Perform iconic
- miracles, meet biblical figures, and explore the Holy Land from Jerusalem
- to Galilee. Experience the story of the Messiah in I Am Jesus Christ.
+SUMMARY:I Am Jesus Christ | Ep. 1 - Rumors, Lies, Fairy Tales
+DESCRIPTION:A brand-new and very different kind of experience kicks off
+ the week. Expect curiosity, surprises, and plenty of \"I didn't expect
+ that\" moments. Walk in the footsteps of Jesus in this immersive
+ first-person retelling of His life, from baptism to resurrection. Perform
+ iconic miracles, meet biblical figures, and explore the Holy Land from
+ Jerusalem to Galilee. Experience the story of the Messiah in I Am Jesus
+ Christ.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:I Am Jesus Christ
 STATUS:CONFIRMED
@@ -114,16 +130,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22922211@dr-ravenholm
 DTSTAMP:20260317T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260407T203000Z
 DTEND:20260407T223000Z
 SUMMARY:Star Trek Online | Ep. 14 - Garak Assured Me Nothing Suspicious
  Would Happen
-DESCRIPTION: In Star Trek Online, the Star Trek universe appears for the
- first time on a truly massive scale. Players take the captain's chair as
- they command their own starship and crew. Explore strange new worlds, seek
- out new life and new civilizations, and boldly go where no one has gone
- before.
+DESCRIPTION:Back into space where everything is definitely fine. Missions,
+ mysteries, and a strong feeling that we've been misled. In Star Trek
+ Online, the Star Trek universe appears for the first time on a truly
+ massive scale. Players take the captain's chair as they command their own
+ starship and crew. Explore strange new worlds, seek out new life and new
+ civilizations, and boldly go where no one has gone before.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Star Trek Online
 STATUS:CONFIRMED
@@ -132,15 +149,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22932211@dr-ravenholm
 DTSTAMP:20260318T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260408T203000Z
 DTEND:20260408T223000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 8 - Kreuzberg Headquarters
-DESCRIPTION: In the dark days of the end of World War 2 amidst the ruins
- of Berlin, one bullet can change history... Elite sniper Karl Fairburne
- returns to the front line in the remaster of this award-winning
- stealth-action experience. Packed with new features, contemporary visuals
- and definitive content.
+DESCRIPTION:Precision continues. One careful shot can change everything...
+ or alert absolutely everyone. In the dark days of the end of World War 2
+ amidst the ruins of Berlin, one bullet can change history... Elite sniper
+ Karl Fairburne returns to the front line in the remaster of this
+ award-winning stealth-action experience. Packed with new features,
+ contemporary visuals and definitive content.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Sniper Elite V2 Remastered
 STATUS:CONFIRMED
@@ -149,14 +167,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22942211@dr-ravenholm
 DTSTAMP:20260319T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260409T203000Z
 DTEND:20260409T223000Z
 SUMMARY:Mika and The Witch's Mountain | Ep. 1 - Just a Cozy Flight Around
  the Mountain
-DESCRIPTION: Mika and the Witch's Mountain is a fantasy adventure about an
- aspiring witch who delivers packages to the townspeople of a small island.
- Explore every cranny and soar through the sky with your magic broom.
+DESCRIPTION:Back to cozy skies! Deliveries, exploration, and a relaxing
+ (mostly) flight through a charming world. Mika and the Witch's Mountain is
+ a fantasy adventure about an aspiring witch who delivers packages to the
+ townspeople of a small island. Explore every cranny and soar through the
+ sky with your magic broom.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Mika and The Witch's Mountain
 STATUS:CONFIRMED
@@ -165,14 +185,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22952211@dr-ravenholm
 DTSTAMP:20260320T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260410T203000Z
 DTEND:20260410T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 11
-DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
- run. With federal agents and bounty hunters massing on their heels, the
- gang must rob, steal, and fight their way across the rugged heartland in
- order to survive.
+DESCRIPTION:The story continues in the unforgiving Wild West. More
+ choices, more consequences, and more moments that hit hard. Arthur Morgan
+ and the Van der Linde Gang are outlaws on the run. With federal agents and
+ bounty hunters massing on their heels, the gang must rob, steal, and fight
+ their way across the rugged heartland in order to survive.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
@@ -181,14 +202,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22962211@dr-ravenholm
 DTSTAMP:20260321T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260411T203000Z
 DTEND:20260411T223000Z
 SUMMARY:Fallout 4 | Ep. 43 - The Most Dangerous Vacation in the Wasteland
-DESCRIPTION: As the sole survivor of Vault 111, you enter a world
- destroyed by nuclear war. Every second is a fight for survival, and every
- choice is yours. Only you can rebuild and determine the fate of the
- Wasteland. Welcome home.
+DESCRIPTION:Nuka-World continues to prove that \"vacation\" is a very
+ loose term. Expect chaos, danger, and zero safety standards. As the sole
+ survivor of Vault 111, you enter a world destroyed by nuclear war. Every
+ second is a fight for survival, and every choice is yours. Only you can
+ rebuild and determine the fate of the Wasteland. Welcome home.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Fallout 4
 STATUS:CONFIRMED
@@ -197,11 +219,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22972211@dr-ravenholm
 DTSTAMP:20260322T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260412T203000Z
 DTEND:20260412T223000Z
 SUMMARY:Movie Night | Ep. 59 - Riddick (2013)
-DESCRIPTION: Meet you all on Discord for Movie Night.
+DESCRIPTION:We wrap up the week with more sci-fi action. Grab your snacks
+ and settle in for a relaxed movie night with the community. Meet you all
+ on Discord for Movie Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
 STATUS:CONFIRMED
@@ -210,23 +234,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-22982211@dr-ravenholm
 DTSTAMP:20260323T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260413T203000Z
 DTEND:20260413T223000Z
-SUMMARY:Euro Truck Simulator 2 | Ep. 11
-DESCRIPTION: Travel across Europe as king of the road, a trucker who
- delivers important cargo across impressive distances! With dozens of
- cities to explore, your endurance, skill and speed will all be pushed to
- their limits.
+SUMMARY:The Last Caretaker | Ep. 1
+DESCRIPTION:
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Euro Truck Simulator 2
+CATEGORIES:The Last Caretaker
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-22992211@dr-ravenholm
 DTSTAMP:20260324T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260414T203000Z
 DTEND:20260414T223000Z
 SUMMARY:Star Trek Online | Ep. 15
@@ -243,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23002211@dr-ravenholm
 DTSTAMP:20260325T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260415T203000Z
 DTEND:20260415T223000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 9 - Köpenick Launch Site
@@ -260,25 +281,32 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23012211@dr-ravenholm
 DTSTAMP:20260326T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260416T203000Z
 DTEND:20260416T223000Z
 SUMMARY:Final Fantasy Mystic Quest | Ep. 1 - The \"Easy\" Final Fantasy...
  Is It Actually Good?
-DESCRIPTION: Once you get tangled with the mob, you will forever be a part
- of the mob. At least they pay a decent salary and all you have to do is
- clean up after their dirty work, but you know what you're doing. So clean
- crime scenes, earn as much money as you can, and get ready for the next
- mission.
+DESCRIPTION: Step into one of the most unique entries in the Final Fantasy
+ series with Final Fantasy Mystic Quest, known in Europe as Mystic Quest
+ Legend. Originally released on the SNES, this classic RPG was designed as
+ an accessible introduction to the genre-making it perfect for both
+ newcomers and retro fans.\n\nJoin me as I explore its colorful world,
+ battle iconic monsters, and rediscover a game that often flies under the
+ radar in the Final Fantasy lineup. With its simplified mechanics,
+ memorable soundtrack, and nostalgic 16-bit charm, Mystic Quest offers a
+ laid-back RPG experience that's all about fun and exploration.\n\nWhether
+ you played this back in the day or you're seeing it for the first time,
+ come hang out, relax, and enjoy some retro vibes as we journey through
+ this hidden gem together.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Crime Scene Cleaner
+CATEGORIES:Final Fantasy Mystic Quest
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-23022211@dr-ravenholm
 DTSTAMP:20260327T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260417T203000Z
 DTEND:20260417T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 12
@@ -294,7 +322,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23032211@dr-ravenholm
 DTSTAMP:20260328T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260418T203000Z
 DTEND:20260418T223000Z
 SUMMARY:Fallout 4 | Ep. 44
@@ -310,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23042211@dr-ravenholm
 DTSTAMP:20260329T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260419T203000Z
 DTEND:20260419T223000Z
 SUMMARY:Movie Night | Ep. 60 - Passengers (2016)
@@ -321,9 +349,39 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stream-23052211@dr-ravenholm
+DTSTAMP:20260330T010000Z
+LAST-MODIFIED:20260405T235800Z
+DTSTART:20260420T203000Z
+DTEND:20260420T223000Z
+SUMMARY:Cooking Simulator 2 | Ep. 1
+DESCRIPTION:
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Cooking Simulator 2
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-23062211@dr-ravenholm
+DTSTAMP:20260331T010000Z
+LAST-MODIFIED:20260405T235800Z
+DTSTART:20260421T203000Z
+DTEND:20260421T223000Z
+SUMMARY:Star Trek Online | Ep. 16
+DESCRIPTION: In Star Trek Online, the Star Trek universe appears for the
+ first time on a truly massive scale. Players take the captain's chair as
+ they command their own starship and crew. Explore strange new worlds, seek
+ out new life and new civilizations, and boldly go where no one has gone
+ before.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Star Trek Online
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stream-23072211@dr-ravenholm
 DTSTAMP:20260401T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260422T203000Z
 DTEND:20260422T223000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 10 - Brandenburg Gate
@@ -340,10 +398,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23082211@dr-ravenholm
 DTSTAMP:20260402T010000Z
-LAST-MODIFIED:20260404T234800Z
+LAST-MODIFIED:20260405T235800Z
 DTSTART:20260423T203000Z
 DTEND:20260423T223000Z
-SUMMARY:Red Dead Redemption II | Ep. 12
+SUMMARY:Crime Scene Cleaner | Ep. 12
 DESCRIPTION: Once you get tangled with the mob, you will forever be a part
  of the mob. At least they pay a decent salary and all you have to do is
  clean up after their dirty work, but you know what you're doing. So clean
@@ -351,6 +409,51 @@ DESCRIPTION: Once you get tangled with the mob, you will forever be a part
  mission.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Crime Scene Cleaner
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-23092211@dr-ravenholm
+DTSTAMP:20260403T010000Z
+LAST-MODIFIED:20260405T235800Z
+DTSTART:20260424T203000Z
+DTEND:20260424T223000Z
+SUMMARY:Red Dead Redemption II | Ep. 13
+DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
+ run. With federal agents and bounty hunters massing on their heels, the
+ gang must rob, steal, and fight their way across the rugged heartland in
+ order to survive.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Red Dead Redemption II
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-23102211@dr-ravenholm
+DTSTAMP:20260404T010000Z
+LAST-MODIFIED:20260405T235800Z
+DTSTART:20260425T203000Z
+DTEND:20260425T223000Z
+SUMMARY:Fallout 4 | Ep. 45
+DESCRIPTION: As the sole survivor of Vault 111, you enter a world
+ destroyed by nuclear war. Every second is a fight for survival, and every
+ choice is yours. Only you can rebuild and determine the fate of the
+ Wasteland. Welcome home.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Fallout 4
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-23112211@dr-ravenholm
+DTSTAMP:20260405T010000Z
+LAST-MODIFIED:20260405T235800Z
+DTSTART:20260426T203000Z
+DTEND:20260426T223000Z
+SUMMARY:Movie Night | Ep. 61
+DESCRIPTION: Meet you all on Discord for Movie Night.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Movie Night
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
