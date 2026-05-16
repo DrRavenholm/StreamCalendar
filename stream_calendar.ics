@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-23242211@dr-ravenholm
 DTSTAMP:20260418T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260509T203000Z
 DTEND:20260509T223000Z
 SUMMARY:Fallout 4 | Ep. 47 - Nuka-World: Where Every Ride Feels Unsafe
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23252211@dr-ravenholm
 DTSTAMP:20260419T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260510T203000Z
 DTEND:20260510T223000Z
 SUMMARY:Movie Night | Ep. 63 - Robin Hood: Men in Tights (1993)
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23262211@dr-ravenholm
 DTSTAMP:20260420T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260511T203000Z
 DTEND:20260511T223000Z
 SUMMARY:Construction Simulator | Ep. 31 - Building a Museum One Pump
@@ -57,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23282211@dr-ravenholm
 DTSTAMP:20260422T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260513T203000Z
 DTEND:20260513T223000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 13 - The Landwehr Canal DLC
@@ -76,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23302211@dr-ravenholm
 DTSTAMP:20260424T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260515T203000Z
 DTEND:20260515T223000Z
 SUMMARY:Crime Scene Cleaner | Ep. 14 - This Is Getting Worse the Longer I
@@ -95,24 +95,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23312211@dr-ravenholm
 DTSTAMP:20260425T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260516T203000Z
 DTEND:20260516T223000Z
-SUMMARY:Fallout 4 | Ep. 48 - I Came for Nuka-Cola, Not This Situation
-DESCRIPTION:Another trip into Nuka-World, where every \"quick visit\"
- somehow turns into chaos, danger, and regrettable life decisions. As the
- sole survivor of Vault 111, you enter a world destroyed by nuclear war.
- Every second is a fight for survival, and every choice is yours. Only you
- can rebuild and determine the fate of the Wasteland. Welcome home.
+SUMMARY:Crime Scene Cleaner | Ep. 15 - The Mess Is Spreading. I'm Not
+ Helping
+DESCRIPTION:Back on cleanup duty, where every room somehow becomes more
+ horrifying after I start cleaning it. The bucket remains loyal. Once you
+ get tangled with the mob, you will forever be a part of the mob. At least
+ they pay a decent salary and all you have to do is clean up after their
+ dirty work, but you know what you're doing. So clean crime scenes, earn as
+ much money as you can, and get ready for the next mission.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Fallout 4
+CATEGORIES:Crime Scene Cleaner
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-23322211@dr-ravenholm
 DTSTAMP:20260426T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260517T203000Z
 DTEND:20260517T223000Z
 SUMMARY:Movie Night | Ep. 64 - Dracula: Dead and Loving It (1995)
@@ -127,11 +129,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23332211@dr-ravenholm
 DTSTAMP:20260427T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260518T203000Z
 DTEND:20260518T223000Z
-SUMMARY:Construction Simulator | Ep. 32
-DESCRIPTION: Construction Simulator is back - bigger and better than ever!
+SUMMARY:Construction Simulator | Ep. 32 - Museum Construction Delayed by
+ Ancient Pump Curse
+DESCRIPTION:Back on site where the machinery appears to be actively
+ working against me. We're building a museum... assuming the cursed pump
+ allows it. Construction Simulator is back - bigger and better than ever!
  Take charge of over 70 machines, dozens of them brand new to the
  franchise, and build to your heart's content on two huge maps - on your
  own or with your friends!
@@ -143,13 +148,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23342211@dr-ravenholm
 DTSTAMP:20260428T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260519T203000Z
 DTEND:20260519T223000Z
 SUMMARY:Duck Side of the Moon | Ep. 1 - A Cozy Little Trip to the Moon
-DESCRIPTION: Waddle and fly as a duck in space! Explore every corner of
- the galaxy and find curious creatures and materials along the way. Craft
- gadgets, upgrade your spaceship, and get cozy in this relaxing adventure.
+DESCRIPTION:Back to our cozy lunar duck adventure! Relaxed vibes, moon
+ exploration, and a surprising amount of charm packed into one tiny trip.
+ Waddle and fly as a duck in space! Explore every corner of the galaxy and
+ find curious creatures and materials along the way. Craft gadgets, upgrade
+ your spaceship, and get cozy in this relaxing adventure.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Duck Side of the Moon
 STATUS:CONFIRMED
@@ -158,15 +165,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23352211@dr-ravenholm
 DTSTAMP:20260429T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260520T203000Z
 DTEND:20260520T223000Z
 SUMMARY:Sniper Elite V2 Remastered | Ep. 14 - Saint Pierre DLC
-DESCRIPTION: In the dark days of the end of World War 2 amidst the ruins
- of Berlin, one bullet can change history... Elite sniper Karl Fairburne
- returns to the front line in the remaster of this award-winning
- stealth-action experience. Packed with new features, contemporary visuals
- and definitive content.
+DESCRIPTION:Stealth, precision, and tense moments continue as we tackle
+ another mission where one perfect shot can change everything. In the dark
+ days of the end of World War 2 amidst the ruins of Berlin, one bullet can
+ change history... Elite sniper Karl Fairburne returns to the front line in
+ the remaster of this award-winning stealth-action experience. Packed with
+ new features, contemporary visuals and definitive content.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Sniper Elite V2 Remastered
 STATUS:CONFIRMED
@@ -175,16 +183,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23362211@dr-ravenholm
 DTSTAMP:20260430T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260521T203000Z
 DTEND:20260521T223000Z
-SUMMARY:Crime Scene Cleaner | Ep. 15 - The Mess Is Spreading. I'm Not
- Helping
-DESCRIPTION: Once you get tangled with the mob, you will forever be a part
- of the mob. At least they pay a decent salary and all you have to do is
- clean up after their dirty work, but you know what you're doing. So clean
- crime scenes, earn as much money as you can, and get ready for the next
- mission.
+SUMMARY:Crime Scene Cleaner | Ep. 16 - Pretty Sure This Wasn't League Night
+DESCRIPTION:Another cleanup job, another deeply suspicious scene. Things
+ are getting stranger, messier, and somehow harder to explain. Once you get
+ tangled with the mob, you will forever be a part of the mob. At least they
+ pay a decent salary and all you have to do is clean up after their dirty
+ work, but you know what you're doing. So clean crime scenes, earn as much
+ money as you can, and get ready for the next mission.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Crime Scene Cleaner
 STATUS:CONFIRMED
@@ -193,14 +201,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23372211@dr-ravenholm
 DTSTAMP:20260501T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260522T203000Z
 DTEND:20260522T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 14 - Keep Riding. Don't Look Back
-DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
- run. With federal agents and bounty hunters massing on their heels, the
- gang must rob, steal, and fight their way across the rugged heartland in
- order to survive.
+DESCRIPTION:Back into the Wild West where survival means moving forward -
+ no matter what's chasing you. Arthur Morgan and the Van der Linde Gang are
+ outlaws on the run. With federal agents and bounty hunters massing on
+ their heels, the gang must rob, steal, and fight their way across the
+ rugged heartland in order to survive.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
@@ -209,14 +218,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23382211@dr-ravenholm
 DTSTAMP:20260502T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260523T203000Z
 DTEND:20260523T223000Z
-SUMMARY:Fallout 4 | Ep. 49 - This Park Was Shut Down for a Reason
-DESCRIPTION: As the sole survivor of Vault 111, you enter a world
- destroyed by nuclear war. Every second is a fight for survival, and every
- choice is yours. Only you can rebuild and determine the fate of the
- Wasteland. Welcome home.
+SUMMARY:Fallout 4 | Ep. 48 - I Came for Nuka-Cola, Not This Situation
+DESCRIPTION:Nuka-World continues to be the least relaxing \"vacation\"
+ destination imaginable. More chaos, more danger, more bad decisions. As
+ the sole survivor of Vault 111, you enter a world destroyed by nuclear
+ war. Every second is a fight for survival, and every choice is yours. Only
+ you can rebuild and determine the fate of the Wasteland. Welcome home.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Fallout 4
 STATUS:CONFIRMED
@@ -225,11 +235,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23392211@dr-ravenholm
 DTSTAMP:20260503T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260524T203000Z
 DTEND:20260524T223000Z
 SUMMARY:Movie Night | Ep. 65 - Spaceballs (1987)
-DESCRIPTION: Meet you all on Discord for Movie Night.
+DESCRIPTION:We wrap up the week with an absolute comedy classic. Grab your
+ snacks, prepare for ludicrous speed, and enjoy a relaxed movie night with
+ the community. Meet you all on Discord for Movie Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
 STATUS:CONFIRMED
@@ -238,10 +250,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23402211@dr-ravenholm
 DTSTAMP:20260504T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260525T203000Z
 DTEND:20260525T223000Z
-SUMMARY:Construction Simulator | Ep. 33
+SUMMARY:Construction Simulator | Ep. 33 - The Concrete Pump Has Become
+ Self-Aware
 DESCRIPTION: Construction Simulator is back - bigger and better than ever!
  Take charge of over 70 machines, dozens of them brand new to the
  franchise, and build to your heart's content on two huge maps - on your
@@ -254,7 +267,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23412211@dr-ravenholm
 DTSTAMP:20260505T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260526T203000Z
 DTEND:20260526T223000Z
 SUMMARY:Duck Side of the Moon | Ep. 2 - Floating Through Space With
@@ -272,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23422211@dr-ravenholm
 DTSTAMP:20260506T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260527T203000Z
 DTEND:20260527T223000Z
 SUMMARY:Sniper Elite III | Ep. 1 - Siege of Tobruk
@@ -285,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23432211@dr-ravenholm
 DTSTAMP:20260507T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260528T203000Z
 DTEND:20260528T223000Z
 SUMMARY:Outbound | Ep. 1
@@ -298,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23442211@dr-ravenholm
 DTSTAMP:20260508T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260529T203000Z
 DTEND:20260529T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 15
@@ -314,10 +327,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23452211@dr-ravenholm
 DTSTAMP:20260509T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260530T203000Z
 DTEND:20260530T223000Z
-SUMMARY:Fallout 4 | Ep. 50
+SUMMARY:Fallout 4 | Ep. 49 - This Park Was Shut Down for a Reason
 DESCRIPTION: As the sole survivor of Vault 111, you enter a world
  destroyed by nuclear war. Every second is a fight for survival, and every
  choice is yours. Only you can rebuild and determine the fate of the
@@ -330,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23462211@dr-ravenholm
 DTSTAMP:20260510T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260531T203000Z
 DTEND:20260531T223000Z
 SUMMARY:Movie Night | Ep. 66 - Stir Crazy (1980)
@@ -343,7 +356,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23472211@dr-ravenholm
 DTSTAMP:20260511T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260601T203000Z
 DTEND:20260601T223000Z
 SUMMARY:Construction Simulator | Ep. 34
@@ -359,7 +372,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23482211@dr-ravenholm
 DTSTAMP:20260512T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260602T203000Z
 DTEND:20260602T223000Z
 SUMMARY:Star Trek Online | Ep. 16 - I Have a Bad Feeling About This Sphere
@@ -376,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23492211@dr-ravenholm
 DTSTAMP:20260513T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260603T203000Z
 DTEND:20260603T223000Z
 SUMMARY:Sniper Elite III | Ep. 2 - Gaberoun
@@ -389,7 +402,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23502211@dr-ravenholm
 DTSTAMP:20260514T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260604T203000Z
 DTEND:20260604T223000Z
 SUMMARY:Outbound | Ep. 2
@@ -402,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23512211@dr-ravenholm
 DTSTAMP:20260515T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260605T203000Z
 DTEND:20260605T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 16
@@ -418,10 +431,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23522211@dr-ravenholm
 DTSTAMP:20260516T010000Z
-LAST-MODIFIED:20260516T154200Z
+LAST-MODIFIED:20260516T163100Z
 DTSTART:20260606T203000Z
 DTEND:20260606T223000Z
-SUMMARY:Fallout 4 | Ep. 51
+SUMMARY:Fallout 4 | Ep. 50
 DESCRIPTION: As the sole survivor of Vault 111, you enter a world
  destroyed by nuclear war. Every second is a fight for survival, and every
  choice is yours. Only you can rebuild and determine the fate of the
