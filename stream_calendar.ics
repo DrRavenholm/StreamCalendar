@@ -4,26 +4,9 @@ PRODID:-////Stream Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:stream-23562211@dr-ravenholm
-DTSTAMP:20260520T010000Z
-LAST-MODIFIED:20260617T212600Z
-DTSTART:20260610T203000Z
-DTEND:20260610T223000Z
-SUMMARY:Sniper Elite III | Ep. 3 - Halfaya Pass
-DESCRIPTION:The desert campaign continues with long-range precision,
- stealth tactics, and those moments where everything depends on a single
- shot. Sniper Elite 3 is a tactical third-person shooter that combines
- stealth, gameplay choice and genre-defining ballistics with huge, open
- levels and the exotic terrain of World War 2 North Africa.
-URL:https://www.youtube.com/watch?v=FzOJvWYJm7
-CATEGORIES:Sniper Elite III
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-23572211@dr-ravenholm
 DTSTAMP:20260521T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260611T203000Z
 DTEND:20260611T223000Z
 SUMMARY:I Am Fish | Ep. 4 - I Believe I Can Swim... Wait, Why Am I Flying?
@@ -42,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23592211@dr-ravenholm
 DTSTAMP:20260523T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260613T203000Z
 DTEND:20260613T223000Z
 SUMMARY:Fallout 4 | Ep. 50 - This Looked Safer on the Pip-Boy Map
@@ -60,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23602211@dr-ravenholm
 DTSTAMP:20260524T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260614T203000Z
 DTEND:20260614T223000Z
 SUMMARY:Movie Night | Ep. 68 - The 'Burbs (1989)
@@ -75,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23612211@dr-ravenholm
 DTSTAMP:20260525T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260615T203000Z
 DTEND:20260615T223000Z
 SUMMARY:Construction Simulator | Ep. 35 - Finishing the Car Park Before
@@ -94,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23632211@dr-ravenholm
 DTSTAMP:20260527T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260617T203000Z
 DTEND:20260617T223000Z
 SUMMARY:Sniper Elite III | Ep. 4 - Fort Rifugio
@@ -103,52 +86,33 @@ DESCRIPTION:The desert campaign continues with stealth, precision, and
  3 is a tactical third-person shooter that combines stealth, gameplay
  choice and genre-defining ballistics with huge, open levels and the exotic
  terrain of World War 2 North Africa.
-URL:https://www.twitch.tv/dr_ravenholm
+URL:https://www.youtube.com/watch?v=NqHMdB2V_s4
 CATEGORIES:Sniper Elite III
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:stream-23642211@dr-ravenholm
-DTSTAMP:20260528T010000Z
-LAST-MODIFIED:20260617T212600Z
-DTSTART:20260618T203000Z
-DTEND:20260618T223000Z
-SUMMARY:I Am Fish | Ep. 5 - Today's Mood: Piranha With a Touch of
- Pufferfish Panic
-DESCRIPTION:More physics-based chaos awaits! Join me as we attempt to
- navigate increasingly ridiculous situations while trying to keep our fishy
- friends alive. I Am Fish is a charming, physics-based adventure starring
- four intrepid fish friends, forcibly separated from their home in a pet
- shop fish tank. Swim, fly, roll and chomp your way to the open ocean in a
- bid for freedom and to re-unite once again.
-URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:I Am Fish
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-23652211@dr-ravenholm
 DTSTAMP:20260529T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260619T203000Z
 DTEND:20260619T223000Z
-SUMMARY:Red Dead Redemption II | Ep. 15 - The Frontier Makes Hard Men and
- Harder Graves
+SUMMARY:Dune: Awakening | Ep. 25 - Arrakis Update: Still Full of Sand
 DESCRIPTION:The journey through the frontier continues. Tough choices,
- unforgettable moments, and a world that never stops testing you. Arthur
- Morgan and the Van der Linde Gang are outlaws on the run. With federal
- agents and bounty hunters massing on their heels, the gang must rob,
- steal, and fight their way across the rugged heartland in order to survive.
+ unforgettable moments, and a world that never stops testing you. Rise from
+ survival to greatness and challenge the power of an Imperium in Dune:
+ Awakening, a brand-new open world survival and crafting game. Alone or
+ together with others, you must survive the sandworm, build a home, craft
+ your ornithopter, and unravel the story of the missing Fremen.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Red Dead Redemption II
+CATEGORIES:Dune: Awakening
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-23662211@dr-ravenholm
 DTSTAMP:20260530T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260620T203000Z
 DTEND:20260620T223000Z
 SUMMARY:Fallout 4 | Ep. 51 - Final Mission of Nuka-World. I Hope They Have
@@ -167,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23672211@dr-ravenholm
 DTSTAMP:20260531T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260621T203000Z
 DTEND:20260621T223000Z
 SUMMARY:Movie Night | Ep. 69 - Superfast! (2015)
@@ -182,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23682211@dr-ravenholm
 DTSTAMP:20260601T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260622T203000Z
 DTEND:20260622T223000Z
 SUMMARY:Construction Simulator | Ep. 36
@@ -198,10 +162,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23692211@dr-ravenholm
 DTSTAMP:20260602T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260623T203000Z
 DTEND:20260623T223000Z
-SUMMARY:Dune: Awakening | Ep. 25 - Arrakis Update: Still Full of Sand
+SUMMARY:Dune: Awakening | Ep. 26
 DESCRIPTION: Rise from survival to greatness and challenge the power of an
  Imperium in Dune: Awakening, a brand-new open world survival and crafting
  game. Alone or together with others, you must survive the sandworm, build
@@ -215,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23702211@dr-ravenholm
 DTSTAMP:20260603T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260624T203000Z
 DTEND:20260624T223000Z
 SUMMARY:Sniper Elite III | Ep. 5 - Siwa Oasis
@@ -230,10 +194,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23712211@dr-ravenholm
 DTSTAMP:20260604T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260625T203000Z
 DTEND:20260625T223000Z
-SUMMARY:I Am Fish | Ep. 6
+SUMMARY:I Am Fish | Ep. 5 - Today's Mood: Piranha With a Touch of
+ Pufferfish Panic
 DESCRIPTION: I Am Fish is a charming, physics-based adventure starring
  four intrepid fish friends, forcibly separated from their home in a pet
  shop fish tank. Swim, fly, roll and chomp your way to the open ocean in a
@@ -246,11 +211,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23722211@dr-ravenholm
 DTSTAMP:20260605T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260626T203000Z
 DTEND:20260626T223000Z
-SUMMARY:Red Dead Redemption II | Ep. 16 - A Cold Campfire and a Warm
- Revolver
+SUMMARY:Red Dead Redemption II | Ep. 15 - The Frontier Makes Hard Men and
+ Harder Graves
 DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
  run. With federal agents and bounty hunters massing on their heels, the
  gang must rob, steal, and fight their way across the rugged heartland in
@@ -263,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23732211@dr-ravenholm
 DTSTAMP:20260606T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260627T203000Z
 DTEND:20260627T223000Z
 SUMMARY:Fallout 4 | Ep. 52
@@ -279,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23742211@dr-ravenholm
 DTSTAMP:20260607T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260628T203000Z
 DTEND:20260628T223000Z
 SUMMARY:Movie Night | Ep. 70
@@ -292,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23752211@dr-ravenholm
 DTSTAMP:20260608T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
 SUMMARY:Construction Simulator | Ep. 37
@@ -308,10 +273,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23762211@dr-ravenholm
 DTSTAMP:20260609T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260630T203000Z
 DTEND:20260630T223000Z
-SUMMARY:Dune: Awakening | Ep. 26
+SUMMARY:Dune: Awakening | Ep. 27
 DESCRIPTION: Rise from survival to greatness and challenge the power of an
  Imperium in Dune: Awakening, a brand-new open world survival and crafting
  game. Alone or together with others, you must survive the sandworm, build
@@ -325,7 +290,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23772211@dr-ravenholm
 DTSTAMP:20260610T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260701T203000Z
 DTEND:20260701T223000Z
 SUMMARY:Sniper Elite III | Ep. 6 - Kasserine Pass
@@ -340,29 +305,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23782211@dr-ravenholm
 DTSTAMP:20260611T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260702T203000Z
 DTEND:20260702T223000Z
-SUMMARY:Crime Scene Cleaner | Ep. 17 - I Cleaned One Spot and Uncovered
- Three More
-DESCRIPTION: Once you get tangled with the mob, you will forever be a part
- of the mob. At least they pay a decent salary and all you have to do is
- clean up after their dirty work, but you know what you're doing. So clean
- crime scenes, earn as much money as you can, and get ready for the next
- mission.
+SUMMARY:I Am Fish | Ep. 6
+DESCRIPTION: I Am Fish is a charming, physics-based adventure starring
+ four intrepid fish friends, forcibly separated from their home in a pet
+ shop fish tank. Swim, fly, roll and chomp your way to the open ocean in a
+ bid for freedom and to re-unite once again.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Crime Scene Cleaner
+CATEGORIES:I Am Fish
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-23792211@dr-ravenholm
 DTSTAMP:20260612T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260703T203000Z
 DTEND:20260703T223000Z
-SUMMARY:Red Dead Redemption II | Ep. 17 - Every Trail Leads to Trouble
- Eventually
+SUMMARY:Red Dead Redemption II | Ep. 16 - A Cold Campfire and a Warm
+ Revolver
 DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
  run. With federal agents and bounty hunters massing on their heels, the
  gang must rob, steal, and fight their way across the rugged heartland in
@@ -375,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23802211@dr-ravenholm
 DTSTAMP:20260613T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260704T203000Z
 DTEND:20260704T223000Z
 SUMMARY:Fallout 4 | Ep. 53
@@ -391,7 +354,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23812211@dr-ravenholm
 DTSTAMP:20260614T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260705T203000Z
 DTEND:20260705T223000Z
 SUMMARY:Movie Night | Ep. 71
@@ -402,9 +365,42 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stream-23822211@dr-ravenholm
+DTSTAMP:20260615T010000Z
+LAST-MODIFIED:20260619T154000Z
+DTSTART:20260706T203000Z
+DTEND:20260706T223000Z
+SUMMARY:Construction Simulator | Ep. 38
+DESCRIPTION: Construction Simulator is back - bigger and better than ever!
+ Take charge of over 70 machines, dozens of them brand new to the
+ franchise, and build to your heart's content on two huge maps - on your
+ own or with your friends!
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Construction Simulator
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-23832211@dr-ravenholm
+DTSTAMP:20260616T010000Z
+LAST-MODIFIED:20260619T154000Z
+DTSTART:20260707T203000Z
+DTEND:20260707T223000Z
+SUMMARY:Dune: Awakening | Ep. 28
+DESCRIPTION: Rise from survival to greatness and challenge the power of an
+ Imperium in Dune: Awakening, a brand-new open world survival and crafting
+ game. Alone or together with others, you must survive the sandworm, build
+ a home, craft your ornithopter, and unravel the story of the missing
+ Fremen.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Dune: Awakening
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stream-23842211@dr-ravenholm
 DTSTAMP:20260617T010000Z
-LAST-MODIFIED:20260617T212600Z
+LAST-MODIFIED:20260619T154000Z
 DTSTART:20260708T203000Z
 DTEND:20260708T223000Z
 SUMMARY:Sniper Elite III | Ep. 7 - Ponts Du Fahs Airfield
@@ -413,6 +409,24 @@ DESCRIPTION: Sniper Elite 3 is a tactical third-person shooter that
  open levels and the exotic terrain of World War 2 North Africa.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Sniper Elite III
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-23852211@dr-ravenholm
+DTSTAMP:20260618T010000Z
+LAST-MODIFIED:20260619T154000Z
+DTSTART:20260709T203000Z
+DTEND:20260709T223000Z
+SUMMARY:Crime Scene Cleaner | Ep. 17 - I Cleaned One Spot and Uncovered
+ Three More
+DESCRIPTION: Once you get tangled with the mob, you will forever be a part
+ of the mob. At least they pay a decent salary and all you have to do is
+ clean up after their dirty work, but you know what you're doing. So clean
+ crime scenes, earn as much money as you can, and get ready for the next
+ mission.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Crime Scene Cleaner
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
