@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-23662211@dr-ravenholm
 DTSTAMP:20260530T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260620T203000Z
 DTEND:20260620T223000Z
 SUMMARY:Fallout 4 | Ep. 51 - Final Mission of Nuka-World. I Hope They Have
@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23672211@dr-ravenholm
 DTSTAMP:20260531T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260621T203000Z
 DTEND:20260621T223000Z
 SUMMARY:Movie Night | Ep. 69 - Superfast! (2015)
@@ -40,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23682211@dr-ravenholm
 DTSTAMP:20260601T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260622T203000Z
 DTEND:20260622T223000Z
 SUMMARY:Construction Simulator | Ep. 36 - The Building Looks Straight From
@@ -59,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23692211@dr-ravenholm
 DTSTAMP:20260602T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260623T203000Z
 DTEND:20260623T223000Z
 SUMMARY:Dune: Awakening | Ep. 26 - The Landsraad Has Asked Me for
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23702211@dr-ravenholm
 DTSTAMP:20260603T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260624T203000Z
 DTEND:20260624T223000Z
 SUMMARY:Sniper Elite III | Ep. 5 - Siwa Oasis
@@ -96,7 +96,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23722211@dr-ravenholm
 DTSTAMP:20260605T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260626T203000Z
 DTEND:20260626T223000Z
 SUMMARY:I Am Fish | Ep. 5 - Today's Mood: Piranha With a Touch of
@@ -107,7 +107,7 @@ DESCRIPTION:Back into the Wild West where every decision matters and the
  separated from their home in a pet shop fish tank. Swim, fly, roll and
  chomp your way to the open ocean in a bid for freedom and to re-unite once
  again.
-URL:https://www.twitch.tv/dr_ravenholm
+URL:https://www.youtube.com/watch?v=18Im6oC-B5E
 CATEGORIES:I Am Fish
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -115,7 +115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23732211@dr-ravenholm
 DTSTAMP:20260606T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260627T203000Z
 DTEND:20260627T223000Z
 SUMMARY:Fallout 4 | Ep. 52 - I Promise Sanctuary Will Look Better Tomorrow
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23742211@dr-ravenholm
 DTSTAMP:20260607T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260628T203000Z
 DTEND:20260628T223000Z
 SUMMARY:Movie Night | Ep. 70 - R.I.P.D. (2013)
@@ -148,11 +148,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23752211@dr-ravenholm
 DTSTAMP:20260608T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
-SUMMARY:Construction Simulator | Ep. 37
-DESCRIPTION: Construction Simulator is back - bigger and better than ever!
+SUMMARY:Construction Simulator | Ep. 37 - Everything Is Within Tolerance
+ If You Stop Measuring
+DESCRIPTION:Back on site for another evening of heavy machinery, large
+ projects, and construction techniques that would probably concern actual
+ engineers. Construction Simulator is back - bigger and better than ever!
  Take charge of over 70 machines, dozens of them brand new to the
  franchise, and build to your heart's content on two huge maps - on your
  own or with your friends!
@@ -164,11 +167,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23762211@dr-ravenholm
 DTSTAMP:20260609T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260630T203000Z
 DTEND:20260630T223000Z
-SUMMARY:Dune: Awakening | Ep. 27
-DESCRIPTION: Rise from survival to greatness and challenge the power of an
+SUMMARY:Dune: Awakening | Ep. 27 - Hubert Can Smell Fear. Good Thing I
+ Have None
+DESCRIPTION:Arrakis remains dangerous, sandy, and deeply invested in
+ ending my survival career. Thankfully, confidence counts for something...
+ right? Rise from survival to greatness and challenge the power of an
  Imperium in Dune: Awakening, a brand-new open world survival and crafting
  game. Alone or together with others, you must survive the sandworm, build
  a home, craft your ornithopter, and unravel the story of the missing
@@ -181,13 +187,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23772211@dr-ravenholm
 DTSTAMP:20260610T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260701T203000Z
 DTEND:20260701T223000Z
 SUMMARY:Sniper Elite III | Ep. 6 - Kasserine Pass
-DESCRIPTION: Sniper Elite 3 is a tactical third-person shooter that
- combines stealth, gameplay choice and genre-defining ballistics with huge,
- open levels and the exotic terrain of World War 2 North Africa.
+DESCRIPTION:The campaign continues with another mission demanding
+ patience, precision, and the ability to avoid attracting absolutely
+ everyone's attention. Sniper Elite 3 is a tactical third-person shooter
+ that combines stealth, gameplay choice and genre-defining ballistics with
+ huge, open levels and the exotic terrain of World War 2 North Africa.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Sniper Elite III
 STATUS:CONFIRMED
@@ -196,14 +204,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23782211@dr-ravenholm
 DTSTAMP:20260611T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260702T203000Z
 DTEND:20260702T223000Z
-SUMMARY:I Am Fish | Ep. 6
-DESCRIPTION: I Am Fish is a charming, physics-based adventure starring
- four intrepid fish friends, forcibly separated from their home in a pet
- shop fish tank. Swim, fly, roll and chomp your way to the open ocean in a
- bid for freedom and to re-unite once again.
+SUMMARY:I Am Fish | Ep. 6 - Aquarium Today, Orbit Tomorrow
+DESCRIPTION:Physics once again files for annual leave as our fishy heroes
+ continue their increasingly ambitious journey toward freedom... and
+ apparently space travel. I Am Fish is a charming, physics-based adventure
+ starring four intrepid fish friends, forcibly separated from their home in
+ a pet shop fish tank. Swim, fly, roll and chomp your way to the open ocean
+ in a bid for freedom and to re-unite once again.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:I Am Fish
 STATUS:CONFIRMED
@@ -212,15 +222,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23792211@dr-ravenholm
 DTSTAMP:20260612T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260703T203000Z
 DTEND:20260703T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 15 - The Frontier Makes Hard Men and
  Harder Graves
-DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
- run. With federal agents and bounty hunters massing on their heels, the
- gang must rob, steal, and fight their way across the rugged heartland in
- order to survive.
+DESCRIPTION:The frontier remains unforgiving. Every mile traveled and
+ every choice made carries weight in one of gaming's greatest stories.
+ Arthur Morgan and the Van der Linde Gang are outlaws on the run. With
+ federal agents and bounty hunters massing on their heels, the gang must
+ rob, steal, and fight their way across the rugged heartland in order to
+ survive.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
@@ -229,14 +241,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23802211@dr-ravenholm
 DTSTAMP:20260613T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260704T203000Z
 DTEND:20260704T223000Z
-SUMMARY:Fallout 4 | Ep. 53
-DESCRIPTION: As the sole survivor of Vault 111, you enter a world
- destroyed by nuclear war. Every second is a fight for survival, and every
- choice is yours. Only you can rebuild and determine the fate of the
- Wasteland. Welcome home.
+SUMMARY:Fallout 4 | Ep. 53 - Taking a Nice Relaxing Trip to Far Harbor
+DESCRIPTION:A peaceful island getaway in the Commonwealth? Surely nothing
+ ominous waits beneath the fog. Absolutely nothing at all. As the sole
+ survivor of Vault 111, you enter a world destroyed by nuclear war. Every
+ second is a fight for survival, and every choice is yours. Only you can
+ rebuild and determine the fate of the Wasteland. Welcome home.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Fallout 4
 STATUS:CONFIRMED
@@ -245,11 +258,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23812211@dr-ravenholm
 DTSTAMP:20260614T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260705T203000Z
 DTEND:20260705T223000Z
-SUMMARY:Movie Night | Ep. 71
-DESCRIPTION: Meet you all on Discord for Movie Night.
+SUMMARY:Movie Night | Ep. 71 - Down Periscope (1996)
+DESCRIPTION:We close out the week with submarine shenanigans, comedy
+ chaos, and another relaxed Sunday evening with the community. Meet you all
+ on Discord for Movie Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
 STATUS:CONFIRMED
@@ -258,7 +273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23822211@dr-ravenholm
 DTSTAMP:20260615T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260706T203000Z
 DTEND:20260706T223000Z
 SUMMARY:Construction Simulator | Ep. 38
@@ -274,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23832211@dr-ravenholm
 DTSTAMP:20260616T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260707T203000Z
 DTEND:20260707T223000Z
 SUMMARY:Dune: Awakening | Ep. 28
@@ -291,7 +306,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23842211@dr-ravenholm
 DTSTAMP:20260617T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260708T203000Z
 DTEND:20260708T223000Z
 SUMMARY:Sniper Elite III | Ep. 7 - Ponts Du Fahs Airfield
@@ -306,7 +321,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23852211@dr-ravenholm
 DTSTAMP:20260618T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260709T203000Z
 DTEND:20260709T223000Z
 SUMMARY:Crime Scene Cleaner | Ep. 17 - I Cleaned One Spot and Uncovered
@@ -324,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23862211@dr-ravenholm
 DTSTAMP:20260619T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260710T203000Z
 DTEND:20260710T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 16 - A Cold Campfire and a Warm
@@ -341,10 +356,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23872211@dr-ravenholm
 DTSTAMP:20260620T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260711T203000Z
 DTEND:20260711T223000Z
-SUMMARY:Fallout 4 | Ep. 54
+SUMMARY:Fallout 4 | Ep. 54 - Far Harbor Seems Lovely This Time of Year
 DESCRIPTION: As the sole survivor of Vault 111, you enter a world
  destroyed by nuclear war. Every second is a fight for survival, and every
  choice is yours. Only you can rebuild and determine the fate of the
@@ -357,7 +372,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23882211@dr-ravenholm
 DTSTAMP:20260621T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260712T203000Z
 DTEND:20260712T223000Z
 SUMMARY:Movie Night | Ep. 72
@@ -368,9 +383,42 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stream-23892211@dr-ravenholm
+DTSTAMP:20260622T010000Z
+LAST-MODIFIED:20260627T165700Z
+DTSTART:20260713T203000Z
+DTEND:20260713T223000Z
+SUMMARY:Construction Simulator | Ep. 39
+DESCRIPTION: Construction Simulator is back - bigger and better than ever!
+ Take charge of over 70 machines, dozens of them brand new to the
+ franchise, and build to your heart's content on two huge maps - on your
+ own or with your friends!
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Construction Simulator
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-23902211@dr-ravenholm
+DTSTAMP:20260623T010000Z
+LAST-MODIFIED:20260627T165700Z
+DTSTART:20260714T203000Z
+DTEND:20260714T223000Z
+SUMMARY:Dune: Awakening | Ep. 29
+DESCRIPTION: Rise from survival to greatness and challenge the power of an
+ Imperium in Dune: Awakening, a brand-new open world survival and crafting
+ game. Alone or together with others, you must survive the sandworm, build
+ a home, craft your ornithopter, and unravel the story of the missing
+ Fremen.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Dune: Awakening
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stream-23912211@dr-ravenholm
 DTSTAMP:20260624T010000Z
-LAST-MODIFIED:20260626T235600Z
+LAST-MODIFIED:20260627T165700Z
 DTSTART:20260715T203000Z
 DTEND:20260715T223000Z
 SUMMARY:Sniper Elite III | Ep. 8 - Ratte Factory
@@ -379,6 +427,56 @@ DESCRIPTION: Sniper Elite 3 is a tactical third-person shooter that
  open levels and the exotic terrain of World War 2 North Africa.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Sniper Elite III
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-23922211@dr-ravenholm
+DTSTAMP:20260625T010000Z
+LAST-MODIFIED:20260627T165700Z
+DTSTART:20260716T203000Z
+DTEND:20260716T223000Z
+SUMMARY:Crime Scene Cleaner | Ep. 18
+DESCRIPTION: Once you get tangled with the mob, you will forever be a part
+ of the mob. At least they pay a decent salary and all you have to do is
+ clean up after their dirty work, but you know what you're doing. So clean
+ crime scenes, earn as much money as you can, and get ready for the next
+ mission.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Crime Scene Cleaner
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-23932211@dr-ravenholm
+DTSTAMP:20260626T010000Z
+LAST-MODIFIED:20260627T165700Z
+DTSTART:20260717T203000Z
+DTEND:20260717T223000Z
+SUMMARY:Red Dead Redemption II | Ep. 17 - Every Trail Leads to Trouble
+ Eventually
+DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
+ run. With federal agents and bounty hunters massing on their heels, the
+ gang must rob, steal, and fight their way across the rugged heartland in
+ order to survive.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Red Dead Redemption II
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-23942211@dr-ravenholm
+DTSTAMP:20260627T010000Z
+LAST-MODIFIED:20260627T165700Z
+DTSTART:20260718T203000Z
+DTEND:20260718T223000Z
+SUMMARY:Fallout 4 | Ep. 55 - The Brochure Forgot to Mention the Monsters
+DESCRIPTION: As the sole survivor of Vault 111, you enter a world
+ destroyed by nuclear war. Every second is a fight for survival, and every
+ choice is yours. Only you can rebuild and determine the fate of the
+ Wasteland. Welcome home.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Fallout 4
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
