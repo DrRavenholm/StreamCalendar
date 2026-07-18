@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-23862211@dr-ravenholm
 DTSTAMP:20260619T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260710T203000Z
 DTEND:20260710T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 15 - The Frontier Makes Hard Men and
@@ -24,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23872211@dr-ravenholm
 DTSTAMP:20260620T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260711T203000Z
 DTEND:20260711T223000Z
 SUMMARY:Fallout 4 | Ep. 53 - Taking a Nice Relaxing Trip to Far Harbor
@@ -41,7 +41,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23882211@dr-ravenholm
 DTSTAMP:20260621T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260712T203000Z
 DTEND:20260712T223000Z
 SUMMARY:Movie Night | Ep. 72 - Yellowbeard (1983)
@@ -56,7 +56,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23892211@dr-ravenholm
 DTSTAMP:20260622T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260713T203000Z
 DTEND:20260713T223000Z
 SUMMARY:Construction Simulator | Ep. 39 - Mind the Gap... We Haven't Built
@@ -75,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23902211@dr-ravenholm
 DTSTAMP:20260623T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260714T203000Z
 DTEND:20260714T223000Z
 SUMMARY:Dune: Awakening | Ep. 29 - The Cheese Must Flow. Everything Else
@@ -95,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23912211@dr-ravenholm
 DTSTAMP:20260624T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260715T203000Z
 DTEND:20260715T223000Z
 SUMMARY:Sniper Elite III | Ep. 8 - Ratte Factory
@@ -112,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23922211@dr-ravenholm
 DTSTAMP:20260625T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260716T203000Z
 DTEND:20260715T233000Z
 SUMMARY:Librarian: Tidy Up the Arcane Library! | Please Return All
@@ -130,27 +130,9 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stream-23932211@dr-ravenholm
-DTSTAMP:20260626T010000Z
-LAST-MODIFIED:20260717T164400Z
-DTSTART:20260717T203000Z
-DTEND:20260717T223000Z
-SUMMARY:Red Dead Redemption II | Ep. 16 - A Cold Campfire and a Warm
- Revolver
-DESCRIPTION:Back into the frontier where survival isn't guaranteed, trust
- is earned, and every journey tells another unforgettable story. Arthur
- Morgan and the Van der Linde Gang are outlaws on the run. With federal
- agents and bounty hunters massing on their heels, the gang must rob,
- steal, and fight their way across the rugged heartland in order to survive.
-URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Red Dead Redemption II
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-23942211@dr-ravenholm
 DTSTAMP:20260627T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260718T203000Z
 DTEND:20260718T223000Z
 SUMMARY:Fallout 4 | Ep. 54 - Far Harbor Seems Lovely This Time of Year
@@ -168,10 +150,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23952211@dr-ravenholm
 DTSTAMP:20260628T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260719T203000Z
 DTEND:20260719T223000Z
-SUMMARY:Movie Night | Ep. 73 - Hot Shots! (1991)
+SUMMARY:Movie Night | Ep. 73 - Merlin (1998) - Part 1
 DESCRIPTION:We wrap up another fantastic week with an action-comedy
  classic. Grab your favourite snacks, settle in, and enjoy another relaxing
  Movie Night with the community. Meet you all on Discord for Movie Night.
@@ -183,11 +165,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23962211@dr-ravenholm
 DTSTAMP:20260629T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260720T203000Z
 DTEND:20260720T223000Z
-SUMMARY:Construction Simulator | Ep. 40
-DESCRIPTION: Construction Simulator is back - bigger and better than ever!
+SUMMARY:Construction Simulator | Ep. 40 - Today's Forecast: 100% Chance of
+ Concrete
+DESCRIPTION:Construction continues with another evening of heavy
+ machinery, ambitious projects, and enough concrete to pave several
+ lifetimes. Construction Simulator is back - bigger and better than ever!
  Take charge of over 70 machines, dozens of them brand new to the
  franchise, and build to your heart's content on two huge maps - on your
  own or with your friends!
@@ -199,15 +184,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23972211@dr-ravenholm
 DTSTAMP:20260630T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260721T203000Z
 DTEND:20260721T223000Z
-SUMMARY:WET | Ep. 1
-DESCRIPTION: A stylish action shooter that blends fast-paced gunplay,
- sword combat, and cinematic acrobatics. Players follow mercenary Rubi
- Malone as she takes on dangerous jobs, battling through waves of enemies
- using slow-motion stunts inspired by classic action films. Expect
- explosive set pieces, over-the-top action, and plenty of style.
+SUMMARY:WET | Ep. 1 - Cool People Don't Use Stairs
+DESCRIPTION:A brand-new series begins! It's time for stylish action,
+ outrageous stunts, and discovering whether running across walls is a valid
+ health and safety strategy. A stylish action shooter that blends
+ fast-paced gunplay, sword combat, and cinematic acrobatics. Players follow
+ mercenary Rubi Malone as she takes on dangerous jobs, battling through
+ waves of enemies using slow-motion stunts inspired by classic action
+ films. Expect explosive set pieces, over-the-top action, and plenty of
+ style.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:WET
 STATUS:CONFIRMED
@@ -216,11 +204,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23982211@dr-ravenholm
 DTSTAMP:20260701T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260722T203000Z
 DTEND:20260722T223000Z
 SUMMARY:Sniper Elite III | Ep. 9 - Target Hitler: Hunt the Grey Wolf DLC
-DESCRIPTION: Sniper Elite 3 is a tactical third-person shooter that
+DESCRIPTION:One of the most iconic missions in the series awaits. Stealth,
+ patience, and precision are the order of the day as we tackle this
+ legendary DLC. Sniper Elite 3 is a tactical third-person shooter that
  combines stealth, gameplay choice and genre-defining ballistics with huge,
  open levels and the exotic terrain of World War 2 North Africa.
 URL:https://www.twitch.tv/dr_ravenholm
@@ -231,14 +221,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23992211@dr-ravenholm
 DTSTAMP:20260702T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260723T203000Z
 DTEND:20260723T223000Z
 SUMMARY:DrainSim | Ep. 2 - She's Chock-a-Block, This One
-DESCRIPTION: Dive into DrainSim and seize control of the floods! Clear the
- city's submerged streets, with a huge range of different tools from rakes
- to submersible pumps. Embrace the satisfaction of restoring the water
- flow. Become the city's hero, one drain at a time.
+DESCRIPTION:Back into the wonderfully satisfying world of drainage
+ maintenance. Time to solve another blocked drain and probably become far
+ too invested in pipe inspections. Dive into DrainSim and seize control of
+ the floods! Clear the city's submerged streets, with a huge range of
+ different tools from rakes to submersible pumps. Embrace the satisfaction
+ of restoring the water flow. Become the city's hero, one drain at a time.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:DrainSim
 STATUS:CONFIRMED
@@ -247,15 +239,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24002211@dr-ravenholm
 DTSTAMP:20260703T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260724T203000Z
 DTEND:20260724T223000Z
-SUMMARY:Red Dead Redemption II | Ep. 17 - Every Trail Leads to Trouble
- Eventually
-DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
- run. With federal agents and bounty hunters massing on their heels, the
- gang must rob, steal, and fight their way across the rugged heartland in
- order to survive.
+SUMMARY:Red Dead Redemption II | Ep. 16 - A Cold Campfire and a Warm
+ Revolver
+DESCRIPTION:The journey across the frontier continues, bringing more
+ unforgettable storytelling, difficult choices, and quiet moments before
+ the next storm. Arthur Morgan and the Van der Linde Gang are outlaws on
+ the run. With federal agents and bounty hunters massing on their heels,
+ the gang must rob, steal, and fight their way across the rugged heartland
+ in order to survive.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
@@ -264,11 +258,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24012211@dr-ravenholm
 DTSTAMP:20260704T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260725T203000Z
 DTEND:20260725T223000Z
 SUMMARY:Fallout 4 | Ep. 55 - The Brochure Forgot to Mention the Monsters
-DESCRIPTION: As the sole survivor of Vault 111, you enter a world
+DESCRIPTION:Far Harbor continues to surprise us. Beautiful scenery,
+ mysterious locals... and creatures that definitely weren't listed in the
+ travel brochure. As the sole survivor of Vault 111, you enter a world
  destroyed by nuclear war. Every second is a fight for survival, and every
  choice is yours. Only you can rebuild and determine the fate of the
  Wasteland. Welcome home.
@@ -280,11 +276,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24022211@dr-ravenholm
 DTSTAMP:20260705T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260726T203000Z
 DTEND:20260726T223000Z
-SUMMARY:Movie Night | Ep. 74 - Hot Shots! Part Deux (1993)
-DESCRIPTION: Meet you all on Discord for Movie Night.
+SUMMARY:Movie Night | Ep. 74 - Merlin (1998) - Part 2
+DESCRIPTION:We conclude the epic fantasy adventure with Part 2 of Merlin.
+ Grab your favourite snacks and join us for another cozy community movie
+ night. Meet you all on Discord for Movie Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
 STATUS:CONFIRMED
@@ -293,10 +291,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24032211@dr-ravenholm
 DTSTAMP:20260706T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260727T203000Z
 DTEND:20260727T223000Z
-SUMMARY:Construction Simulator | Ep. 41
+SUMMARY:Construction Simulator | Ep. 41 - Nothing's More Permanent Than a
+ Temporary Barrier
 DESCRIPTION: Construction Simulator is back - bigger and better than ever!
  Take charge of over 70 machines, dozens of them brand new to the
  franchise, and build to your heart's content on two huge maps - on your
@@ -309,10 +308,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24042211@dr-ravenholm
 DTSTAMP:20260707T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260728T203000Z
 DTEND:20260728T223000Z
-SUMMARY:WET | Ep. 2
+SUMMARY:WET | Ep. 2 - Cool People Don't Use Stairs
 DESCRIPTION: A stylish action shooter that blends fast-paced gunplay,
  sword combat, and cinematic acrobatics. Players follow mercenary Rubi
  Malone as she takes on dangerous jobs, battling through waves of enemies
@@ -326,7 +325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24052211@dr-ravenholm
 DTSTAMP:20260708T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260729T203000Z
 DTEND:20260729T223000Z
 SUMMARY:Sniper Elite III | Ep. 10 - Save Churchill Part 1: In Shadows DLC
@@ -341,26 +340,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24062211@dr-ravenholm
 DTSTAMP:20260709T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260730T203000Z
 DTEND:20260730T223000Z
-SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 1
-DESCRIPTION: A magical storybook adventure following a young Cereza, long
- before she became the legendary Bayonetta. Alongside her demon companion
- Cheshire, she explores an enchanted forest filled with puzzles, secrets,
- and dangerous creatures in a beautifully illustrated fantasy world.
+SUMMARY:DrainSim | Ep. 3 - That's a Beauty of a Blockage down at the
+ Construction Site
+DESCRIPTION: Dive into DrainSim and seize control of the floods! Clear the
+ city's submerged streets, with a huge range of different tools from rakes
+ to submersible pumps. Embrace the satisfaction of restoring the water
+ flow. Become the city's hero, one drain at a time.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Bayonetta Origins: Cereza and the Lost Demon
+CATEGORIES:DrainSim
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-24072211@dr-ravenholm
 DTSTAMP:20260710T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260731T203000Z
 DTEND:20260731T223000Z
-SUMMARY:Red Dead Redemption II | Ep. 18
+SUMMARY:Red Dead Redemption II | Ep. 17 - Every Trail Leads to Trouble
+ Eventually
 DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
  run. With federal agents and bounty hunters massing on their heels, the
  gang must rob, steal, and fight their way across the rugged heartland in
@@ -373,7 +374,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24082211@dr-ravenholm
 DTSTAMP:20260711T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260801T203000Z
 DTEND:20260801T223000Z
 SUMMARY:Fallout 4 | Ep. 56 - Going to Far Harbor Because Bad Decisions
@@ -390,10 +391,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24092211@dr-ravenholm
 DTSTAMP:20260712T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260802T203000Z
 DTEND:20260802T223000Z
-SUMMARY:Movie Night | Ep. 75 - Spy Hard (1996)
+SUMMARY:Movie Night | Ep. 75 - Hot Shots! (1991)
 DESCRIPTION: Meet you all on Discord for Movie Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
@@ -403,7 +404,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24102211@dr-ravenholm
 DTSTAMP:20260713T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260803T203000Z
 DTEND:20260803T223000Z
 SUMMARY:Construction Simulator | Ep. 42
@@ -419,10 +420,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24112211@dr-ravenholm
 DTSTAMP:20260714T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260804T203000Z
 DTEND:20260804T223000Z
-SUMMARY:WET | Ep. 3
+SUMMARY:WET | Ep. 3 - The Walls Are Just Extra Footpaths
 DESCRIPTION: A stylish action shooter that blends fast-paced gunplay,
  sword combat, and cinematic acrobatics. Players follow mercenary Rubi
  Malone as she takes on dangerous jobs, battling through waves of enemies
@@ -436,7 +437,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24122211@dr-ravenholm
 DTSTAMP:20260715T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260805T203000Z
 DTEND:20260805T223000Z
 SUMMARY:Sniper Elite III | Ep. 11 - Save Churchill Part 2: Belly of the
@@ -452,10 +453,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24132211@dr-ravenholm
 DTSTAMP:20260716T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260806T203000Z
 DTEND:20260806T223000Z
-SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2
+SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 1
 DESCRIPTION: A magical storybook adventure following a young Cereza, long
  before she became the legendary Bayonetta. Alongside her demon companion
  Cheshire, she explores an enchanted forest filled with puzzles, secrets,
@@ -468,10 +469,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24142211@dr-ravenholm
 DTSTAMP:20260717T010000Z
-LAST-MODIFIED:20260717T164400Z
+LAST-MODIFIED:20260718T111300Z
 DTSTART:20260807T203000Z
 DTEND:20260807T223000Z
-SUMMARY:Red Dead Redemption II | Ep. 19
+SUMMARY:Red Dead Redemption II | Ep. 18
 DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
  run. With federal agents and bounty hunters massing on their heels, the
  gang must rob, steal, and fight their way across the rugged heartland in
