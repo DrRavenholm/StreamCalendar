@@ -4,29 +4,9 @@ PRODID:-////Stream Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:stream-23922211@dr-ravenholm
-DTSTAMP:20260625T010000Z
-LAST-MODIFIED:20260722T232600Z
-DTSTART:20260716T203000Z
-DTEND:20260715T233000Z
-SUMMARY:Librarian: Tidy Up the Arcane Library! | Please Return All
- Grimoires to Their Correct Dimension
-DESCRIPTION:A brand-new magical adventure begins! Tonight we're taking on
- the impossible task of organising an arcane library where the books have a
- habit of escaping reality. What could possibly go wrong? Librarian: Tidy
- Up the Arcane Library! is a single-player simulation. You need return
- scattered books to proper places in an Arcane Library. As completed rows
- of bookshelves, you can learn ability to improve your efficiency. Use your
- skills and strategies to shelve 3,072 books as quick as you can.
-URL:https://www.youtube.com/watch?v=TiFRF9yfh0w
-CATEGORIES:Librarian: Tidy Up the Arcane Library!
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-23942211@dr-ravenholm
 DTSTAMP:20260627T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260718T203000Z
 DTEND:20260718T223000Z
 SUMMARY:Fallout 4 | Ep. 54 - Far Harbor Seems Lovely This Time of Year
@@ -44,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23952211@dr-ravenholm
 DTSTAMP:20260628T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260719T203000Z
 DTEND:20260719T223000Z
 SUMMARY:Movie Night | Ep. 73 - Merlin (1998)
@@ -59,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23962211@dr-ravenholm
 DTSTAMP:20260629T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260720T203000Z
 DTEND:20260720T223000Z
 SUMMARY:Construction Simulator | Ep. 40 - Today's Forecast: 100% Chance of
@@ -78,7 +58,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23972211@dr-ravenholm
 DTSTAMP:20260630T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260721T203000Z
 DTEND:20260721T223000Z
 SUMMARY:DrainSim | Ep. 2 - She's Chock-a-Block, This One
@@ -96,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-23982211@dr-ravenholm
 DTSTAMP:20260701T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260722T203000Z
 DTEND:20260722T223000Z
 SUMMARY:Sniper Elite III | Ep. 9 - Target Hitler: Hunt the Grey Wolf DLC
@@ -105,35 +85,15 @@ DESCRIPTION:One of the most iconic missions in the series awaits. Stealth,
  legendary DLC. Sniper Elite 3 is a tactical third-person shooter that
  combines stealth, gameplay choice and genre-defining ballistics with huge,
  open levels and the exotic terrain of World War 2 North Africa.
-URL:https://www.twitch.tv/dr_ravenholm
+URL:https://www.youtube.com/watch?v=YQ_ivq3PoAE
 CATEGORIES:Sniper Elite III
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:stream-23992211@dr-ravenholm
-DTSTAMP:20260702T010000Z
-LAST-MODIFIED:20260722T232600Z
-DTSTART:20260723T203000Z
-DTEND:20260723T223000Z
-SUMMARY:WET | Ep. 1 - Cool People Don't Use Stairs
-DESCRIPTION:A brand-new series begins! It's time for stylish action,
- outrageous stunts, and discovering whether running across walls is a valid
- health and safety strategy. A stylish action shooter that blends
- fast-paced gunplay, sword combat, and cinematic acrobatics. Players follow
- mercenary Rubi Malone as she takes on dangerous jobs, battling through
- waves of enemies using slow-motion stunts inspired by classic action
- films. Expect explosive set pieces, over-the-top action, and plenty of
- style.
-URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:WET
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-24002211@dr-ravenholm
 DTSTAMP:20260703T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260724T203000Z
 DTEND:20260724T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 16 - A Cold Campfire and a Warm
@@ -152,7 +112,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24012211@dr-ravenholm
 DTSTAMP:20260704T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260725T203000Z
 DTEND:20260725T223000Z
 SUMMARY:Fallout 4 | Ep. 55 - The Brochure Forgot to Mention the Monsters
@@ -170,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24022211@dr-ravenholm
 DTSTAMP:20260705T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260726T203000Z
 DTEND:20260726T223000Z
 SUMMARY:Movie Night | Ep. 74 - Hot Shots! (1991)
@@ -185,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24032211@dr-ravenholm
 DTSTAMP:20260706T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260727T203000Z
 DTEND:20260727T223000Z
 SUMMARY:Construction Simulator | Ep. 41 - Nothing's More Permanent Than a
@@ -202,10 +162,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24042211@dr-ravenholm
 DTSTAMP:20260707T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260728T203000Z
 DTEND:20260728T223000Z
-SUMMARY:WET | Ep. 2 - Cool People Don't Use Stairs
+SUMMARY:WET | Ep. 1 - Cool People Don't Use Stairs
 DESCRIPTION: A stylish action shooter that blends fast-paced gunplay,
  sword combat, and cinematic acrobatics. Players follow mercenary Rubi
  Malone as she takes on dangerous jobs, battling through waves of enemies
@@ -219,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24052211@dr-ravenholm
 DTSTAMP:20260708T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260729T203000Z
 DTEND:20260729T223000Z
 SUMMARY:Sniper Elite III | Ep. 10 - Save Churchill Part 1: In Shadows DLC
@@ -234,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24062211@dr-ravenholm
 DTSTAMP:20260709T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260730T203000Z
 DTEND:20260730T223000Z
 SUMMARY:DrainSim | Ep. 3 - That's a Beauty of a Blockage down at the
@@ -251,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24072211@dr-ravenholm
 DTSTAMP:20260710T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260731T203000Z
 DTEND:20260731T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 17 - Every Trail Leads to Trouble
@@ -268,7 +228,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24082211@dr-ravenholm
 DTSTAMP:20260711T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260801T203000Z
 DTEND:20260801T223000Z
 SUMMARY:Fallout 4 | Ep. 56 - Going to Far Harbor Because Bad Decisions
@@ -285,7 +245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24092211@dr-ravenholm
 DTSTAMP:20260712T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260802T203000Z
 DTEND:20260802T223000Z
 SUMMARY:Movie Night | Ep. 75 - Hot Shots! Part Deux (1993)
@@ -298,7 +258,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24102211@dr-ravenholm
 DTSTAMP:20260713T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260803T203000Z
 DTEND:20260803T223000Z
 SUMMARY:Construction Simulator | Ep. 42
@@ -314,10 +274,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24112211@dr-ravenholm
 DTSTAMP:20260714T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260804T203000Z
 DTEND:20260804T223000Z
-SUMMARY:WET | Ep. 3 - The Walls Are Just Extra Footpaths
+SUMMARY:WET | Ep. 2 - Cool People Don't Use Stairs
 DESCRIPTION: A stylish action shooter that blends fast-paced gunplay,
  sword combat, and cinematic acrobatics. Players follow mercenary Rubi
  Malone as she takes on dangerous jobs, battling through waves of enemies
@@ -331,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24122211@dr-ravenholm
 DTSTAMP:20260715T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260805T203000Z
 DTEND:20260805T223000Z
 SUMMARY:Sniper Elite III | Ep. 11 - Save Churchill Part 2: Belly of the
@@ -347,7 +307,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24132211@dr-ravenholm
 DTSTAMP:20260716T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260806T203000Z
 DTEND:20260806T223000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 1
@@ -363,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24142211@dr-ravenholm
 DTSTAMP:20260717T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260807T203000Z
 DTEND:20260807T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 18
@@ -379,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24152211@dr-ravenholm
 DTSTAMP:20260718T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260808T203000Z
 DTEND:20260808T223000Z
 SUMMARY:Fallout 4 | Ep. 57
@@ -395,7 +355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24162211@dr-ravenholm
 DTSTAMP:20260719T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260809T203000Z
 DTEND:20260809T223000Z
 SUMMARY:Movie Night | Ep. 76 - Spy Hard (1996)
@@ -408,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24172211@dr-ravenholm
 DTSTAMP:20260720T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260810T203000Z
 DTEND:20260810T223000Z
 SUMMARY:Construction Simulator | Ep. 43
@@ -422,9 +382,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stream-24182211@dr-ravenholm
+DTSTAMP:20260721T010000Z
+LAST-MODIFIED:20260723T232400Z
+DTSTART:20260811T203000Z
+DTEND:20260811T223000Z
+SUMMARY:WET | Ep. 3 - The Walls Are Just Extra Footpaths
+DESCRIPTION: A stylish action shooter that blends fast-paced gunplay,
+ sword combat, and cinematic acrobatics. Players follow mercenary Rubi
+ Malone as she takes on dangerous jobs, battling through waves of enemies
+ using slow-motion stunts inspired by classic action films. Expect
+ explosive set pieces, over-the-top action, and plenty of style.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:WET
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stream-24192211@dr-ravenholm
 DTSTAMP:20260722T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260812T203000Z
 DTEND:20260812T223000Z
 SUMMARY:Sniper Elite III | Ep. 12 - Save Churchill Part 3: Confrontation
@@ -440,7 +417,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24202211@dr-ravenholm
 DTSTAMP:20260723T010000Z
-LAST-MODIFIED:20260722T232600Z
+LAST-MODIFIED:20260723T232400Z
 DTSTART:20260813T203000Z
 DTEND:20260813T223000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2
@@ -450,6 +427,22 @@ DESCRIPTION: A magical storybook adventure following a young Cereza, long
  and dangerous creatures in a beautifully illustrated fantasy world.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Bayonetta Origins: Cereza and the Lost Demon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-24212211@dr-ravenholm
+DTSTAMP:20260724T010000Z
+LAST-MODIFIED:20260723T232400Z
+DTSTART:20260814T203000Z
+DTEND:20260814T223000Z
+SUMMARY:Red Dead Redemption II | Ep. 19
+DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
+ run. With federal agents and bounty hunters massing on their heels, the
+ gang must rob, steal, and fight their way across the rugged heartland in
+ order to survive.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
