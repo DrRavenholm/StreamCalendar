@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-24202211@dr-ravenholm
 DTSTAMP:20260723T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260813T203000Z
 DTEND:20260813T223000Z
 SUMMARY:IRON NEST: Heavy Turret Simulator | Ep. 1 - Today's Forecast:
@@ -27,7 +27,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24212211@dr-ravenholm
 DTSTAMP:20260724T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260814T203000Z
 DTEND:20260814T223000Z
 SUMMARY:WET | Ep. 2 - Fast, Loud, and Slightly Out of Control
@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24222211@dr-ravenholm
 DTSTAMP:20260725T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260815T203000Z
 DTEND:20260815T223000Z
 SUMMARY:Fallout 4 | Ep. 58 - Beautiful Island, Shame About Everything
@@ -66,7 +66,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24232211@dr-ravenholm
 DTSTAMP:20260726T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260816T203000Z
 DTEND:20260816T223000Z
 SUMMARY:Movie Night | Ep. 77 - Ace Ventura: When Nature Calls (1995)
@@ -81,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24252211@dr-ravenholm
 DTSTAMP:20260728T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260818T203000Z
 DTEND:20260818T223000Z
 SUMMARY:Funnel Runners | Ep. 1 - It's Coming! It's Headed Right for Us!
@@ -100,18 +100,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24272211@dr-ravenholm
 DTSTAMP:20260730T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260820T203000Z
 DTEND:20260820T223000Z
 SUMMARY:Deliverage | Ep. 1 - Nothing Suspicious Happening in This Alley,
  Officer
-DESCRIPTION:We're heading back into the beautiful and mysterious Avalon
- Forest with Cereza and Cheshire. There are magical creatures everywhere,
- but no, Cheshire, that does not mean we're adopting all of them.
- Deliverage is a hardcore open-world PvP delivery game where every shipment
- is a gamble. Fight other players for valuable cargo, repair and modify
- fragile vehicles, outplay rivals in a shifting economy, and climb from
- nothing to the top of a ruthless world.
+DESCRIPTION:A brand-new series begins, and everything is completely
+ legitimate. We're simply making deliveries. At night. In suspicious
+ alleys. Please stop asking questions and definitely don't look in the
+ package. Deliverage is a hardcore open-world PvP delivery game where every
+ shipment is a gamble. Fight other players for valuable cargo, repair and
+ modify fragile vehicles, outplay rivals in a shifting economy, and climb
+ from nothing to the top of a ruthless world.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Deliverage
 STATUS:CONFIRMED
@@ -120,17 +120,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24282211@dr-ravenholm
 DTSTAMP:20260731T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260821T203000Z
 DTEND:20260821T223000Z
 SUMMARY:WET | Ep. 3 - The Walls Are Just Extra Footpaths
-DESCRIPTION:Back to Saint Denis, where civilisation, crowded streets,
- money, politics, and the law make life increasingly complicated for people
- accustomed to solving problems from horseback. A stylish action shooter
- that blends fast-paced gunplay, sword combat, and cinematic acrobatics.
- Players follow mercenary Rubi Malone as she takes on dangerous jobs,
- battling through waves of enemies using slow-motion stunts inspired by
- classic action films. Expect explosive set pieces, over-the-top action,
+DESCRIPTION:Rubí returns for another evening of spectacularly unnecessary
+ acrobatics, cinematic gunfights, slow-motion destruction, and further
+ evidence that walking normally is for other people. A stylish action
+ shooter that blends fast-paced gunplay, sword combat, and cinematic
+ acrobatics. Players follow mercenary Rubi Malone as she takes on dangerous
+ jobs, battling through waves of enemies using slow-motion stunts inspired
+ by classic action films. Expect explosive set pieces, over-the-top action,
  and plenty of style.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:WET
@@ -140,7 +140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24292211@dr-ravenholm
 DTSTAMP:20260801T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260822T203000Z
 DTEND:20260822T223000Z
 SUMMARY:Fallout 4 | Ep. 59 - Come for the Seafood, Stay Because Something
@@ -159,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24302211@dr-ravenholm
 DTSTAMP:20260802T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260823T203000Z
 DTEND:20260823T223000Z
 SUMMARY:Movie Night | Ep. 78 - Red (2010)
@@ -175,7 +175,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24312211@dr-ravenholm
 DTSTAMP:20260803T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260824T203000Z
 DTEND:20260824T223000Z
 SUMMARY:Construction Simulator | Ep. 44 - All This Work So Someone Can
@@ -192,7 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24332211@dr-ravenholm
 DTSTAMP:20260805T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260826T203000Z
 DTEND:20260826T223000Z
 SUMMARY:Sniper Elite | Ep. 1 - Karlshorst
@@ -208,7 +208,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24342211@dr-ravenholm
 DTSTAMP:20260806T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260827T203000Z
 DTEND:20260827T223000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
@@ -225,7 +225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24352211@dr-ravenholm
 DTSTAMP:20260807T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260828T203000Z
 DTEND:20260828T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 18 - Saint Denis Ain't No Place for
@@ -242,7 +242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24362211@dr-ravenholm
 DTSTAMP:20260808T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260829T203000Z
 DTEND:20260829T223000Z
 SUMMARY:Fallout 4 | Ep. 60
@@ -258,7 +258,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24372211@dr-ravenholm
 DTSTAMP:20260809T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260830T203000Z
 DTEND:20260830T223000Z
 SUMMARY:Movie Night | Ep. 79
@@ -271,7 +271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24382211@dr-ravenholm
 DTSTAMP:20260810T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260831T203000Z
 DTEND:20260831T223000Z
 SUMMARY:Deliverage | Ep. 2 - Another Completely Legal Transaction Behind
@@ -288,7 +288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24392211@dr-ravenholm
 DTSTAMP:20260811T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260901T203000Z
 DTEND:20260901T223000Z
 SUMMARY:The Oregon Trail | Ep. 4
@@ -318,7 +318,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24402211@dr-ravenholm
 DTSTAMP:20260812T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260902T203000Z
 DTEND:20260902T223000Z
 SUMMARY:Sniper Elite | Ep. 2 - Assassinate Bormann
@@ -334,7 +334,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24412211@dr-ravenholm
 DTSTAMP:20260813T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260903T203000Z
 DTEND:20260903T223000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 3
@@ -350,7 +350,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24422211@dr-ravenholm
 DTSTAMP:20260814T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260904T203000Z
 DTEND:20260904T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 19 - Sun's Going Down. Best Settle
@@ -367,7 +367,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24442211@dr-ravenholm
 DTSTAMP:20260816T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260906T203000Z
 DTEND:20260906T223000Z
 SUMMARY:Movie Night | Ep. 80
@@ -380,7 +380,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24452211@dr-ravenholm
 DTSTAMP:20260817T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260907T203000Z
 DTEND:20260907T223000Z
 SUMMARY:Construction Simulator | Ep. 45 - Building a Service Area Worth
@@ -397,7 +397,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24472211@dr-ravenholm
 DTSTAMP:20260819T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260909T203000Z
 DTEND:20260909T223000Z
 SUMMARY:Sniper Elite | Ep. 3 - Extract Agent
@@ -413,7 +413,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24482211@dr-ravenholm
 DTSTAMP:20260820T010000Z
-LAST-MODIFIED:20260820T003800Z
+LAST-MODIFIED:20260820T211600Z
 DTSTART:20260910T203000Z
 DTEND:20260910T223000Z
 SUMMARY:Crime Scene Cleaner | Ep. 17 - I Cleaned One Spot and Uncovered
