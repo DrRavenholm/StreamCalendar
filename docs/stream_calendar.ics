@@ -4,29 +4,9 @@ PRODID:-////Stream Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:stream-24212211@dr-ravenholm
-DTSTAMP:20260724T010000Z
-LAST-MODIFIED:20260821T171400Z
-DTSTART:20260814T203000Z
-DTEND:20260814T223000Z
-SUMMARY:WET | Ep. 2 - Fast, Loud, and Slightly Out of Control
-DESCRIPTION:More stylish action awaits as we return for Episode 2. Expect
- acrobatic gunfights, outrageous stunts, slow-motion chaos, and continued
- refusal to navigate buildings like a normal person. A stylish action
- shooter that blends fast-paced gunplay, sword combat, and cinematic
- acrobatics. Players follow mercenary Rubi Malone as she takes on dangerous
- jobs, battling through waves of enemies using slow-motion stunts inspired
- by classic action films. Expect explosive set pieces, over-the-top action,
- and plenty of style.
-URL:https://www.youtube.com/watch?v=z0YONMXJlPs
-CATEGORIES:WET
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-24222211@dr-ravenholm
 DTSTAMP:20260725T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260815T203000Z
 DTEND:20260815T223000Z
 SUMMARY:Fallout 4 | Ep. 58 - Beautiful Island, Shame About Everything
@@ -45,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24232211@dr-ravenholm
 DTSTAMP:20260726T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260816T203000Z
 DTEND:20260816T223000Z
 SUMMARY:Movie Night | Ep. 77 - Ace Ventura: When Nature Calls (1995)
@@ -60,7 +40,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24252211@dr-ravenholm
 DTSTAMP:20260728T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260818T203000Z
 DTEND:20260818T223000Z
 SUMMARY:Funnel Runners | Ep. 1 - It's Coming! It's Headed Right for Us!
@@ -79,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24272211@dr-ravenholm
 DTSTAMP:20260730T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260820T203000Z
 DTEND:20260820T223000Z
 SUMMARY:Deliverage | Ep. 1 - Nothing Suspicious Happening in This Alley,
@@ -97,29 +77,9 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stream-24282211@dr-ravenholm
-DTSTAMP:20260731T010000Z
-LAST-MODIFIED:20260821T171400Z
-DTSTART:20260821T203000Z
-DTEND:20260821T223000Z
-SUMMARY:WET | Ep. 3 - The Walls Are Just Extra Footpaths
-DESCRIPTION:Rubí returns for another evening of spectacularly unnecessary
- acrobatics, cinematic gunfights, slow-motion destruction, and further
- evidence that walking normally is for other people. A stylish action
- shooter that blends fast-paced gunplay, sword combat, and cinematic
- acrobatics. Players follow mercenary Rubi Malone as she takes on dangerous
- jobs, battling through waves of enemies using slow-motion stunts inspired
- by classic action films. Expect explosive set pieces, over-the-top action,
- and plenty of style.
-URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:WET
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-24292211@dr-ravenholm
 DTSTAMP:20260801T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260822T203000Z
 DTEND:20260822T223000Z
 SUMMARY:Fallout 4 | Ep. 59 - Come for the Seafood, Stay Because Something
@@ -138,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24302211@dr-ravenholm
 DTSTAMP:20260802T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260823T203000Z
 DTEND:20260823T223000Z
 SUMMARY:Movie Night | Ep. 78 - Red (2010)
@@ -154,31 +114,57 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24312211@dr-ravenholm
 DTSTAMP:20260803T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260824T203000Z
 DTEND:20260824T223000Z
 SUMMARY:Construction Simulator | Ep. 44 - All This Work So Someone Can
  Stop for a Sandwich
-DESCRIPTION: Construction Simulator is back - bigger and better than ever!
- Take charge of over 70 machines, dozens of them brand new to the
- franchise, and build to your heart's content on two huge maps - on your
- own or with your friends!
+DESCRIPTION:We're back on the construction site, putting countless hours,
+ tonnes of materials, and enormous pieces of heavy machinery into creating
+ something truly important: somewhere people can stop for a sandwich.
+ Construction Simulator is back - bigger and better than ever! Take charge
+ of over 70 machines, dozens of them brand new to the franchise, and build
+ to your heart's content on two huge maps - on your own or with your
+ friends!
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Construction Simulator
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stream-24322211@dr-ravenholm
+DTSTAMP:20260804T010000Z
+LAST-MODIFIED:20260822T172300Z
+DTSTART:20260825T203000Z
+DTEND:20260825T223000Z
+SUMMARY:WET | Ep. 3 - The Walls Are Just Extra Footpaths
+DESCRIPTION:Rubi returns for another evening of spectacularly unnecessary
+ acrobatics, cinematic gunfights, slow-motion action, and further proof
+ that floors are apparently optional. A stylish action shooter that blends
+ fast-paced gunplay, sword combat, and cinematic acrobatics. Players follow
+ mercenary Rubi Malone as she takes on dangerous jobs, battling through
+ waves of enemies using slow-motion stunts inspired by classic action
+ films. Expect explosive set pieces, over-the-top action, and plenty of
+ style.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:WET
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stream-24332211@dr-ravenholm
 DTSTAMP:20260805T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260826T203000Z
 DTEND:20260826T223000Z
 SUMMARY:Sniper Elite | Ep. 1 - Karlshorst
-DESCRIPTION: As World War II draws to a close, the first covert battles of
- the Cold War begin. Caught in the life and death struggle between Soviets
- and Germans in war-torn Berlin, you control the fate of a lone American
- OSS Sniper.
+DESCRIPTION:A brand-new series begins as we head back to where it all
+ started with the original Sniper Elite. Our first mission takes us to
+ Karlshorst for classic stealth, tactical planning, and some decidedly
+ old-school sniping. As World War II draws to a close, the first covert
+ battles of the Cold War begin. Caught in the life and death struggle
+ between Soviets and Germans in war-torn Berlin, you control the fate of a
+ lone American OSS Sniper.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Sniper Elite
 STATUS:CONFIRMED
@@ -187,15 +173,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24342211@dr-ravenholm
 DTSTAMP:20260806T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260827T203000Z
 DTEND:20260827T223000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
  We Are NOT Keeping Whatever That Is
-DESCRIPTION: A magical storybook adventure following a young Cereza, long
- before she became the legendary Bayonetta. Alongside her demon companion
- Cheshire, she explores an enchanted forest filled with puzzles, secrets,
- and dangerous creatures in a beautifully illustrated fantasy world.
+DESCRIPTION:Back into the mysterious forest with Cereza and Cheshire for
+ more magical exploration, puzzles, strange creatures, and continued
+ negotiations over what we're absolutely not taking home with us. A magical
+ storybook adventure following a young Cereza, long before she became the
+ legendary Bayonetta. Alongside her demon companion Cheshire, she explores
+ an enchanted forest filled with puzzles, secrets, and dangerous creatures
+ in a beautifully illustrated fantasy world.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Bayonetta Origins: Cereza and the Lost Demon
 STATUS:CONFIRMED
@@ -204,15 +193,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24352211@dr-ravenholm
 DTSTAMP:20260807T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260828T203000Z
 DTEND:20260828T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 18 - Saint Denis Ain't No Place for
  Men Like Us
-DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
- run. With federal agents and bounty hunters massing on their heels, the
- gang must rob, steal, and fight their way across the rugged heartland in
- order to survive.
+DESCRIPTION:Our journey through Saint Denis continues as civilisation
+ closes in around the gang. The streets are crowded, the law is everywhere,
+ and trouble never seems very far away. Arthur Morgan and the Van der Linde
+ Gang are outlaws on the run. With federal agents and bounty hunters
+ massing on their heels, the gang must rob, steal, and fight their way
+ across the rugged heartland in order to survive.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
@@ -221,11 +212,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24362211@dr-ravenholm
 DTSTAMP:20260808T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260829T203000Z
 DTEND:20260829T223000Z
-SUMMARY:Fallout 4 | Ep. 60
-DESCRIPTION: As the sole survivor of Vault 111, you enter a world
+SUMMARY:Fallout 4 | Ep. 60 - Going Where Todd Howard Never Intended
+DESCRIPTION:Sixty episodes into Fallout 4, and apparently the Commonwealth
+ still hasn't learned to keep me contained. Tonight we're heading beyond
+ sensible exploration and discovering what happens when curiosity beats
+ self-preservation. As the sole survivor of Vault 111, you enter a world
  destroyed by nuclear war. Every second is a fight for survival, and every
  choice is yours. Only you can rebuild and determine the fate of the
  Wasteland. Welcome home.
@@ -237,11 +231,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24372211@dr-ravenholm
 DTSTAMP:20260809T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260830T203000Z
 DTEND:20260830T223000Z
 SUMMARY:Movie Night | Ep. 79
-DESCRIPTION: Meet you all on Discord for Movie Night.
+DESCRIPTION:After a week of concrete, bullets, demons, outlaws, and
+ radioactive adventures, it's time to get comfortable and enjoy another
+ relaxed Sunday Movie Night with the community. Meet you all on Discord for
+ Movie Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
 STATUS:CONFIRMED
@@ -250,7 +247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24382211@dr-ravenholm
 DTSTAMP:20260810T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260831T203000Z
 DTEND:20260831T223000Z
 SUMMARY:Deliverage | Ep. 2 - Another Completely Legal Transaction Behind
@@ -267,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24392211@dr-ravenholm
 DTSTAMP:20260811T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260901T203000Z
 DTEND:20260901T223000Z
 SUMMARY:The Oregon Trail | Ep. 4
@@ -297,7 +294,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24402211@dr-ravenholm
 DTSTAMP:20260812T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260902T203000Z
 DTEND:20260902T223000Z
 SUMMARY:Sniper Elite | Ep. 2 - Assassinate Bormann
@@ -313,7 +310,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24412211@dr-ravenholm
 DTSTAMP:20260813T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260903T203000Z
 DTEND:20260903T223000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 3
@@ -329,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24422211@dr-ravenholm
 DTSTAMP:20260814T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260904T203000Z
 DTEND:20260904T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 19 - Sun's Going Down. Best Settle
@@ -346,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24442211@dr-ravenholm
 DTSTAMP:20260816T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260906T203000Z
 DTEND:20260906T223000Z
 SUMMARY:Movie Night | Ep. 80
@@ -359,7 +356,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24452211@dr-ravenholm
 DTSTAMP:20260817T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260907T203000Z
 DTEND:20260907T223000Z
 SUMMARY:Construction Simulator | Ep. 45 - Building a Service Area Worth
@@ -376,7 +373,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24472211@dr-ravenholm
 DTSTAMP:20260819T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260909T203000Z
 DTEND:20260909T223000Z
 SUMMARY:Sniper Elite | Ep. 3 - Extract Agent
@@ -392,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24482211@dr-ravenholm
 DTSTAMP:20260820T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260910T203000Z
 DTEND:20260910T223000Z
 SUMMARY:Crime Scene Cleaner | Ep. 17 - I Cleaned One Spot and Uncovered
@@ -410,7 +407,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24492211@dr-ravenholm
 DTSTAMP:20260821T010000Z
-LAST-MODIFIED:20260821T171400Z
+LAST-MODIFIED:20260822T172300Z
 DTSTART:20260911T203000Z
 DTEND:20260911T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 20 - There's a Grave Waiting
