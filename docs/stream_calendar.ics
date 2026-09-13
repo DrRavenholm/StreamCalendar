@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-24452211@dr-ravenholm
 DTSTAMP:20260817T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260907T203000Z
 DTEND:20260907T223000Z
 SUMMARY:LEGO Star Trek: U.S.S. Enterprise NCC-1701 Bridge 11385 - Part 3
@@ -28,7 +28,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24472211@dr-ravenholm
 DTSTAMP:20260819T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260909T203000Z
 DTEND:20260909T223000Z
 SUMMARY:Sniper Elite | Ep. 1 - Karlshorst
@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24492211@dr-ravenholm
 DTSTAMP:20260821T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260911T203000Z
 DTEND:20260911T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 18 - Saint Denis Ain't No Place for
@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24502211@dr-ravenholm
 DTSTAMP:20260822T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260912T203000Z
 DTEND:20260912T223000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 1 - I Was Just
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24512211@dr-ravenholm
 DTSTAMP:20260823T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260913T203000Z
 DTEND:20260913T223000Z
 SUMMARY:Movie Night | Ep. 81 - Labyrinth (1986)
@@ -108,15 +108,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24522211@dr-ravenholm
 DTSTAMP:20260824T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260914T203000Z
 DTEND:20260914T223000Z
 SUMMARY:Deliverage | Ep. 2 - Another Completely Legal Transaction Behind
  the Bins
-DESCRIPTION: Deliverage is a hardcore open-world PvP delivery game where
- every shipment is a gamble. Fight other players for valuable cargo, repair
- and modify fragile vehicles, outplay rivals in a shifting economy, and
- climb from nothing to the top of a ruthless world.
+DESCRIPTION:We're back in the delivery business, and everything remains
+ entirely above board. We're simply meeting people behind bins, exchanging
+ packages, and going about our perfectly ordinary working day. Please stop
+ looking at us like that. Deliverage is a hardcore open-world PvP delivery
+ game where every shipment is a gamble. Fight other players for valuable
+ cargo, repair and modify fragile vehicles, outplay rivals in a shifting
+ economy, and climb from nothing to the top of a ruthless world.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Deliverage
 STATUS:CONFIRMED
@@ -125,18 +128,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24532211@dr-ravenholm
 DTSTAMP:20260825T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260915T203000Z
 DTEND:20260915T223000Z
-SUMMARY:Cat Me If You Can | Ep. 1
-DESCRIPTION: Grab the camera and get ready for a cosy hunt for cats!
- Explore beautifully handcrafted black-and-white comic-style 3D worlds,
- searching every corner for hundreds of cleverly hidden feline friends.
- Photograph the cats you discover to bring colour back into the world,
- while solving puzzles, decoding clues and finding secret pathways along
- the way. With locations inspired by Ancient Egypt, modern Japan and
- medieval castles, this looks like the perfect game for slowing down,
- exploring and seeing just how many cats we can find.
+SUMMARY:Cat Me If You Can | Ep. 1 - I'm Not Leaving Until Every Cat Has
+ Had Its Photo Taken
+DESCRIPTION:A brand-new series begins, and tonight we have one extremely
+ important objective: photograph the cats. All of them. If there's a cat
+ somewhere that hasn't had its picture taken, then clearly our work isn't
+ finished. Grab the camera and get ready for a cosy hunt for cats! Explore
+ beautifully handcrafted black-and-white comic-style 3D worlds, searching
+ every corner for hundreds of cleverly hidden feline friends. Photograph
+ the cats you discover to bring colour back into the world, while solving
+ puzzles, decoding clues and finding secret pathways along the way. With
+ locations inspired by Ancient Egypt, modern Japan and medieval castles,
+ this looks like the perfect game for slowing down, exploring and seeing
+ just how many cats we can find.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Cat Me If You Can
 STATUS:CONFIRMED
@@ -145,29 +152,32 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24542211@dr-ravenholm
 DTSTAMP:20260826T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260916T203000Z
 DTEND:20260916T223000Z
 SUMMARY:The Oregon Trail | Ep. 5 - Nothing Brings a Wagon Party Together
  Like a Little Dysentery
-DESCRIPTION: The Oregon Trail is back in a beautiful blend of charming
- pixel art characters, 3D environments, and cutting-edge lighting and
- visual effects!\n\nThe Oregon Trail by Gameloft-Experience The Oregon
- Trail like never before. A modern twist on the trials and tribulations of
- the road to Oregon, this official successor to the global phenomenon will
- immerse players in exhilarating journeys ranging from the historically
- accurate to the totally extreme. Players will pick their traveling party,
- stock the wagon with supplies, and embark on an adventure filled with
- tough choices, new dangers, and unexpected situations. Surviving
- blizzards, broken limbs, snakebites, exhaustion, starvation, and the
- dreaded dysentery is no small feat; all the while navigating an untamed
- frontier to get your party to their new life in Oregon before the winter.
- Track down a missing party in the aftermath of a fierce blizzard,
- transport volatile gunpowder through blistering desert heat, compete in
- challenging hunting mini-games, and meet a broad cast of historic figures.
- With procedurally selected random events where players' choices affect
- their party and future game events, there's always a new adventure on the
- horizon every time you play.
+DESCRIPTION:The wagon rolls onward, although possibly with slightly fewer
+ healthy passengers than we'd like. Expect dangerous terrain, difficult
+ choices, dwindling supplies, unexpected disasters, and the traditional
+ Oregon Trail approach to healthcare. The Oregon Trail is back in a
+ beautiful blend of charming pixel art characters, 3D environments, and
+ cutting-edge lighting and visual effects!\n\nThe Oregon Trail by
+ Gameloft-Experience The Oregon Trail like never before. A modern twist on
+ the trials and tribulations of the road to Oregon, this official successor
+ to the global phenomenon will immerse players in exhilarating journeys
+ ranging from the historically accurate to the totally extreme. Players
+ will pick their traveling party, stock the wagon with supplies, and embark
+ on an adventure filled with tough choices, new dangers, and unexpected
+ situations. Surviving blizzards, broken limbs, snakebites, exhaustion,
+ starvation, and the dreaded dysentery is no small feat; all the while
+ navigating an untamed frontier to get your party to their new life in
+ Oregon before the winter. Track down a missing party in the aftermath of a
+ fierce blizzard, transport volatile gunpowder through blistering desert
+ heat, compete in challenging hunting mini-games, and meet a broad cast of
+ historic figures. With procedurally selected random events where players'
+ choices affect their party and future game events, there's always a new
+ adventure on the horizon every time you play.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:The Oregon Trail
 STATUS:CONFIRMED
@@ -176,15 +186,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24552211@dr-ravenholm
 DTSTAMP:20260827T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260917T203000Z
 DTEND:20260917T223000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
  We Are NOT Keeping Whatever That Is
-DESCRIPTION: A magical storybook adventure following a young Cereza, long
- before she became the legendary Bayonetta. Alongside her demon companion
- Cheshire, she explores an enchanted forest filled with puzzles, secrets,
- and dangerous creatures in a beautifully illustrated fantasy world.
+DESCRIPTION:Cereza and Cheshire return to the mysterious forest for
+ another beautiful evening of magical exploration, puzzles, strange
+ creatures, and the ongoing challenge of convincing Cheshire that not
+ everything we encounter needs to come home with us. A magical storybook
+ adventure following a young Cereza, long before she became the legendary
+ Bayonetta. Alongside her demon companion Cheshire, she explores an
+ enchanted forest filled with puzzles, secrets, and dangerous creatures in
+ a beautifully illustrated fantasy world.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Bayonetta Origins: Cereza and the Lost Demon
 STATUS:CONFIRMED
@@ -193,15 +207,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24562211@dr-ravenholm
 DTSTAMP:20260828T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260918T203000Z
 DTEND:20260918T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 19 - Sun's Going Down. Best Settle
  This Before Dark.
-DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
- run. With federal agents and bounty hunters massing on their heels, the
- gang must rob, steal, and fight their way across the rugged heartland in
- order to survive.
+DESCRIPTION:Arthur rides again as our journey through Red Dead Redemption
+ II continues. The sun is disappearing over the horizon, trouble is
+ undoubtedly nearby, and if there's unfinished business to deal with, we'd
+ probably better handle it before things get even darker. Arthur Morgan and
+ the Van der Linde Gang are outlaws on the run. With federal agents and
+ bounty hunters massing on their heels, the gang must rob, steal, and fight
+ their way across the rugged heartland in order to survive.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
@@ -210,18 +227,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24572211@dr-ravenholm
 DTSTAMP:20260829T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260919T203000Z
 DTEND:20260919T223000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 2 - New Life in
  Cyrodiil, What Could Go Wrong?
-DESCRIPTION: Return to the province of Cyrodiil in a remastered version of
- the legendary open-world RPG. With the Emperor slain and mysterious
- Oblivion Gates opening across the land, we'll create our character,
- explore towns and ancient ruins, take on quests, join factions, delve into
- dangerous dungeons and battle the forces of Mehrunes Dagon. Whether we
- follow the main story or get completely distracted by side quests, there's
- a huge fantasy world waiting to be rediscovered.
+DESCRIPTION:Our new life in Cyrodiil continues! There are quests to
+ complete, dungeons to explore, characters to meet, and an enormous fantasy
+ world filled with opportunities to become distracted by absolutely
+ everything except whatever we're actually supposed to be doing. Return to
+ the province of Cyrodiil in a remastered version of the legendary
+ open-world RPG. With the Emperor slain and mysterious Oblivion Gates
+ opening across the land, we'll create our character, explore towns and
+ ancient ruins, take on quests, join factions, delve into dangerous
+ dungeons and battle the forces of Mehrunes Dagon. Whether we follow the
+ main story or get completely distracted by side quests, there's a huge
+ fantasy world waiting to be rediscovered.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:The Elder Scrolls IV: Oblivion Remastered
 STATUS:CONFIRMED
@@ -230,11 +251,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24582211@dr-ravenholm
 DTSTAMP:20260830T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260920T203000Z
 DTEND:20260920T223000Z
 SUMMARY:Movie Night | Ep. 82
-DESCRIPTION: Meet you all on Discord for Movie Night.
+DESCRIPTION:After surviving suspicious deliveries, mischievous cats,
+ frontier diseases, magical forests, Wild West trouble, and whatever
+ Cyrodiil throws at us, it's time to get comfortable and enjoy another
+ relaxed Movie Night with the community. Meet you all on Discord for Movie
+ Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
 STATUS:CONFIRMED
@@ -243,7 +268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24592211@dr-ravenholm
 DTSTAMP:20260831T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260921T203000Z
 DTEND:20260921T223000Z
 SUMMARY:Construction Simulator | Ep. 46
@@ -259,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24602211@dr-ravenholm
 DTSTAMP:20260901T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260922T203000Z
 DTEND:20260922T223000Z
 SUMMARY:Dune: Awakening | Ep. 30
@@ -276,7 +301,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24612211@dr-ravenholm
 DTSTAMP:20260902T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260923T203000Z
 DTEND:20260923T223000Z
 SUMMARY:Edge Of Evil | Ep. 3
@@ -295,7 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24622211@dr-ravenholm
 DTSTAMP:20260903T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260924T203000Z
 DTEND:20260924T223000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 3
@@ -311,7 +336,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24632211@dr-ravenholm
 DTSTAMP:20260904T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260925T203000Z
 DTEND:20260925T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 20 - There's a Grave Waiting
@@ -328,7 +353,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24642211@dr-ravenholm
 DTSTAMP:20260905T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260926T203000Z
 DTEND:20260926T223000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 3 - Lovely Place,
@@ -348,7 +373,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24652211@dr-ravenholm
 DTSTAMP:20260906T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260927T203000Z
 DTEND:20260927T223000Z
 SUMMARY:Movie Night | Ep. 83
@@ -361,7 +386,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24662211@dr-ravenholm
 DTSTAMP:20260907T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260928T203000Z
 DTEND:20260928T223000Z
 SUMMARY:Construction Simulator | Ep. 47
@@ -377,7 +402,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24672211@dr-ravenholm
 DTSTAMP:20260908T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260929T203000Z
 DTEND:20260929T223000Z
 SUMMARY:Valheim | Ep. 1
@@ -390,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24682211@dr-ravenholm
 DTSTAMP:20260909T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20260930T203000Z
 DTEND:20260930T223000Z
 SUMMARY:Velvet Assassin | Ep. 1
@@ -403,7 +428,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24692211@dr-ravenholm
 DTSTAMP:20260910T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20261001T203000Z
 DTEND:20261001T223000Z
 SUMMARY:Crime Scene Cleaner | Ep. 17 - I Cleaned One Spot and Uncovered
@@ -421,7 +446,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24702211@dr-ravenholm
 DTSTAMP:20260911T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20261002T203000Z
 DTEND:20261002T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 21
@@ -437,7 +462,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24712211@dr-ravenholm
 DTSTAMP:20260912T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20261003T203000Z
 DTEND:20261003T223000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 4
@@ -456,7 +481,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24722211@dr-ravenholm
 DTSTAMP:20260913T010000Z
-LAST-MODIFIED:20260913T005500Z
+LAST-MODIFIED:20260913T235600Z
 DTSTART:20261004T203000Z
 DTEND:20261004T223000Z
 SUMMARY:Movie Night | Ep. 84
