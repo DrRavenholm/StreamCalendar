@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-24502211@dr-ravenholm
 DTSTAMP:20260822T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260912T203000Z
 DTEND:20260912T223000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 1 - I Was Just
@@ -30,7 +30,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24512211@dr-ravenholm
 DTSTAMP:20260823T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260913T203000Z
 DTEND:20260913T223000Z
 SUMMARY:Movie Night | Ep. 81 - Labyrinth (1986)
@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24522211@dr-ravenholm
 DTSTAMP:20260824T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260914T203000Z
 DTEND:20260914T223000Z
 SUMMARY:Deliverage | Ep. 2 - Another Completely Legal Transaction Behind
@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24532211@dr-ravenholm
 DTSTAMP:20260825T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260915T203000Z
 DTEND:20260915T223000Z
 SUMMARY:Cat Me If You Can | Ep. 1 - I'm Not Leaving Until Every Cat Has
@@ -91,7 +91,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24552211@dr-ravenholm
 DTSTAMP:20260827T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260917T203000Z
 DTEND:20260917T223000Z
 SUMMARY:The Oregon Trail | Ep. 5 - Nothing Brings a Wagon Party Together
@@ -125,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24562211@dr-ravenholm
 DTSTAMP:20260828T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260918T203000Z
 DTEND:20260918T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 19 - Sun's Going Down. Best Settle
@@ -145,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24572211@dr-ravenholm
 DTSTAMP:20260829T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260919T203000Z
 DTEND:20260919T223000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 2 - New Life in
@@ -169,7 +169,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24582211@dr-ravenholm
 DTSTAMP:20260830T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260920T203000Z
 DTEND:20260920T223000Z
 SUMMARY:Movie Night | Ep. 82 - Evolution (2001)
@@ -186,11 +186,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24592211@dr-ravenholm
 DTSTAMP:20260831T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260921T203000Z
 DTEND:20260921T223000Z
-SUMMARY:Construction Simulator | Ep. 46
-DESCRIPTION: Construction Simulator is back - bigger and better than ever!
+SUMMARY:Construction Simulator | Ep. 46 - All This Work for an Overpriced
+ Sandwich and a Toilet
+DESCRIPTION:After countless hours of heavy machinery, concrete, planning,
+ and questionable engineering decisions, our service area project
+ continues. All this effort so future travellers can enjoy the privilege of
+ paying far too much for a sandwich before discovering there's a queue for
+ the toilet. Construction Simulator is back - bigger and better than ever!
  Take charge of over 70 machines, dozens of them brand new to the
  franchise, and build to your heart's content on two huge maps - on your
  own or with your friends!
@@ -202,11 +207,23 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24602211@dr-ravenholm
 DTSTAMP:20260901T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260922T203000Z
 DTEND:20260922T223000Z
-SUMMARY:Valheim | Ep. 1
-DESCRIPTION:
+SUMMARY:Valheim | Ep. 1 - Ravenheim Server Launch, Odin Is Already Judging
+ Us
+DESCRIPTION:A brand-new adventure begins as the Ravenheim server
+ officially launches! It's time to gather resources, build our first
+ settlement, explore the wilderness, fight whatever decides we're lunch,
+ and attempt to convince Odin that leaving us unsupervised was definitely a
+ good idea. Welcome to Ravenheim, my private Valheim server where I'll be
+ joining friends for our own Viking adventure! Together we'll explore the
+ vast procedurally generated world, gather resources, build and expand our
+ settlements, craft new equipment, sail across dangerous seas and take on
+ the creatures and bosses that stand in our way. Expect plenty of
+ exploration, building, survival and the inevitable chaos that comes from a
+ group of friends attempting to work together. Ravenheim is our world, and
+ who knows what stories we'll create along the way!
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Valheim
 STATUS:CONFIRMED
@@ -215,34 +232,54 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24612211@dr-ravenholm
 DTSTAMP:20260902T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260923T203000Z
 DTEND:20260923T223000Z
-SUMMARY:Edge Of Evil | Ep. 3
-DESCRIPTION: Descend into a dark psychological horror adventure where the
- search for a lost kitten leads deep into an ancient pirate crypt. Explore
- hidden passages, disturb forgotten graves, solve cryptic puzzles, dig for
- clues and treasure, and defend yourself from undead shadow creatures
- lurking below. With an eerie atmosphere, immersive sound, fully voiced
- characters and a mystery surrounding a broken ancient seal, this is a
- journey where curiosity may take us far deeper than we ever intended.
+SUMMARY:The Oregon Trail | Ep. 6 - The Harmonica Played. The Love &
+ Dysentery Spread. Gary & Samwise Remain.
+DESCRIPTION:Many have travelled the trail. Not everyone has survived it.
+ Yet somehow Gary and Samwise remain. The wagon rolls onward as supplies
+ dwindle, illnesses spread, the harmonica plays, and our remaining
+ travellers desperately attempt to reach the end of this increasingly
+ cursed journey. The Oregon Trail is back in a beautiful blend of charming
+ pixel art characters, 3D environments, and cutting-edge lighting and
+ visual effects!\n\nThe Oregon Trail by Gameloft-Experience The Oregon
+ Trail like never before. A modern twist on the trials and tribulations of
+ the road to Oregon, this official successor to the global phenomenon will
+ immerse players in exhilarating journeys ranging from the historically
+ accurate to the totally extreme. Players will pick their traveling party,
+ stock the wagon with supplies, and embark on an adventure filled with
+ tough choices, new dangers, and unexpected situations. Surviving
+ blizzards, broken limbs, snakebites, exhaustion, starvation, and the
+ dreaded dysentery is no small feat; all the while navigating an untamed
+ frontier to get your party to their new life in Oregon before the winter.
+ Track down a missing party in the aftermath of a fierce blizzard,
+ transport volatile gunpowder through blistering desert heat, compete in
+ challenging hunting mini-games, and meet a broad cast of historic figures.
+ With procedurally selected random events where players' choices affect
+ their party and future game events, there's always a new adventure on the
+ horizon every time you play.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Edge Of Evil
+CATEGORIES:The Oregon Trail
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-24622211@dr-ravenholm
 DTSTAMP:20260903T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260924T203000Z
 DTEND:20260924T223000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
  We Are NOT Keeping Whatever That Is
-DESCRIPTION: A magical storybook adventure following a young Cereza, long
- before she became the legendary Bayonetta. Alongside her demon companion
- Cheshire, she explores an enchanted forest filled with puzzles, secrets,
- and dangerous creatures in a beautifully illustrated fantasy world.
+DESCRIPTION:Back into the mysterious forest with Cereza and Cheshire for
+ another beautiful evening of magical exploration, puzzles, strange
+ creatures, and the ongoing struggle to stop Cheshire from treating every
+ new discovery like something we should bring home. A magical storybook
+ adventure following a young Cereza, long before she became the legendary
+ Bayonetta. Alongside her demon companion Cheshire, she explores an
+ enchanted forest filled with puzzles, secrets, and dangerous creatures in
+ a beautifully illustrated fantasy world.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Bayonetta Origins: Cereza and the Lost Demon
 STATUS:CONFIRMED
@@ -251,12 +288,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24632211@dr-ravenholm
 DTSTAMP:20260904T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260925T203000Z
 DTEND:20260925T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 20 - There's a Grave Waiting
  Somewhere for Every Outlaw
-DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
+DESCRIPTION:Arthur rides again as our journey through the changing
+ American frontier continues. The law is closing in, trouble follows every
+ road, and every outlaw eventually has to wonder just how much longer their
+ luck can hold. Arthur Morgan and the Van der Linde Gang are outlaws on the
  run. With federal agents and bounty hunters massing on their heels, the
  gang must rob, steal, and fight their way across the rugged heartland in
  order to survive.
@@ -268,18 +308,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24642211@dr-ravenholm
 DTSTAMP:20260905T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260926T203000Z
 DTEND:20260926T223000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 3 - Lovely Place,
  Shame About the Gates to Hell
-DESCRIPTION: Return to the province of Cyrodiil in a remastered version of
- the legendary open-world RPG. With the Emperor slain and mysterious
- Oblivion Gates opening across the land, we'll create our character,
- explore towns and ancient ruins, take on quests, join factions, delve into
- dangerous dungeons and battle the forces of Mehrunes Dagon. Whether we
- follow the main story or get completely distracted by side quests, there's
- a huge fantasy world waiting to be rediscovered.
+DESCRIPTION:Cyrodiil really is beautiful. Rolling countryside, historic
+ cities, picturesque forests... and enormous fiery portals leading directly
+ into a demonic realm. Property prices must be complicated. Our Oblivion
+ Remastered adventure continues! Return to the province of Cyrodiil in a
+ remastered version of the legendary open-world RPG. With the Emperor slain
+ and mysterious Oblivion Gates opening across the land, we'll create our
+ character, explore towns and ancient ruins, take on quests, join factions,
+ delve into dangerous dungeons and battle the forces of Mehrunes Dagon.
+ Whether we follow the main story or get completely distracted by side
+ quests, there's a huge fantasy world waiting to be rediscovered.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:The Elder Scrolls IV: Oblivion Remastered
 STATUS:CONFIRMED
@@ -288,11 +331,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24652211@dr-ravenholm
 DTSTAMP:20260906T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260927T203000Z
 DTEND:20260927T223000Z
 SUMMARY:Movie Night | Ep. 83
-DESCRIPTION: Meet you all on Discord for Movie Night.
+DESCRIPTION:After surviving construction sites, Viking wilderness,
+ frontier diseases, magical forests, outlaw gunfights, and literal portals
+ to Hell, we've earned a quiet evening. Grab your favourite snacks and join
+ us for another relaxed Movie Night with the community. Meet you all on
+ Discord for Movie Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
 STATUS:CONFIRMED
@@ -301,10 +348,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24662211@dr-ravenholm
 DTSTAMP:20260907T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260928T203000Z
 DTEND:20260928T223000Z
-SUMMARY:Bus Simulator 27 | Ep. 1
+SUMMARY:Bus Simulator 27 | Ep. 1 - Death, War, Famine, Pestilence... and
+ the Number 27 Bus
 DESCRIPTION:
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Bus Simulator 27
@@ -314,11 +362,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24672211@dr-ravenholm
 DTSTAMP:20260908T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260929T203000Z
 DTEND:20260929T223000Z
-SUMMARY:Valheim | Ep. 2
-DESCRIPTION:
+SUMMARY:Valheim | Ep. 2 - Viking by Profession, Berry Collector by
+ Necessity
+DESCRIPTION: Welcome to Ravenheim, my private Valheim server where I'll be
+ joining friends for our own Viking adventure! Together we'll explore the
+ vast procedurally generated world, gather resources, build and expand our
+ settlements, craft new equipment, sail across dangerous seas and take on
+ the creatures and bosses that stand in our way. Expect plenty of
+ exploration, building, survival and the inevitable chaos that comes from a
+ group of friends attempting to work together. Ravenheim is our world, and
+ who knows what stories we'll create along the way!
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Valheim
 STATUS:CONFIRMED
@@ -327,10 +383,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24682211@dr-ravenholm
 DTSTAMP:20260909T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20260930T203000Z
 DTEND:20260930T223000Z
-SUMMARY:Dune: Awakening | Ep. 30
+SUMMARY:Dune: Awakening | Ep. 30 - New Dune Update, Arrakis Has Changed.
+ Hubert Has Not
 DESCRIPTION: Rise from survival to greatness and challenge the power of an
  Imperium in Dune: Awakening, a brand-new open world survival and crafting
  game. Alone or together with others, you must survive the sandworm, build
@@ -344,27 +401,28 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24692211@dr-ravenholm
 DTSTAMP:20260910T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20261001T203000Z
 DTEND:20261001T223000Z
-SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 3
-DESCRIPTION: Once you get tangled with the mob, you will forever be a part
- of the mob. At least they pay a decent salary and all you have to do is
- clean up after their dirty work, but you know what you're doing. So clean
- crime scenes, earn as much money as you can, and get ready for the next
- mission.
+SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 3 - Tiny Witch,
+ Big Forest, Absolutely No Adult Supervision
+DESCRIPTION: A magical storybook adventure following a young Cereza, long
+ before she became the legendary Bayonetta. Alongside her demon companion
+ Cheshire, she explores an enchanted forest filled with puzzles, secrets,
+ and dangerous creatures in a beautifully illustrated fantasy world.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Crime Scene Cleaner
+CATEGORIES:Bayonetta Origins: Cereza and the Lost Demon
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-24702211@dr-ravenholm
 DTSTAMP:20260911T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20261002T203000Z
 DTEND:20261002T223000Z
-SUMMARY:Red Dead Redemption II | Ep. 21
+SUMMARY:Red Dead Redemption II | Ep. 21 - The Devil Rides Fast, So Keep
+ Your Horse Faster
 DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
  run. With federal agents and bounty hunters massing on their heels, the
  gang must rob, steal, and fight their way across the rugged heartland in
@@ -377,10 +435,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24712211@dr-ravenholm
 DTSTAMP:20260912T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20261003T203000Z
 DTEND:20261003T223000Z
-SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 4
+SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 4 - Saving
+ Cyrodiil Between Completely Unnecessary Side Quests
 DESCRIPTION: Return to the province of Cyrodiil in a remastered version of
  the legendary open-world RPG. With the Emperor slain and mysterious
  Oblivion Gates opening across the land, we'll create our character,
@@ -396,7 +455,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24722211@dr-ravenholm
 DTSTAMP:20260913T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20261004T203000Z
 DTEND:20261004T223000Z
 SUMMARY:Movie Night | Ep. 84
@@ -409,10 +468,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24732211@dr-ravenholm
 DTSTAMP:20260914T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20261005T203000Z
 DTEND:20261005T223000Z
-SUMMARY:Construction Simulator | Ep. 47
+SUMMARY:Construction Simulator | Ep. 47 - Nearly Ready for Tea, Toilets
+ and Questionable Sausage Rolls
 DESCRIPTION: Construction Simulator is back - bigger and better than ever!
  Take charge of over 70 machines, dozens of them brand new to the
  franchise, and build to your heart's content on two huge maps - on your
@@ -425,11 +485,18 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24742211@dr-ravenholm
 DTSTAMP:20260915T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20261006T203000Z
 DTEND:20261006T223000Z
-SUMMARY:Valheim | Ep. 3
-DESCRIPTION:
+SUMMARY:Valheim | Ep. 3 - Dear Odin, Please Stop Sending Things to My House
+DESCRIPTION: Welcome to Ravenheim, my private Valheim server where I'll be
+ joining friends for our own Viking adventure! Together we'll explore the
+ vast procedurally generated world, gather resources, build and expand our
+ settlements, craft new equipment, sail across dangerous seas and take on
+ the creatures and bosses that stand in our way. Expect plenty of
+ exploration, building, survival and the inevitable chaos that comes from a
+ group of friends attempting to work together. Ravenheim is our world, and
+ who knows what stories we'll create along the way!
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Valheim
 STATUS:CONFIRMED
@@ -438,20 +505,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24752211@dr-ravenholm
 DTSTAMP:20260916T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20261007T203000Z
 DTEND:20261007T223000Z
-SUMMARY:Velvet Assassin | Ep. 1
-DESCRIPTION:
+SUMMARY:Edge Of Evil | Ep. 2 - Mittens! Stop Making Friends With the
+ Eldritch Horrors!
+DESCRIPTION: Descend into a dark psychological horror adventure where the
+ search for a lost kitten leads deep into an ancient pirate crypt. Explore
+ hidden passages, disturb forgotten graves, solve cryptic puzzles, dig for
+ clues and treasure, and defend yourself from undead shadow creatures
+ lurking below. With an eerie atmosphere, immersive sound, fully voiced
+ characters and a mystery surrounding a broken ancient seal, this is a
+ journey where curiosity may take us far deeper than we ever intended.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Velvet Assassin
+CATEGORIES:Edge Of Evil
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-24762211@dr-ravenholm
 DTSTAMP:20260917T010000Z
-LAST-MODIFIED:20260919T094900Z
+LAST-MODIFIED:20260919T121700Z
 DTSTART:20261008T203000Z
 DTEND:20261008T223000Z
 SUMMARY:Crime Scene Cleaner | Ep. 17 - I Cleaned One Spot and Uncovered
@@ -463,6 +537,43 @@ DESCRIPTION: Once you get tangled with the mob, you will forever be a part
  mission.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Crime Scene Cleaner
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-24772211@dr-ravenholm
+DTSTAMP:20260918T010000Z
+LAST-MODIFIED:20260919T121700Z
+DTSTART:20261009T203000Z
+DTEND:20261009T223000Z
+SUMMARY:Red Dead Redemption II | Ep. 22 - The Sun Sets on Good Men and
+ Outlaws Just the Same
+DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
+ run. With federal agents and bounty hunters massing on their heels, the
+ gang must rob, steal, and fight their way across the rugged heartland in
+ order to survive.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Red Dead Redemption II
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-24782211@dr-ravenholm
+DTSTAMP:20260919T010000Z
+LAST-MODIFIED:20260919T121700Z
+DTSTART:20261010T203000Z
+DTEND:20261010T223000Z
+SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 5 - The Nine
+ Divines Have Reviewed My Case and Declined to Comment
+DESCRIPTION: Return to the province of Cyrodiil in a remastered version of
+ the legendary open-world RPG. With the Emperor slain and mysterious
+ Oblivion Gates opening across the land, we'll create our character,
+ explore towns and ancient ruins, take on quests, join factions, delve into
+ dangerous dungeons and battle the forces of Mehrunes Dagon. Whether we
+ follow the main story or get completely distracted by side quests, there's
+ a huge fantasy world waiting to be rediscovered.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:The Elder Scrolls IV: Oblivion Remastered
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
