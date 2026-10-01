@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-24652211@dr-ravenholm
 DTSTAMP:20260906T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20260927T203000Z
 DTEND:20260927T223000Z
 SUMMARY:Movie Night | Ep. 83 - Speed (1994)
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24662211@dr-ravenholm
 DTSTAMP:20260907T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20260928T203000Z
 DTEND:20260928T223000Z
 SUMMARY:Bus Simulator 27 | Ep. 1 - Death, War, Famine, Pestilence... and
@@ -49,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24672211@dr-ravenholm
 DTSTAMP:20260908T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20260929T203000Z
 DTEND:20260929T223000Z
 SUMMARY:Dune: Awakening | Ep. 30 - New Dune Update, Arrakis Has Changed.
@@ -70,7 +70,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24682211@dr-ravenholm
 DTSTAMP:20260909T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20260930T203000Z
 DTEND:20260930T223000Z
 SUMMARY:The Oregon Trail | Ep. 6 - The Harmonica Played. The Love &
@@ -102,30 +102,9 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stream-24692211@dr-ravenholm
-DTSTAMP:20260910T010000Z
-LAST-MODIFIED:20261001T142500Z
-DTSTART:20261001T203000Z
-DTEND:20261001T223000Z
-SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
- We Are NOT Keeping Whatever That Is
-DESCRIPTION:Cereza and Cheshire return to the mysterious forest for
- another evening of magical exploration, puzzles, beautiful environments,
- and encounters with strange creatures that Cheshire will inevitably decide
- belong to us now. A magical storybook adventure following a young Cereza,
- long before she became the legendary Bayonetta. Alongside her demon
- companion Cheshire, she explores an enchanted forest filled with puzzles,
- secrets, and dangerous creatures in a beautifully illustrated fantasy
- world.
-URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Bayonetta Origins: Cereza and the Lost Demon
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-24702211@dr-ravenholm
 DTSTAMP:20260911T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261002T203000Z
 DTEND:20261002T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 20 - There's a Grave Waiting
@@ -145,7 +124,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24712211@dr-ravenholm
 DTSTAMP:20260912T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261003T203000Z
 DTEND:20261003T223000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 3 - Lovely Place,
@@ -169,7 +148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24722211@dr-ravenholm
 DTSTAMP:20260913T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261004T203000Z
 DTEND:20261004T223000Z
 SUMMARY:Movie Night | Ep. 84 - High Spirits (1988)
@@ -185,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24732211@dr-ravenholm
 DTSTAMP:20260914T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261005T203000Z
 DTEND:20261005T223000Z
 SUMMARY:Construction Simulator | Ep. 47 - Nearly Ready for Tea, Toilets
@@ -202,25 +181,29 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24742211@dr-ravenholm
 DTSTAMP:20260915T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261006T203000Z
 DTEND:20261006T223000Z
-SUMMARY:Dune: Awakening | Ep. 31 - Someone Put New Things in the Desert.
- Let's Go Poke Them
-DESCRIPTION: Rise from survival to greatness and challenge the power of an
- Imperium in Dune: Awakening, a brand-new open world survival and crafting
- game. Alone or together with others, you must survive the sandworm, build
- a home, craft your ornithopter, and unravel the story of the missing
- Fremen.
+SUMMARY:Permafrost | Ep. 1 - Endless Winter? Right, I'll Put the Kettle On
+DESCRIPTION: The world has been plunged into an endless winter, and
+ surviving the cold is only the beginning. As a Rook-an engineer drawn into
+ the frozen wasteland by a radio signal from a long-lost friend-we'll
+ explore abandoned cities and wilderness, scavenge desperately needed
+ supplies, craft equipment, repair technology and build a network of
+ shelters. With brutal weather, dangerous factions and scarce resources
+ standing in our way, we'll need to prepare carefully for every journey. At
+ least we won't be completely alone, with a loyal dog companion helping us
+ scout for danger and carry supplies as we uncover the story of this frozen
+ post-apocalyptic world.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Dune: Awakening
+CATEGORIES:Permafrost
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-24752211@dr-ravenholm
 DTSTAMP:20260916T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261007T203000Z
 DTEND:20261007T223000Z
 SUMMARY:Edge Of Evil | Ep. 2 - Mittens! Stop Making Friends With the
@@ -240,7 +223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24762211@dr-ravenholm
 DTSTAMP:20260917T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261008T203000Z
 DTEND:20261008T223000Z
 SUMMARY:Sim City (1991) SNES | Ep. 1 - Residential, Commercial,
@@ -261,7 +244,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24772211@dr-ravenholm
 DTSTAMP:20260918T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261009T203000Z
 DTEND:20261009T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 21 - The Devil Rides Fast, So Keep
@@ -278,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24782211@dr-ravenholm
 DTSTAMP:20260919T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261010T203000Z
 DTEND:20261010T223000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 4 - Saving
@@ -298,7 +281,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24792211@dr-ravenholm
 DTSTAMP:20260920T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261011T203000Z
 DTEND:20261011T223000Z
 SUMMARY:Movie Night | Ep. 85
@@ -311,7 +294,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24802211@dr-ravenholm
 DTSTAMP:20260921T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261012T203000Z
 DTEND:20261012T223000Z
 SUMMARY:Construction Simulator | Ep. 48 - Services in half a Mile.
@@ -328,7 +311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24812211@dr-ravenholm
 DTSTAMP:20260922T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261013T203000Z
 DTEND:20261013T223000Z
 SUMMARY:Valheim | Ep. 2 - Viking by Profession, Berry Collector by
@@ -349,7 +332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24822211@dr-ravenholm
 DTSTAMP:20260923T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261014T203000Z
 DTEND:20261014T223000Z
 SUMMARY:Velvet Assassin | Ep. 1 - Nothing Suspicious Here, Just Another
@@ -363,11 +346,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24832211@dr-ravenholm
 DTSTAMP:20260924T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261015T203000Z
 DTEND:20261015T223000Z
-SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 3 - Tiny Witch,
- Big Forest, Absolutely No Adult Supervision
+SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
+ We Are NOT Keeping Whatever That Is
 DESCRIPTION: A magical storybook adventure following a young Cereza, long
  before she became the legendary Bayonetta. Alongside her demon companion
  Cheshire, she explores an enchanted forest filled with puzzles, secrets,
@@ -380,7 +363,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24842211@dr-ravenholm
 DTSTAMP:20260925T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261016T203000Z
 DTEND:20261016T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 22 - The Sun Sets on Good Men and
@@ -397,7 +380,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24852211@dr-ravenholm
 DTSTAMP:20260926T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261017T203000Z
 DTEND:20261017T223000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 5 - The Nine
@@ -417,7 +400,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24862211@dr-ravenholm
 DTSTAMP:20260927T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261018T203000Z
 DTEND:20261018T223000Z
 SUMMARY:Movie Night | Ep. 86
@@ -430,7 +413,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24872211@dr-ravenholm
 DTSTAMP:20260928T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261019T203000Z
 DTEND:20261019T223000Z
 SUMMARY:Deliverage | Ep. 3
@@ -446,27 +429,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24882211@dr-ravenholm
 DTSTAMP:20260929T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261020T203000Z
 DTEND:20261020T223000Z
-SUMMARY:Valheim | Ep. 3 - Dear Odin, Please Stop Sending Things to My House
-DESCRIPTION: Welcome to Ravenheim, my private Valheim server where I'll be
- joining friends for our own Viking adventure! Together we'll explore the
- vast procedurally generated world, gather resources, build and expand our
- settlements, craft new equipment, sail across dangerous seas and take on
- the creatures and bosses that stand in our way. Expect plenty of
- exploration, building, survival and the inevitable chaos that comes from a
- group of friends attempting to work together. Ravenheim is our world, and
- who knows what stories we'll create along the way!
+SUMMARY:Star Trek Online | Ep. 16 - Computer, Define 'Routine Mission'
+ Because This Isn't One
+DESCRIPTION: In Star Trek Online, the Star Trek universe appears for the
+ first time on a truly massive scale. Players take the captain's chair as
+ they command their own starship and crew. Explore strange new worlds, seek
+ out new life and new civilizations, and boldly go where no one has gone
+ before.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Valheim
+CATEGORIES:Star Trek Online
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-24892211@dr-ravenholm
 DTSTAMP:20260930T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261021T203000Z
 DTEND:20261021T223000Z
 SUMMARY:Velvet Assassin | Ep. 2
@@ -479,16 +460,34 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24902211@dr-ravenholm
 DTSTAMP:20261001T010000Z
-LAST-MODIFIED:20261001T142500Z
+LAST-MODIFIED:20261001T223900Z
 DTSTART:20261022T203000Z
 DTEND:20261022T223000Z
-SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 4
+SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 3 - Tiny Witch,
+ Big Forest, Absolutely No Adult Supervision
 DESCRIPTION: A magical storybook adventure following a young Cereza, long
  before she became the legendary Bayonetta. Alongside her demon companion
  Cheshire, she explores an enchanted forest filled with puzzles, secrets,
  and dangerous creatures in a beautifully illustrated fantasy world.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Bayonetta Origins: Cereza and the Lost Demon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-24912211@dr-ravenholm
+DTSTAMP:20261002T010000Z
+LAST-MODIFIED:20261001T223900Z
+DTSTART:20261023T203000Z
+DTEND:20261023T223000Z
+SUMMARY:Red Dead Redemption II | Ep. 23 - Some Roads Lead to Fortune. Ours
+ Usually Lead to Gunfire
+DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
+ run. With federal agents and bounty hunters massing on their heels, the
+ gang must rob, steal, and fight their way across the rugged heartland in
+ order to survive.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
