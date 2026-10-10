@@ -4,29 +4,9 @@ PRODID:-////Stream Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:stream-24702211@dr-ravenholm
-DTSTAMP:20260911T010000Z
-LAST-MODIFIED:20261009T164300Z
-DTSTART:20261002T203000Z
-DTEND:20261002T223000Z
-SUMMARY:Red Dead Redemption II | Ep. 20 - There's a Grave Waiting
- Somewhere for Every Outlaw
-DESCRIPTION:Arthur Morgan returns as our Red Dead Redemption II journey
- reaches Episode 20. The world is changing, the law is never far behind,
- and life as an outlaw comes with the uncomfortable knowledge that every
- road eventually reaches its end. Arthur Morgan and the Van der Linde Gang
- are outlaws on the run. With federal agents and bounty hunters massing on
- their heels, the gang must rob, steal, and fight their way across the
- rugged heartland in order to survive.
-URL:https://www.youtube.com/watch?v=VEZnm2Nl_Rs
-CATEGORIES:Red Dead Redemption II
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-24722211@dr-ravenholm
 DTSTAMP:20260913T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261004T203000Z
 DTEND:20261004T223000Z
 SUMMARY:Movie Night | Ep. 84 - High Spirits (1988)
@@ -42,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24732211@dr-ravenholm
 DTSTAMP:20260914T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261005T203000Z
 DTEND:20261005T223000Z
 SUMMARY:Construction Simulator | Ep. 47 - Nearly Ready for Tea, Toilets
@@ -63,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24742211@dr-ravenholm
 DTSTAMP:20260915T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261006T203000Z
 DTEND:20261006T223000Z
 SUMMARY:Permafrost | Ep. 1 - Endless Winter? Right, I'll Put the Kettle On
@@ -88,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24752211@dr-ravenholm
 DTSTAMP:20260916T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261007T203000Z
 DTEND:20261007T223000Z
 SUMMARY:Edge Of Evil | Ep. 2 - Mittens! Stop Making Friends With the
@@ -112,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24762211@dr-ravenholm
 DTSTAMP:20260917T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261008T203000Z
 DTEND:20261008T223000Z
 SUMMARY:Sim City (1989) SNES | Ep. 1 - Residential, Commercial,
@@ -135,53 +115,29 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stream-24772211@dr-ravenholm
-DTSTAMP:20260918T010000Z
-LAST-MODIFIED:20261009T164300Z
-DTSTART:20261009T203000Z
-DTEND:20261009T223000Z
+UID:stream-24782211@dr-ravenholm
+DTSTAMP:20260919T010000Z
+LAST-MODIFIED:20261010T161700Z
+DTSTART:20261010T203000Z
+DTEND:20261010T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 21 - The Devil Rides Fast, So Keep
  Your Horse Faster
-DESCRIPTION:Arthur Morgan returns for another chapter of our Red Dead
- Redemption II journey. Trouble is never far away, the frontier keeps
- getting more dangerous, and when the devil comes riding after you, there's
- only one sensible response: hope your horse had a decent breakfast. Arthur
- Morgan and the Van der Linde Gang are outlaws on the run. With federal
- agents and bounty hunters massing on their heels, the gang must rob,
- steal, and fight their way across the rugged heartland in order to survive.
+DESCRIPTION:Back to beautiful Cyrodiil, where picturesque forests,
+ historic cities, ancient ruins, and enormous flaming portals into Oblivion
+ somehow coexist. Time to continue our adventure and investigate why nobody
+ has considered putting up a few warning signs. Arthur Morgan and the Van
+ der Linde Gang are outlaws on the run. With federal agents and bounty
+ hunters massing on their heels, the gang must rob, steal, and fight their
+ way across the rugged heartland in order to survive.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stream-24782211@dr-ravenholm
-DTSTAMP:20260919T010000Z
-LAST-MODIFIED:20261009T164300Z
-DTSTART:20261010T203000Z
-DTEND:20261010T223000Z
-SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 3 - Lovely Place,
- Shame About the Gates to Hell
-DESCRIPTION:Back to beautiful Cyrodiil, where picturesque forests,
- historic cities, ancient ruins, and enormous flaming portals into Oblivion
- somehow coexist. Time to continue our adventure and investigate why nobody
- has considered putting up a few warning signs. Return to the province of
- Cyrodiil in a remastered version of the legendary open-world RPG. With the
- Emperor slain and mysterious Oblivion Gates opening across the land, we'll
- create our character, explore towns and ancient ruins, take on quests,
- join factions, delve into dangerous dungeons and battle the forces of
- Mehrunes Dagon. Whether we follow the main story or get completely
- distracted by side quests, there's a huge fantasy world waiting to be
- rediscovered.
-URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:The Elder Scrolls IV: Oblivion Remastered
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-24792211@dr-ravenholm
 DTSTAMP:20260920T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261011T203000Z
 DTEND:20261011T223000Z
 SUMMARY:Movie Night | Ep. 85 - Saving Private Ryan (1998)
@@ -197,7 +153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24802211@dr-ravenholm
 DTSTAMP:20260921T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261012T203000Z
 DTEND:20261012T223000Z
 SUMMARY:Construction Simulator | Ep. 48 - Services in half a Mile.
@@ -214,7 +170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24812211@dr-ravenholm
 DTSTAMP:20260922T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261013T203000Z
 DTEND:20261013T223000Z
 SUMMARY:Lotwick Hill | Ep. 1 - Good Morning, Lotwick Hill! Your Money Is
@@ -236,7 +192,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24822211@dr-ravenholm
 DTSTAMP:20260923T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261014T203000Z
 DTEND:20261014T223000Z
 SUMMARY:Velvet Assassin | Ep. 1 - Nothing Suspicious Here, Just Another
@@ -258,7 +214,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24832211@dr-ravenholm
 DTSTAMP:20260924T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261015T180000Z
 DTEND:20261015T203000Z
 SUMMARY:A Christmas Party Before Halloween with Jade the Chocolate Thief
@@ -279,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24842211@dr-ravenholm
 DTSTAMP:20260925T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261016T203000Z
 DTEND:20261016T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 22 - The Sun Sets on Good Men and
@@ -296,11 +252,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24852211@dr-ravenholm
 DTSTAMP:20260926T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261017T203000Z
 DTEND:20261017T223000Z
-SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 4 - Saving
- Cyrodiil Between Completely Unnecessary Side Quests
+SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 3 - Lovely Place,
+ Shame About the Gates to Hell
 DESCRIPTION: Return to the province of Cyrodiil in a remastered version of
  the legendary open-world RPG. With the Emperor slain and mysterious
  Oblivion Gates opening across the land, we'll create our character,
@@ -316,7 +272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24862211@dr-ravenholm
 DTSTAMP:20260927T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261018T203000Z
 DTEND:20261018T223000Z
 SUMMARY:Movie Night | Ep. 86
@@ -329,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24872211@dr-ravenholm
 DTSTAMP:20260928T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261019T203000Z
 DTEND:20261019T223000Z
 SUMMARY:Deliverage | Ep. 3
@@ -345,7 +301,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24882211@dr-ravenholm
 DTSTAMP:20260929T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261020T203000Z
 DTEND:20261020T223000Z
 SUMMARY:Star Trek Online | Ep. 16 - Computer, Define 'Routine Mission'
@@ -363,7 +319,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24892211@dr-ravenholm
 DTSTAMP:20260930T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261021T203000Z
 DTEND:20261021T223000Z
 SUMMARY:Velvet Assassin | Ep. 2
@@ -384,7 +340,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24902211@dr-ravenholm
 DTSTAMP:20261001T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261022T203000Z
 DTEND:20261022T223000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
@@ -401,7 +357,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24912211@dr-ravenholm
 DTSTAMP:20261002T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261023T203000Z
 DTEND:20261023T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 23 - Some Roads Lead to Fortune. Ours
@@ -418,11 +374,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24922211@dr-ravenholm
 DTSTAMP:20261003T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261024T213000Z
 DTEND:20261024T233000Z
-SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 5 - The Nine
- Divines Have Reviewed My Case and Declined to Comment
+SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 4 - Saving
+ Cyrodiil Between Completely Unnecessary Side Quests
 DESCRIPTION: Return to the province of Cyrodiil in a remastered version of
  the legendary open-world RPG. With the Emperor slain and mysterious
  Oblivion Gates opening across the land, we'll create our character,
@@ -438,7 +394,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24932211@dr-ravenholm
 DTSTAMP:20261004T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261025T213000Z
 DTEND:20261025T233000Z
 SUMMARY:Movie Night | Ep. 87
@@ -451,7 +407,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24942211@dr-ravenholm
 DTSTAMP:20261005T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261026T213000Z
 DTEND:20261026T233000Z
 SUMMARY:Halloween Black Witch 300 Piece Jigsaw Puzzles
@@ -473,7 +429,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24972211@dr-ravenholm
 DTSTAMP:20261008T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261029T213000Z
 DTEND:20261029T233000Z
 SUMMARY:Buffy the Vampire Slayer: Chaos Bleeds | Ep. 5
@@ -495,7 +451,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24982211@dr-ravenholm
 DTSTAMP:20261009T010000Z
-LAST-MODIFIED:20261009T164300Z
+LAST-MODIFIED:20261010T161700Z
 DTSTART:20261030T213000Z
 DTEND:20261030T233000Z
 SUMMARY:Alien: Fate of the Nostromo | Ep. 3
@@ -507,6 +463,26 @@ DESCRIPTION: Based on the 1979 film, in ALIEN: Fate of the Nostromo,
  zero, players lose the game.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Alien: Fate of the Nostromo
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-24992211@dr-ravenholm
+DTSTAMP:20261010T010000Z
+LAST-MODIFIED:20261010T161700Z
+DTSTART:20261031T213000Z
+DTEND:20261031T233000Z
+SUMMARY:The Lightkeeper | Long Play
+DESCRIPTION: Step into the isolated life of Arthur, a World War I veteran
+ who takes a job as a lighthouse keeper on a remote island in 1925. What
+ begins as a seemingly peaceful escape soon descends into psychological
+ horror as we maintain the lighthouse, manage essential supplies and
+ explore the island while uncovering the disturbing truth behind the deaths
+ of its previous keepers. With haunting surroundings, unsettling mysteries
+ and multiple endings shaped by our choices, we'll have to discover what is
+ real-and what may be waiting for us in the darkness.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:The Lightkeeper
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
