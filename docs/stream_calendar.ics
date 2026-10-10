@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-24722211@dr-ravenholm
 DTSTAMP:20260913T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261004T203000Z
 DTEND:20261004T223000Z
 SUMMARY:Movie Night | Ep. 84 - High Spirits (1988)
@@ -22,7 +22,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24732211@dr-ravenholm
 DTSTAMP:20260914T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261005T203000Z
 DTEND:20261005T223000Z
 SUMMARY:Construction Simulator | Ep. 47 - Nearly Ready for Tea, Toilets
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24742211@dr-ravenholm
 DTSTAMP:20260915T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261006T203000Z
 DTEND:20261006T223000Z
 SUMMARY:Permafrost | Ep. 1 - Endless Winter? Right, I'll Put the Kettle On
@@ -68,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24752211@dr-ravenholm
 DTSTAMP:20260916T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261007T203000Z
 DTEND:20261007T223000Z
 SUMMARY:Edge Of Evil | Ep. 2 - Mittens! Stop Making Friends With the
@@ -92,7 +92,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24762211@dr-ravenholm
 DTSTAMP:20260917T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261008T203000Z
 DTEND:20261008T223000Z
 SUMMARY:Sim City (1989) SNES | Ep. 1 - Residential, Commercial,
@@ -117,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24782211@dr-ravenholm
 DTSTAMP:20260919T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261010T203000Z
 DTEND:20261010T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 21 - The Devil Rides Fast, So Keep
@@ -137,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24792211@dr-ravenholm
 DTSTAMP:20260920T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261011T203000Z
 DTEND:20261011T223000Z
 SUMMARY:Movie Night | Ep. 85 - Saving Private Ryan (1998)
@@ -153,15 +153,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24802211@dr-ravenholm
 DTSTAMP:20260921T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261012T203000Z
 DTEND:20261012T223000Z
 SUMMARY:Construction Simulator | Ep. 48 - Services in half a Mile.
  Completion Date Slightly Further
-DESCRIPTION: Construction Simulator is back - bigger and better than ever!
- Take charge of over 70 machines, dozens of them brand new to the
- franchise, and build to your heart's content on two huge maps - on your
- own or with your friends!
+DESCRIPTION:The service area project continues, and we're getting ever
+ closer to finally opening the doors. The signs may promise services in
+ half a mile, but they make absolutely no guarantees about when those
+ services will actually exist. Still, at least the construction equipment
+ is getting plenty of exercise. Construction Simulator is back - bigger and
+ better than ever! Take charge of over 70 machines, dozens of them brand
+ new to the franchise, and build to your heart's content on two huge maps -
+ on your own or with your friends!
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Construction Simulator
 STATUS:CONFIRMED
@@ -170,20 +174,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24812211@dr-ravenholm
 DTSTAMP:20260922T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261013T203000Z
 DTEND:20261013T223000Z
 SUMMARY:Lotwick Hill | Ep. 1 - Good Morning, Lotwick Hill! Your Money Is
  Safe With Me. Mostly.
-DESCRIPTION: It's time to start small and dream big as we build our very
- own business empire in the living harbour city of Lotwick Hill! Starting
- in the 1930s, we'll buy property, open shops, choose what to sell, set our
- prices and compete with rival businesses for customers. As the decades
- pass, we can expand into new shops, apartments and hotels while adapting
- to changing products and customer tastes. With property auctions, resource
- management, changing weather and a full day-and-night cycle, let's see if
- we can turn our first little shop into an empire that lasts all the way
- into the modern day.
+DESCRIPTION:A brand-new series begins as we head into Lotwick Hill! We're
+ starting our adventure with the sort of reassuring financial promise that
+ should immediately make everyone nervous. Come along for our first look at
+ the game and discover whether trusting me with the money is a brilliant
+ idea or an administrative disaster waiting to happen. It's time to start
+ small and dream big as we build our very own business empire in the living
+ harbour city of Lotwick Hill! Starting in the 1930s, we'll buy property,
+ open shops, choose what to sell, set our prices and compete with rival
+ businesses for customers. As the decades pass, we can expand into new
+ shops, apartments and hotels while adapting to changing products and
+ customer tastes. With property auctions, resource management, changing
+ weather and a full day-and-night cycle, let's see if we can turn our first
+ little shop into an empire that lasts all the way into the modern day.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Lotwick Hill
 STATUS:CONFIRMED
@@ -192,20 +200,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24822211@dr-ravenholm
 DTSTAMP:20260923T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261014T203000Z
 DTEND:20261014T223000Z
 SUMMARY:Velvet Assassin | Ep. 1 - Nothing Suspicious Here, Just Another
  Guard Gone Missing
-DESCRIPTION: Step into the shadows of World War II as British secret agent
- Violette Summer in this dark and atmospheric stealth adventure inspired by
- the story of real-life agent Violette Szabo. Deep behind enemy lines,
- we'll infiltrate heavily guarded locations, sabotage enemy operations and
- use darkness to remain unseen while silently dealing with anyone standing
- in our way. With missions unfolding through Violette's feverish memories
- from a hospital bed, surreal environments and a strong focus on stealth,
- patience and timing, we'll see if we have what it takes to survive some
- extremely dangerous assignments.
+DESCRIPTION:Another brand-new series arrives as we step into the shadows
+ of Velvet Assassin. Tonight we're attempting stealth, patience, and
+ carefully planned movements through dangerous wartime environments.
+ Naturally, there's every chance my definition of stealth will involve
+ someone discovering an unconscious guard approximately three seconds after
+ I've declared the coast clear. Step into the shadows of World War II as
+ British secret agent Violette Summer in this dark and atmospheric stealth
+ adventure inspired by the story of real-life agent Violette Szabo. Deep
+ behind enemy lines, we'll infiltrate heavily guarded locations, sabotage
+ enemy operations and use darkness to remain unseen while silently dealing
+ with anyone standing in our way. With missions unfolding through
+ Violette's feverish memories from a hospital bed, surreal environments and
+ a strong focus on stealth, patience and timing, we'll see if we have what
+ it takes to survive some extremely dangerous assignments.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Velvet Assassin
 STATUS:CONFIRMED
@@ -214,19 +227,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24832211@dr-ravenholm
 DTSTAMP:20260924T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261015T180000Z
 DTEND:20261015T203000Z
 SUMMARY:A Christmas Party Before Halloween with Jade the Chocolate Thief
-DESCRIPTION: Who says we have to wait until December to celebrate
- Christmas? Tonight, I'm taking a night off from streaming and heading out
- for a Christmas party... before Halloween has even arrived! Joining me for
- this slightly premature festive celebration is none other than Jade the
- Chocolate Thief! Expect plenty of laughs, festive cheer, good company and
- probably a little bit of chaos as we swap gaming for a night out. Will
- Jade manage to resist stealing all the Christmas chocolates? Somehow, I
- doubt it! There won't be a live stream tonight, but sometimes even Dr
- Ravenholm needs to step away from the games and enjoy a little festive fun!
+DESCRIPTION:Forget the calendar - we're getting festive early! We are out
+ with Jade the Chocolate Thief for a special Christmas party before we've
+ even reached Halloween. Expect seasonal silliness, plenty of laughs, and a
+ wonderfully confused celebration that proves it's never too early to start
+ causing festive chaos. Just keep an eye on the chocolate. Who says we have
+ to wait until December to celebrate Christmas? Tonight, I'm taking a night
+ off from streaming and heading out for a Christmas party... before
+ Halloween has even arrived! Joining me for this slightly premature festive
+ celebration is none other than Jade the Chocolate Thief! Expect plenty of
+ laughs, festive cheer, good company and probably a little bit of chaos as
+ we swap gaming for a night out. Will Jade manage to resist stealing all
+ the Christmas chocolates? Somehow, I doubt it! There won't be a live
+ stream tonight, but sometimes even Dr Ravenholm needs to step away from
+ the games and enjoy a little festive fun!
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Christmas Party Before Halloween with Jade the Chocolate Thief
 STATUS:CONFIRMED
@@ -235,15 +253,20 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24842211@dr-ravenholm
 DTSTAMP:20260925T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261016T203000Z
 DTEND:20261016T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 22 - The Sun Sets on Good Men and
  Outlaws Just the Same
-DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
- run. With federal agents and bounty hunters massing on their heels, the
- gang must rob, steal, and fight their way across the rugged heartland in
- order to survive.
+DESCRIPTION:Arthur Morgan returns for another chapter of our Red Dead
+ Redemption II adventure. The frontier is changing, the shadows are growing
+ longer, and the difference between good men and outlaws isn't always as
+ simple as the stories would have us believe. Another evening of incredible
+ storytelling, difficult choices, and probably getting distracted by the
+ scenery. Arthur Morgan and the Van der Linde Gang are outlaws on the run.
+ With federal agents and bounty hunters massing on their heels, the gang
+ must rob, steal, and fight their way across the rugged heartland in order
+ to survive.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
@@ -252,18 +275,22 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24852211@dr-ravenholm
 DTSTAMP:20260926T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261017T203000Z
 DTEND:20261017T223000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 3 - Lovely Place,
  Shame About the Gates to Hell
-DESCRIPTION: Return to the province of Cyrodiil in a remastered version of
- the legendary open-world RPG. With the Emperor slain and mysterious
- Oblivion Gates opening across the land, we'll create our character,
- explore towns and ancient ruins, take on quests, join factions, delve into
- dangerous dungeons and battle the forces of Mehrunes Dagon. Whether we
- follow the main story or get completely distracted by side quests, there's
- a huge fantasy world waiting to be rediscovered.
+DESCRIPTION:We're heading back to beautiful Cyrodiil, where the rolling
+ countryside, ancient ruins, and charming towns are unfortunately
+ interrupted by enormous flaming portals to another dimension. It's an
+ absolutely lovely place to visit, provided you don't mind the occasional
+ demonic invasion. Return to the province of Cyrodiil in a remastered
+ version of the legendary open-world RPG. With the Emperor slain and
+ mysterious Oblivion Gates opening across the land, we'll create our
+ character, explore towns and ancient ruins, take on quests, join factions,
+ delve into dangerous dungeons and battle the forces of Mehrunes Dagon.
+ Whether we follow the main story or get completely distracted by side
+ quests, there's a huge fantasy world waiting to be rediscovered.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:The Elder Scrolls IV: Oblivion Remastered
 STATUS:CONFIRMED
@@ -272,11 +299,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24862211@dr-ravenholm
 DTSTAMP:20260927T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261018T203000Z
 DTEND:20261018T223000Z
 SUMMARY:Movie Night | Ep. 86
-DESCRIPTION: Meet you all on Discord for Movie Night.
+DESCRIPTION:After surviving construction delays, financial
+ responsibilities, wartime stealth missions, Christmas in October, outlaw
+ trouble, and the gates of Oblivion, it's time to put down the controller
+ and relax with the community for another Movie Night. Grab your favourite
+ snacks, find somewhere comfortable, and join us for a chilled-out end to
+ the week. Meet you all on Discord for Movie Night.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Movie Night
 STATUS:CONFIRMED
@@ -285,7 +317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24872211@dr-ravenholm
 DTSTAMP:20260928T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261019T203000Z
 DTEND:20261019T223000Z
 SUMMARY:Deliverage | Ep. 3
@@ -301,7 +333,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24882211@dr-ravenholm
 DTSTAMP:20260929T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261020T203000Z
 DTEND:20261020T223000Z
 SUMMARY:Star Trek Online | Ep. 16 - Computer, Define 'Routine Mission'
@@ -319,7 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24892211@dr-ravenholm
 DTSTAMP:20260930T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261021T203000Z
 DTEND:20261021T223000Z
 SUMMARY:Velvet Assassin | Ep. 2
@@ -340,7 +372,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24902211@dr-ravenholm
 DTSTAMP:20261001T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261022T203000Z
 DTEND:20261022T223000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
@@ -357,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24912211@dr-ravenholm
 DTSTAMP:20261002T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261023T203000Z
 DTEND:20261023T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 23 - Some Roads Lead to Fortune. Ours
@@ -374,7 +406,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24922211@dr-ravenholm
 DTSTAMP:20261003T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261024T213000Z
 DTEND:20261024T233000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 4 - Saving
@@ -394,7 +426,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24932211@dr-ravenholm
 DTSTAMP:20261004T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261025T213000Z
 DTEND:20261025T233000Z
 SUMMARY:Movie Night | Ep. 87
@@ -407,7 +439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24942211@dr-ravenholm
 DTSTAMP:20261005T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261026T213000Z
 DTEND:20261026T233000Z
 SUMMARY:Halloween Black Witch 300 Piece Jigsaw Puzzles
@@ -429,7 +461,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24972211@dr-ravenholm
 DTSTAMP:20261008T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261029T213000Z
 DTEND:20261029T233000Z
 SUMMARY:Buffy the Vampire Slayer: Chaos Bleeds | Ep. 5
@@ -451,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24982211@dr-ravenholm
 DTSTAMP:20261009T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261030T213000Z
 DTEND:20261030T233000Z
 SUMMARY:Alien: Fate of the Nostromo | Ep. 3
@@ -469,7 +501,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24992211@dr-ravenholm
 DTSTAMP:20261010T010000Z
-LAST-MODIFIED:20261010T161700Z
+LAST-MODIFIED:20261010T163700Z
 DTSTART:20261031T213000Z
 DTEND:20261031T233000Z
 SUMMARY:The Lightkeeper | Long Play
