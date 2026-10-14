@@ -4,58 +4,9 @@ PRODID:-////Stream Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:stream-24752211@dr-ravenholm
-DTSTAMP:20260916T010000Z
-LAST-MODIFIED:20261014T205400Z
-DTSTART:20261007T203000Z
-DTEND:20261007T223000Z
-SUMMARY:Edge Of Evil | Ep. 2 - Mittens! Stop Making Friends With the
- Eldritch Horrors!
-DESCRIPTION:We're heading back into the supernatural nightmare of Edge Of
- Evil, and Mittens apparently hasn't learned anything. Strange noises?
- Ancient entities? Unspeakable horrors from beyond our understanding? To a
- cat, that's just three potential new friends. Descend into a dark
- psychological horror adventure where the search for a lost kitten leads
- deep into an ancient pirate crypt. Explore hidden passages, disturb
- forgotten graves, solve cryptic puzzles, dig for clues and treasure, and
- defend yourself from undead shadow creatures lurking below. With an eerie
- atmosphere, immersive sound, fully voiced characters and a mystery
- surrounding a broken ancient seal, this is a journey where curiosity may
- take us far deeper than we ever intended.
-URL:https://www.youtube.com/watch?v=73ZKYJdvOgo
-CATEGORIES:Edge Of Evil
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:stream-24762211@dr-ravenholm
-DTSTAMP:20260917T010000Z
-LAST-MODIFIED:20261014T205400Z
-DTSTART:20261008T203000Z
-DTEND:20261008T223000Z
-SUMMARY:Sim City (1989) SNES | Ep. 1 - Residential, Commercial,
- Industrial... Pub?
-DESCRIPTION:We're going retro! Tonight we're firing up the SNES version of
- Sim City and attempting to build a thriving metropolis using sensible
- urban planning. Residential zones? Yes. Commercial districts? Absolutely.
- Industrial areas? Obviously. Pub? Surely that's essential infrastructure.
- It's time to become mayor and build a city from the ground up in the
- classic SNES version of SimCity! We'll zone residential, commercial and
- industrial areas, build roads and essential services, manage the city
- budget and try to keep our growing population happy. From traffic problems
- and rising crime to fires and unexpected disasters, there's always
- something demanding the mayor's attention. Can we transform an empty
- landscape into a thriving metropolis, or will our questionable city
- planning send everyone looking for somewhere better to live?
-URL:https://www.youtube.com/watch?v=fHlNo0lAzjE
-CATEGORIES:Sim City
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-24782211@dr-ravenholm
 DTSTAMP:20260919T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261010T203000Z
 DTEND:20261010T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 21 - The Devil Rides Fast, So Keep
@@ -75,7 +26,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24792211@dr-ravenholm
 DTSTAMP:20260920T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261011T203000Z
 DTEND:20261011T223000Z
 SUMMARY:Movie Night | Ep. 85 - Saving Private Ryan (1998)
@@ -91,7 +42,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24802211@dr-ravenholm
 DTSTAMP:20260921T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261012T203000Z
 DTEND:20261012T223000Z
 SUMMARY:Construction Simulator | Ep. 48 - Services in half a Mile.
@@ -112,7 +63,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24812211@dr-ravenholm
 DTSTAMP:20260922T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261013T203000Z
 DTEND:20261013T223000Z
 SUMMARY:Lotwick Hill | Ep. 1 - Good Morning, Lotwick Hill! Your Money Is
@@ -138,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24822211@dr-ravenholm
 DTSTAMP:20260923T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261014T203000Z
 DTEND:20261014T223000Z
 SUMMARY:Velvet Assassin | Ep. 1 - Nothing Suspicious Here, Just Another
@@ -165,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24832211@dr-ravenholm
 DTSTAMP:20260924T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261015T180000Z
 DTEND:20261015T203000Z
 SUMMARY:A Christmas Party Before Halloween with Jade the Chocolate Thief
@@ -191,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24842211@dr-ravenholm
 DTSTAMP:20260925T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261016T203000Z
 DTEND:20261016T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 22 - The Sun Sets on Good Men and
@@ -213,7 +164,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24852211@dr-ravenholm
 DTSTAMP:20260926T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261017T203000Z
 DTEND:20261017T223000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 3 - Lovely Place,
@@ -237,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24862211@dr-ravenholm
 DTSTAMP:20260927T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261018T203000Z
 DTEND:20261018T223000Z
 SUMMARY:Movie Night | Ep. 86
@@ -255,7 +206,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24872211@dr-ravenholm
 DTSTAMP:20260928T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261019T203000Z
 DTEND:20261019T223000Z
 SUMMARY:Deliverage | Ep. 3
@@ -271,7 +222,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24882211@dr-ravenholm
 DTSTAMP:20260929T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261020T203000Z
 DTEND:20261020T223000Z
 SUMMARY:Star Trek Online | Ep. 16 - Computer, Define 'Routine Mission'
@@ -289,7 +240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24892211@dr-ravenholm
 DTSTAMP:20260930T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261021T203000Z
 DTEND:20261021T223000Z
 SUMMARY:Velvet Assassin | Ep. 2
@@ -310,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24902211@dr-ravenholm
 DTSTAMP:20261001T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261022T203000Z
 DTEND:20261022T223000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
@@ -327,7 +278,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24912211@dr-ravenholm
 DTSTAMP:20261002T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261023T203000Z
 DTEND:20261023T223000Z
 SUMMARY:Red Dead Redemption II | Ep. 23 - Some Roads Lead to Fortune. Ours
@@ -344,7 +295,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24922211@dr-ravenholm
 DTSTAMP:20261003T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261024T213000Z
 DTEND:20261024T233000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 4 - Saving
@@ -364,7 +315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24932211@dr-ravenholm
 DTSTAMP:20261004T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261025T213000Z
 DTEND:20261025T233000Z
 SUMMARY:Movie Night | Ep. 87
@@ -377,7 +328,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24942211@dr-ravenholm
 DTSTAMP:20261005T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261026T213000Z
 DTEND:20261026T233000Z
 SUMMARY:Halloween Black Witch 300 Piece Jigsaw Puzzles
@@ -399,7 +350,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24972211@dr-ravenholm
 DTSTAMP:20261008T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261029T213000Z
 DTEND:20261029T233000Z
 SUMMARY:Buffy the Vampire Slayer: Chaos Bleeds | Ep. 5
@@ -421,7 +372,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24982211@dr-ravenholm
 DTSTAMP:20261009T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261030T213000Z
 DTEND:20261030T233000Z
 SUMMARY:Alien: Fate of the Nostromo | Ep. 3
@@ -439,7 +390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24992211@dr-ravenholm
 DTSTAMP:20261010T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261031T213000Z
 DTEND:20261031T233000Z
 SUMMARY:The Lightkeeper | Long Play
@@ -459,7 +410,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25002211@dr-ravenholm
 DTSTAMP:20261011T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261101T213000Z
 DTEND:20261101T233000Z
 SUMMARY:Movie Night | Ep. 88
@@ -472,7 +423,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25012211@dr-ravenholm
 DTSTAMP:20261012T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261102T213000Z
 DTEND:20261102T233000Z
 SUMMARY:Construction Simulator | Ep. 49
@@ -488,7 +439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25022211@dr-ravenholm
 DTSTAMP:20261013T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261103T213000Z
 DTEND:20261103T233000Z
 SUMMARY:Dune: Awakening | Ep. 31 - Someone Put New Things in the Desert.
@@ -506,7 +457,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25032211@dr-ravenholm
 DTSTAMP:20261014T010000Z
-LAST-MODIFIED:20261014T205400Z
+LAST-MODIFIED:20261014T230300Z
 DTSTART:20261104T213000Z
 DTEND:20261104T233000Z
 SUMMARY:Velvet Assassin | Ep. 3
@@ -521,6 +472,39 @@ DESCRIPTION: Step into the shadows of World War II as British secret agent
  extremely dangerous assignments.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Velvet Assassin
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-25042211@dr-ravenholm
+DTSTAMP:20261015T010000Z
+LAST-MODIFIED:20261014T230300Z
+DTSTART:20261105T213000Z
+DTEND:20261105T233000Z
+SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 3 - Tiny Witch,
+ Big Forest, Absolutely No Adult Supervision
+DESCRIPTION: A magical storybook adventure following a young Cereza, long
+ before she became the legendary Bayonetta. Alongside her demon companion
+ Cheshire, she explores an enchanted forest filled with puzzles, secrets,
+ and dangerous creatures in a beautifully illustrated fantasy world.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Bayonetta Origins: Cereza and the Lost Demon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-25052211@dr-ravenholm
+DTSTAMP:20261016T010000Z
+LAST-MODIFIED:20261014T230300Z
+DTSTART:20261106T213000Z
+DTEND:20261106T233000Z
+SUMMARY:Red Dead Redemption II | Ep. 24
+DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
+ run. With federal agents and bounty hunters massing on their heels, the
+ gang must rob, steal, and fight their way across the rugged heartland in
+ order to survive.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
