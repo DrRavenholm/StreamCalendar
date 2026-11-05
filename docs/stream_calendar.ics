@@ -4,9 +4,36 @@ PRODID:-////Stream Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
+UID:stream-24962211@dr-ravenholm
+DTSTAMP:20261007T010000Z
+LAST-MODIFIED:20261105T120400Z
+DTSTART:20261028T213000Z
+DTEND:20261028T233000Z
+SUMMARY: Halloween Black Witch 300 Piece Jigsaw Puzzles - Part 2
+DESCRIPTION:We're heading back into the eldritch nightmare of Edge Of
+ Evil, and this time our priorities are perfectly clear. We're here for
+ Mittens. That's it. Ancient horrors, supernatural entities, and whatever
+ unspeakable evil is lurking nearby can sort themselves out. Nobody is
+ leaving without the cat. Relax and chat with a cosy Jigsaw Puzzle Night.
+ Settle in for a cosy puzzle-building stream as we tackle a 300-piece
+ Halloween jigsaw puzzle together on camera! This time we're piecing
+ together a wonderfully autumnal scene featuring a witch and her black cat
+ wandering through a glowing woodland filled with falling leaves and
+ pumpkins, complete with the message \"Once upon a time there was a girl
+ who really loved cats and Halloween.\" We'll sort the pieces, hunt for
+ those elusive matches, chat along the way and slowly bring this colourful
+ Halloween scene to life. No rush, no pressure-just a chilled-out puzzle
+ session, plenty of conversation and hopefully the satisfaction of placing
+ that final piece!
+URL:https://www.youtube.com/watch?v=z7sbDCW_djA
+CATEGORIES:Jigsaw Puzzle
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stream-24972211@dr-ravenholm
 DTSTAMP:20261008T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261029T213000Z
 DTEND:20261029T233000Z
 SUMMARY: Buffy the Vampire Slayer: Chaos Bleeds | Ep. 5 - Giles, Please
@@ -34,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24982211@dr-ravenholm
 DTSTAMP:20261009T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261030T213000Z
 DTEND:20261030T233000Z
 SUMMARY: Edge Of Evil | Ep. 3 - I've Come for Mittens. The Rest of You Can
@@ -59,7 +86,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-24992211@dr-ravenholm
 DTSTAMP:20261010T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261031T213000Z
 DTEND:20261031T233000Z
 SUMMARY: The Lightkeeper | Long Play - I Came Here to Forget. Something
@@ -86,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25002211@dr-ravenholm
 DTSTAMP:20261011T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261101T213000Z
 DTEND:20261101T233000Z
 SUMMARY: Movie Night | Ep. 88 - Zombieland (2009)
@@ -104,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25012211@dr-ravenholm
 DTSTAMP:20261012T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261102T213000Z
 DTEND:20261102T233000Z
 SUMMARY:Construction Simulator | Ep. 49 - We're Building a Bypass. Nobody
@@ -123,81 +150,34 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stream-25022211@dr-ravenholm
-DTSTAMP:20261013T010000Z
-LAST-MODIFIED:20261105T005700Z
-DTSTART:20261103T213000Z
-DTEND:20261103T233000Z
-SUMMARY:Star Trek Online | Ep. 16 - Computer, Define 'Routine Mission'
- Because This Isn't One
-DESCRIPTION:We're heading back into the final frontier for another
- adventure in Star Trek Online. Starfleet has apparently assigned us
- another routine mission, which traditionally means something is about to
- explode, somebody is going to ignore regulations, and we'll end up dealing
- with a crisis considerably larger than the one mentioned in the briefing.
- Computer, I'd like a second opinion. In Star Trek Online, the Star Trek
- universe appears for the first time on a truly massive scale. Players take
- the captain's chair as they command their own starship and crew. Explore
- strange new worlds, seek out new life and new civilizations, and boldly go
- where no one has gone before.
-URL:https://www.youtube.com/watch?v=Qkb2voYXgT
-CATEGORIES:Star Trek Online
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:stream-25032211@dr-ravenholm
-DTSTAMP:20261014T010000Z
-LAST-MODIFIED:20261105T005700Z
-DTSTART:20261104T213000Z
-DTEND:20261104T233000Z
-SUMMARY:Velvet Assassin | Ep. 2 - It's a House of God, Lads. Keep the
- Screaming Down.
-DESCRIPTION:Our wartime stealth adventure continues as we return to Velvet
- Assassin. Tonight we're attempting careful infiltration, quiet movement,
- and the sort of discretion that becomes increasingly difficult when guards
- start noticing their colleagues have mysteriously disappeared. Let's try
- not to disturb the peace any more than absolutely necessary. Step into the
- shadows of World War II as British secret agent Violette Summer in this
- dark and atmospheric stealth adventure inspired by the story of real-life
- agent Violette Szabo. Deep behind enemy lines, we'll infiltrate heavily
- guarded locations, sabotage enemy operations and use darkness to remain
- unseen while silently dealing with anyone standing in our way. With
- missions unfolding through Violette's feverish memories from a hospital
- bed, surreal environments and a strong focus on stealth, patience and
- timing, we'll see if we have what it takes to survive some extremely
- dangerous assignments.
-URL:https://www.youtube.com/watch?v=VNRlbWQXqQY
-CATEGORIES:Velvet Assassin
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-25042211@dr-ravenholm
 DTSTAMP:20261015T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261105T213000Z
 DTEND:20261105T233000Z
-SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
- We Are NOT Keeping Whatever That Is
+SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 4 - Saving
+ Cyrodiil Between Unnecessary Side Quests
 DESCRIPTION:Cereza and Cheshire return to the mysterious forest for
  another evening of magical exploration, puzzles, beautiful environments,
  and encounters with strange creatures. At this point, I'm beginning to
  suspect Cheshire believes the entire adventure is one enormous opportunity
- to collect increasingly questionable woodland pets. A magical storybook
- adventure following a young Cereza, long before she became the legendary
- Bayonetta. Alongside her demon companion Cheshire, she explores an
- enchanted forest filled with puzzles, secrets, and dangerous creatures in
- a beautifully illustrated fantasy world.
+ to collect increasingly questionable woodland pets. Return to the province
+ of Cyrodiil in a remastered version of the legendary open-world RPG. With
+ the Emperor slain and mysterious Oblivion Gates opening across the land,
+ we'll create our character, explore towns and ancient ruins, take on
+ quests, join factions, delve into dangerous dungeons and battle the forces
+ of Mehrunes Dagon. Whether we follow the main story or get completely
+ distracted by side quests, there's a huge fantasy world waiting to be
+ rediscovered.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Bayonetta Origins: Cereza and the Lost Demon
+CATEGORIES:The Elder Scrolls IV: Oblivion Remastered
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-25052211@dr-ravenholm
 DTSTAMP:20261016T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261106T213000Z
 DTEND:20261106T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 24 - We Escaped the Law Just to Find
@@ -219,32 +199,30 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25062211@dr-ravenholm
 DTSTAMP:20261017T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261107T213000Z
 DTEND:20261107T233000Z
-SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 4 - Saving
- Cyrodiil Between Unnecessary Side Quests
+SUMMARY:Mass Effect Legendary Edition | The Community Isn't Going Anywhere
+ #SaveMassEffect
 DESCRIPTION:Cyrodiil is still in danger, the Oblivion Gates remain a
  problem, and the fate of the world may very well rest in our hands.
  Naturally, we've also got approximately seventeen unrelated errands to
  complete, several caves to investigate, and somebody in a nearby village
  who desperately needs help finding something they misplaced. Saving the
- world can wait five minutes. Probably. Return to the province of Cyrodiil
- in a remastered version of the legendary open-world RPG. With the Emperor
- slain and mysterious Oblivion Gates opening across the land, we'll create
- our character, explore towns and ancient ruins, take on quests, join
- factions, delve into dangerous dungeons and battle the forces of Mehrunes
- Dagon. Whether we follow the main story or get completely distracted by
- side quests, there's a huge fantasy world waiting to be rediscovered.
+ world can wait five minutes. Probably. The Mass Effect Legendary Edition
+ includes single-player base content and over 40 DLC from the highly
+ acclaimed Mass Effect, Mass Effect 2, and Mass Effect 3 games, including
+ promo weapons, armours, and packs, remastered and optimized for 4K Ultra
+ HD.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:The Elder Scrolls IV: Oblivion Remastered
+CATEGORIES:Mass Effect Legendary Edition
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-25072211@dr-ravenholm
 DTSTAMP:20261018T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261108T213000Z
 DTEND:20261108T233000Z
 SUMMARY:Movie Night | Ep. 89 - Star Trek: The Motion Picture Director's
@@ -263,7 +241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25082211@dr-ravenholm
 DTSTAMP:20261019T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261109T213000Z
 DTEND:20261109T233000Z
 SUMMARY:Deliverage | Ep. 3 - Who's Let All These Nutters Out on the
@@ -280,10 +258,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25092211@dr-ravenholm
 DTSTAMP:20261020T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261110T213000Z
 DTEND:20261110T233000Z
-SUMMARY:Star Trek Online | Ep. 17
+SUMMARY:Star Trek Online | Ep. 16 - Computer, Define 'Routine Mission'
+ Because This Isn't One
 DESCRIPTION: In Star Trek Online, the Star Trek universe appears for the
  first time on a truly massive scale. Players take the captain's chair as
  they command their own starship and crew. Explore strange new worlds, seek
@@ -297,10 +276,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25102211@dr-ravenholm
 DTSTAMP:20261021T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261111T213000Z
 DTEND:20261111T233000Z
-SUMMARY:Velvet Assassin | Ep. 3
+SUMMARY:Velvet Assassin | Ep. 2 - It's a House of God, Lads. Keep the
+ Screaming Down.
 DESCRIPTION: Step into the shadows of World War II as British secret agent
  Violette Summer in this dark and atmospheric stealth adventure inspired by
  the story of real-life agent Violette Szabo. Deep behind enemy lines,
@@ -318,11 +298,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25112211@dr-ravenholm
 DTSTAMP:20261022T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261112T213000Z
 DTEND:20261112T233000Z
-SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 3 - Tiny Witch,
- Big Forest, Absolutely No Adult Supervision
+SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
+ We Are NOT Keeping Whatever That Is
 DESCRIPTION: A magical storybook adventure following a young Cereza, long
  before she became the legendary Bayonetta. Alongside her demon companion
  Cheshire, she explores an enchanted forest filled with puzzles, secrets,
@@ -335,7 +315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25122211@dr-ravenholm
 DTSTAMP:20261023T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261113T213000Z
 DTEND:20261113T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 25
@@ -351,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25132211@dr-ravenholm
 DTSTAMP:20261024T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261114T213000Z
 DTEND:20261114T233000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 5 - The Nine
@@ -371,7 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25142211@dr-ravenholm
 DTSTAMP:20261025T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261115T213000Z
 DTEND:20261115T233000Z
 SUMMARY:Movie Night | Ep. 90 - Paul (2011)
@@ -384,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25152211@dr-ravenholm
 DTSTAMP:20261026T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261116T213000Z
 DTEND:20261116T233000Z
 SUMMARY:Construction Simulator | Ep. 50 - Curse You, Concrete Pump! We
@@ -401,7 +381,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25162211@dr-ravenholm
 DTSTAMP:20261027T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261117T213000Z
 DTEND:20261117T233000Z
 SUMMARY:Dune: Awakening | Ep. 31 - Someone Put New Things in the Desert.
@@ -419,10 +399,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25172211@dr-ravenholm
 DTSTAMP:20261028T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261118T213000Z
 DTEND:20261118T233000Z
-SUMMARY:Velvet Assassin | Ep. 4
+SUMMARY:Velvet Assassin | Ep. 3
 DESCRIPTION: Step into the shadows of World War II as British secret agent
  Violette Summer in this dark and atmospheric stealth adventure inspired by
  the story of real-life agent Violette Szabo. Deep behind enemy lines,
@@ -440,7 +420,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25182211@dr-ravenholm
 DTSTAMP:20261029T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261119T213000Z
 DTEND:20261119T233000Z
 SUMMARY:Crime Scene Cleaner | Ep. 17 - I Cleaned One Spot and Uncovered
@@ -458,7 +438,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25192211@dr-ravenholm
 DTSTAMP:20261030T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261120T090000Z
 DTEND:20261120T180000Z
 SUMMARY:Comic-Con | Ep. 1 - Comic Con Ireland
@@ -476,7 +456,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25202211@dr-ravenholm
 DTSTAMP:20261031T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261121T090000Z
 DTEND:20261121T180000Z
 SUMMARY:Comic-Con | Ep. 2 - Comic Con Ireland
@@ -494,7 +474,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25212211@dr-ravenholm
 DTSTAMP:20261101T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261122T090000Z
 DTEND:20261122T180000Z
 SUMMARY:Comic-Con | Ep. 3 - Comic Con Ireland
@@ -512,7 +492,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25222211@dr-ravenholm
 DTSTAMP:20261102T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261123T213000Z
 DTEND:20261123T233000Z
 SUMMARY:Construction Simulator | Ep. 51 - The Villagers Wanted Peace and
@@ -529,7 +509,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25232211@dr-ravenholm
 DTSTAMP:20261103T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261124T213000Z
 DTEND:20261124T233000Z
 SUMMARY:Valheim | Ep. 2 - Viking by Profession, Berry Collector by
@@ -550,10 +530,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25242211@dr-ravenholm
 DTSTAMP:20261104T010000Z
-LAST-MODIFIED:20261105T005700Z
+LAST-MODIFIED:20261105T120400Z
 DTSTART:20261125T213000Z
 DTEND:20261125T233000Z
-SUMMARY:Velvet Assassin | Ep. 5
+SUMMARY:Velvet Assassin | Ep. 4
 DESCRIPTION: Step into the shadows of World War II as British secret agent
  Violette Summer in this dark and atmospheric stealth adventure inspired by
  the story of real-life agent Violette Szabo. Deep behind enemy lines,
@@ -565,22 +545,6 @@ DESCRIPTION: Step into the shadows of World War II as British secret agent
  extremely dangerous assignments.
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Velvet Assassin
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:stream-25252211@dr-ravenholm
-DTSTAMP:20261105T010000Z
-LAST-MODIFIED:20261105T005700Z
-DTSTART:20261126T193000Z
-DTEND:20261126T233000Z
-SUMMARY:Nerina Pallot | Ep. 5 - Live
-DESCRIPTION: A very special night as I head to Airdrie Town Hall to see my
- favourite artist, Nerina Pallot, performing live. I'm really looking
- forward to an evening of fantastic music and getting to experience one of
- my favourite artists in concert.
-URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Nerina Pallot
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
