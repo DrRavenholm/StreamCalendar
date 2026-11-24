@@ -4,37 +4,9 @@ PRODID:-////Stream Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:stream-25152211@dr-ravenholm
-DTSTAMP:20261026T010000Z
-LAST-MODIFIED:20261124T112800Z
-DTSTART:20261116T213000Z
-DTEND:20261116T233000Z
-SUMMARY:Truck World: Australia | Ep. 1 - Keep the Shiny Side Up! Whichever
- Way That Is in Australia.
-DESCRIPTION:A brand-new trucking adventure begins as we hit the Australian
- roads! Expect heavy cargo, unfamiliar routes, and the occasional
- disagreement with gravity. Apparently, keeping the shiny side up is harder
- when you're Down Under. Get ready to hit the open road as we take on the
- life of a truck driver in Truck World: Australia! We'll climb behind the
- wheel of powerful trucks, haul cargo across vast Australian landscapes and
- experience the challenges of transporting goods through bustling towns,
- winding highways and the rugged Outback. From managing our deliveries and
- navigating long stretches of road to tackling changing weather and keeping
- our truck in good condition, there's plenty to keep us busy. With
- beautiful scenery, challenging routes and the freedom of the open road,
- we'll see if we have what it takes to become a successful Australian
- trucker. Expect relaxing drives, questionable navigation, plenty of
- sightseeing and hopefully getting our deliveries to their destinations in
- one piece!
-URL:https://www.youtube.com/watch?v=GCG3IgciHCg
-CATEGORIES:Truck World: Australia
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-25172211@dr-ravenholm
 DTSTAMP:20261028T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261118T213000Z
 DTEND:20261118T233000Z
 SUMMARY:Sort Them Cats | Ep. 1 - Who Put the Astronaut Cat in With the
@@ -62,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25182211@dr-ravenholm
 DTSTAMP:20261029T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261119T213000Z
 DTEND:20261119T233000Z
 SUMMARY:Counter-Strike 2 | Ep. 3 - Shooty Shooty Bang Bang, Who's Got the
@@ -82,7 +54,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25192211@dr-ravenholm
 DTSTAMP:20261030T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261120T090000Z
 DTEND:20261120T180000Z
 SUMMARY:Comic-Con | Flight - Comic-Con Ireland
@@ -103,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25202211@dr-ravenholm
 DTSTAMP:20261031T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261121T090000Z
 DTEND:20261121T180000Z
 SUMMARY:Comic-Con | Day One - Comic-Con Ireland
@@ -125,7 +97,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25212211@dr-ravenholm
 DTSTAMP:20261101T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261122T090000Z
 DTEND:20261122T180000Z
 SUMMARY:Comic-Con | Day Two - Comic-Con Ireland
@@ -146,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25232211@dr-ravenholm
 DTSTAMP:20261103T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261124T213000Z
 DTEND:20261124T233000Z
 SUMMARY:Construction Simulator | Ep. 50 - Curse You, Concrete Pump! We
@@ -167,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25242211@dr-ravenholm
 DTSTAMP:20261104T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261125T213000Z
 DTEND:20261125T233000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
@@ -188,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25252211@dr-ravenholm
 DTSTAMP:20261105T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261126T193000Z
 DTEND:20261126T233000Z
 SUMMARY:Nerina Pallot | Ep. 5 - Live
@@ -207,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25262211@dr-ravenholm
 DTSTAMP:20261106T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261127T213000Z
 DTEND:20261127T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 26 - The Devil Don't Knock Before He
@@ -227,7 +199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25272211@dr-ravenholm
 DTSTAMP:20261107T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261128T213000Z
 DTEND:20261128T233000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 6 - Nobody Knows
@@ -251,7 +223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25282211@dr-ravenholm
 DTSTAMP:20261108T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261129T213000Z
 DTEND:20261129T233000Z
 SUMMARY:Movie Night | Ep. 91 - Star Trek II: The Wrath of Khan (1982)
@@ -268,7 +240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25292211@dr-ravenholm
 DTSTAMP:20261109T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261130T213000Z
 DTEND:20261130T233000Z
 SUMMARY:Construction Simulator | Ep. 51 - The Villagers Wanted Peace and
@@ -285,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25302211@dr-ravenholm
 DTSTAMP:20261110T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261201T213000Z
 DTEND:20261201T233000Z
 SUMMARY:Star Trek Online | Ep. 16 - Computer, Define 'Routine Mission'
@@ -303,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25312211@dr-ravenholm
 DTSTAMP:20261111T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261202T213000Z
 DTEND:20261202T233000Z
 SUMMARY:Hitman: Codename 47 | Ep. 1
@@ -326,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25322211@dr-ravenholm
 DTSTAMP:20261112T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261203T213000Z
 DTEND:20261203T233000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 3 - Tiny Witch,
@@ -343,7 +315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25332211@dr-ravenholm
 DTSTAMP:20261113T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261204T213000Z
 DTEND:20261204T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 27
@@ -359,7 +331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25342211@dr-ravenholm
 DTSTAMP:20261114T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261205T213000Z
 DTEND:20261205T233000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 7 - Cyrodiil:
@@ -379,7 +351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25352211@dr-ravenholm
 DTSTAMP:20261115T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261206T213000Z
 DTEND:20261206T233000Z
 SUMMARY:Movie Night | Ep. 92 - Star Trek III: The Search for Spock (1984)
@@ -392,7 +364,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25362211@dr-ravenholm
 DTSTAMP:20261116T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261207T213000Z
 DTEND:20261207T233000Z
 SUMMARY:Construction Simulator | Ep. 52 - If That Concrete Pump Breaks
@@ -409,7 +381,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25372211@dr-ravenholm
 DTSTAMP:20261117T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261208T213000Z
 DTEND:20261208T233000Z
 SUMMARY:Dune: Awakening | Ep. 31 - Someone Put New Things in the Desert.
@@ -427,7 +399,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25382211@dr-ravenholm
 DTSTAMP:20261118T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261209T213000Z
 DTEND:20261209T233000Z
 SUMMARY:Hitman: Codename 47 | Ep. 2
@@ -450,7 +422,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25392211@dr-ravenholm
 DTSTAMP:20261119T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261210T213000Z
 DTEND:20261210T233000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 4
@@ -466,26 +438,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25402211@dr-ravenholm
 DTSTAMP:20261120T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261211T213000Z
 DTEND:20261211T233000Z
-SUMMARY: Alien: Fate of the Nostromo | Ep. 3 - Right, Who's Left the Acid
- Blood All Over the Floor?
-DESCRIPTION: Based on the 1979 film, in ALIEN: Fate of the Nostromo,
- players take the role of Nostromo crew members Ripley, Lambert, Parker,
- Brett, or Dallas. Over the course of the game, they collect scrap, craft
- items, and fulfil different objectives. The crew will lose and gain morale
- as they encounter the Alien and other situations. If crew morale reaches
- zero, players lose the game.
+SUMMARY:Red Dead Redemption II | Ep. 28 - I've Buried Better Men Than the
+ Ones Still Walking
+DESCRIPTION: Arthur Morgan and the Van der Linde Gang are outlaws on the
+ run. With federal agents and bounty hunters massing on their heels, the
+ gang must rob, steal, and fight their way across the rugged heartland in
+ order to survive.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Alien: Fate of the Nostromo
+CATEGORIES:Red Dead Redemption II
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-25412211@dr-ravenholm
 DTSTAMP:20261121T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261212T213000Z
 DTEND:20261212T233000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 8
@@ -504,7 +474,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25422211@dr-ravenholm
 DTSTAMP:20261122T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261213T213000Z
 DTEND:20261213T233000Z
 SUMMARY:Movie Night | Ep. 93 - Star Trek IV: The Voyage Home (1986)
@@ -517,7 +487,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25432211@dr-ravenholm
 DTSTAMP:20261123T010000Z
-LAST-MODIFIED:20261124T112800Z
+LAST-MODIFIED:20261124T120200Z
 DTSTART:20261214T213000Z
 DTEND:20261214T233000Z
 SUMMARY:Motor Town: Behind The Wheel | Ep. 19
@@ -527,6 +497,27 @@ DESCRIPTION: Enjoy realistic driving in the open world. Relaxing cargo
  It's all about pure driving pleasure!
 URL:https://www.twitch.tv/dr_ravenholm
 CATEGORIES:Motor Town: Behind The Wheel
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-25442211@dr-ravenholm
+DTSTAMP:20261124T010000Z
+LAST-MODIFIED:20261124T120200Z
+DTSTART:20261215T213000Z
+DTEND:20261215T233000Z
+SUMMARY:Valheim | Ep. 2 - Viking by Profession, Berry Collector by
+ Necessity
+DESCRIPTION: Welcome to Ravenheim, my private Valheim server where I'll be
+ joining friends for our own Viking adventure! Together we'll explore the
+ vast procedurally generated world, gather resources, build and expand our
+ settlements, craft new equipment, sail across dangerous seas and take on
+ the creatures and bosses that stand in our way. Expect plenty of
+ exploration, building, survival and the inevitable chaos that comes from a
+ group of friends attempting to work together. Ravenheim is our world, and
+ who knows what stories we'll create along the way!
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Valheim
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
