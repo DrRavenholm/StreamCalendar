@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 UID:stream-25152211@dr-ravenholm
 DTSTAMP:20261026T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261116T213000Z
 DTEND:20261116T233000Z
 SUMMARY:Truck World: Australia | Ep. 1 - Keep the Shiny Side Up! Whichever
@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25172211@dr-ravenholm
 DTSTAMP:20261028T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261118T213000Z
 DTEND:20261118T233000Z
 SUMMARY:Sort Them Cats | Ep. 1 - Who Put the Astronaut Cat in With the
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25182211@dr-ravenholm
 DTSTAMP:20261029T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261119T213000Z
 DTEND:20261119T233000Z
 SUMMARY:Counter-Strike 2 | Ep. 3 - Shooty Shooty Bang Bang, Who's Got the
@@ -74,7 +74,7 @@ DESCRIPTION:We're back in Counter-Strike 2 for another evening of tactical
  has offered an elite competitive experience, one shaped by millions of
  players from across the globe. And now the next chapter in the CS story is
  about to begin. This is Counter-Strike 2.
-URL:https://www.twitch.tv/dr_ravenholm
+URL:https://www.youtube.com/watch?v=CV0PU_Idzzk
 CATEGORIES:Counter-Strike 2
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -82,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25192211@dr-ravenholm
 DTSTAMP:20261030T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261120T090000Z
 DTEND:20261120T180000Z
 SUMMARY:Comic-Con | Flight - Comic-Con Ireland
@@ -95,7 +95,7 @@ DESCRIPTION:It's travel day! We're swapping gaming chairs for aeroplane
  incredible guests, including William Shatner, Elijah Wood, Sean Astin,
  Miranda Otto and Steve Guttenberg. There won't be a live stream from the
  event, but expect plenty of stories and memories from the trip!
-URL:https://www.twitch.tv/dr_ravenholm
+URL:https://www.youtube.com/watch?v=
 CATEGORIES:Comic-Con
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -103,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25202211@dr-ravenholm
 DTSTAMP:20261031T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261121T090000Z
 DTEND:20261121T180000Z
 SUMMARY:Comic-Con | Day One - Comic-Con Ireland
@@ -117,7 +117,7 @@ DESCRIPTION:Our first day at Comic-Con Ireland! Time for cosplay,
  Elijah Wood, Sean Astin, Miranda Otto and Steve Guttenberg. There won't be
  a live stream from the event, but expect plenty of stories and memories
  from the trip!
-URL:https://www.twitch.tv/dr_ravenholm
+URL:https://www.youtube.com/watch?v=
 CATEGORIES:Comic-Con
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -125,7 +125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25212211@dr-ravenholm
 DTSTAMP:20261101T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261122T090000Z
 DTEND:20261122T180000Z
 SUMMARY:Comic-Con | Day Two - Comic-Con Ireland
@@ -138,17 +138,17 @@ DESCRIPTION:We're back for another day of convention adventures! More
  including William Shatner, Elijah Wood, Sean Astin, Miranda Otto and Steve
  Guttenberg. There won't be a live stream from the event, but expect plenty
  of stories and memories from the trip!
-URL:https://www.twitch.tv/dr_ravenholm
+URL:https://www.youtube.com/watch?v=
 CATEGORIES:Comic-Con
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stream-25222211@dr-ravenholm
-DTSTAMP:20261102T010000Z
-LAST-MODIFIED:20261119T230600Z
-DTSTART:20261123T213000Z
-DTEND:20261123T233000Z
+UID:stream-25232211@dr-ravenholm
+DTSTAMP:20261103T010000Z
+LAST-MODIFIED:20261124T112800Z
+DTSTART:20261124T213000Z
+DTEND:20261124T233000Z
 SUMMARY:Construction Simulator | Ep. 50 - Curse You, Concrete Pump! We
  Haven't Even Started Yet!
 DESCRIPTION:It's Episode 50 of Construction Simulator, and the new bypass
@@ -165,30 +165,9 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:stream-25232211@dr-ravenholm
-DTSTAMP:20261103T010000Z
-LAST-MODIFIED:20261119T230600Z
-DTSTART:20261124T213000Z
-DTEND:20261124T233000Z
-SUMMARY:Dune: Awakening | Ep. 31 - Someone Put New Things in the Desert.
- Let's Go Poke Them
-DESCRIPTION:We're heading back to Arrakis in Dune: Awakening, where
- there's apparently something new out in the desert. Naturally, the
- sensible response is to investigate it immediately. What could go wrong
- when curiosity and an extremely unforgiving landscape meet? Rise from
- survival to greatness and challenge the power of an Imperium in Dune:
- Awakening, a brand-new open world survival and crafting game. Alone or
- together with others, you must survive the sandworm, build a home, craft
- your ornithopter, and unravel the story of the missing Fremen.
-URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Dune: Awakening
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:stream-25242211@dr-ravenholm
 DTSTAMP:20261104T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261125T213000Z
 DTEND:20261125T233000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 2 - Cheshire,
@@ -209,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25252211@dr-ravenholm
 DTSTAMP:20261105T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261126T193000Z
 DTEND:20261126T233000Z
 SUMMARY:Nerina Pallot | Ep. 5 - Live
@@ -228,10 +207,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25262211@dr-ravenholm
 DTSTAMP:20261106T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261127T213000Z
 DTEND:20261127T233000Z
-SUMMARY:Red Dead Redemption II | Ep. 26
+SUMMARY:Red Dead Redemption II | Ep. 26 - The Devil Don't Knock Before He
+ Comes Calling
 DESCRIPTION:Arthur Morgan's journey continues, and after everything we've
  seen so far, I don't expect the frontier to suddenly become peaceful. Come
  along for Episode 26 as we find out where the next decisions take us -
@@ -247,7 +227,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25272211@dr-ravenholm
 DTSTAMP:20261107T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261128T213000Z
 DTEND:20261128T233000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 6 - Nobody Knows
@@ -271,7 +251,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25282211@dr-ravenholm
 DTSTAMP:20261108T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261129T213000Z
 DTEND:20261129T233000Z
 SUMMARY:Movie Night | Ep. 91 - Star Trek II: The Wrath of Khan (1982)
@@ -288,7 +268,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25292211@dr-ravenholm
 DTSTAMP:20261109T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261130T213000Z
 DTEND:20261130T233000Z
 SUMMARY:Construction Simulator | Ep. 51 - The Villagers Wanted Peace and
@@ -305,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25302211@dr-ravenholm
 DTSTAMP:20261110T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261201T213000Z
 DTEND:20261201T233000Z
 SUMMARY:Star Trek Online | Ep. 16 - Computer, Define 'Routine Mission'
@@ -321,9 +301,32 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stream-25312211@dr-ravenholm
+DTSTAMP:20261111T010000Z
+LAST-MODIFIED:20261124T112800Z
+DTSTART:20261202T213000Z
+DTEND:20261202T233000Z
+SUMMARY:Hitman: Codename 47 | Ep. 1
+DESCRIPTION: Step into the polished shoes of Agent 47 as we return to
+ where the legendary Hitman franchise began! In this classic stealth-action
+ game from 2000, we'll take on dangerous contracts across the globe, using
+ disguises, careful planning and a variety of weapons to complete our
+ assignments. From the bustling streets of Hong Kong to the jungles of
+ Colombia, we'll navigate challenging environments while gradually
+ uncovering the mysterious origins of Agent 47 himself. Expect plenty of
+ sneaking around, questionable disguises, unexpected complications and
+ carefully laid plans that will probably go spectacularly wrong. Can we
+ become the ultimate professional assassin, or will our attempts at stealth
+ descend into complete chaos?
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Hitman: Codename 47
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stream-25322211@dr-ravenholm
 DTSTAMP:20261112T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261203T213000Z
 DTEND:20261203T233000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 3 - Tiny Witch,
@@ -340,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25332211@dr-ravenholm
 DTSTAMP:20261113T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261204T213000Z
 DTEND:20261204T233000Z
 SUMMARY:Red Dead Redemption II | Ep. 27
@@ -356,7 +359,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25342211@dr-ravenholm
 DTSTAMP:20261114T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261205T213000Z
 DTEND:20261205T233000Z
 SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 7 - Cyrodiil:
@@ -376,7 +379,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25352211@dr-ravenholm
 DTSTAMP:20261115T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261206T213000Z
 DTEND:20261206T233000Z
 SUMMARY:Movie Night | Ep. 92 - Star Trek III: The Search for Spock (1984)
@@ -389,7 +392,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25362211@dr-ravenholm
 DTSTAMP:20261116T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261207T213000Z
 DTEND:20261207T233000Z
 SUMMARY:Construction Simulator | Ep. 52 - If That Concrete Pump Breaks
@@ -406,28 +409,48 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25372211@dr-ravenholm
 DTSTAMP:20261117T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261208T213000Z
 DTEND:20261208T233000Z
-SUMMARY:Valheim | Ep. 2 - Viking by Profession, Berry Collector by
- Necessity
-DESCRIPTION: Welcome to Ravenheim, my private Valheim server where I'll be
- joining friends for our own Viking adventure! Together we'll explore the
- vast procedurally generated world, gather resources, build and expand our
- settlements, craft new equipment, sail across dangerous seas and take on
- the creatures and bosses that stand in our way. Expect plenty of
- exploration, building, survival and the inevitable chaos that comes from a
- group of friends attempting to work together. Ravenheim is our world, and
- who knows what stories we'll create along the way!
+SUMMARY:Dune: Awakening | Ep. 31 - Someone Put New Things in the Desert.
+ Let's Go Poke Them
+DESCRIPTION: Rise from survival to greatness and challenge the power of an
+ Imperium in Dune: Awakening, a brand-new open world survival and crafting
+ game. Alone or together with others, you must survive the sandworm, build
+ a home, craft your ornithopter, and unravel the story of the missing
+ Fremen.
 URL:https://www.twitch.tv/dr_ravenholm
-CATEGORIES:Valheim
+CATEGORIES:Dune: Awakening
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stream-25382211@dr-ravenholm
+DTSTAMP:20261118T010000Z
+LAST-MODIFIED:20261124T112800Z
+DTSTART:20261209T213000Z
+DTEND:20261209T233000Z
+SUMMARY:Hitman: Codename 47 | Ep. 2
+DESCRIPTION: Step into the polished shoes of Agent 47 as we return to
+ where the legendary Hitman franchise began! In this classic stealth-action
+ game from 2000, we'll take on dangerous contracts across the globe, using
+ disguises, careful planning and a variety of weapons to complete our
+ assignments. From the bustling streets of Hong Kong to the jungles of
+ Colombia, we'll navigate challenging environments while gradually
+ uncovering the mysterious origins of Agent 47 himself. Expect plenty of
+ sneaking around, questionable disguises, unexpected complications and
+ carefully laid plans that will probably go spectacularly wrong. Can we
+ become the ultimate professional assassin, or will our attempts at stealth
+ descend into complete chaos?
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:Hitman: Codename 47
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:stream-25392211@dr-ravenholm
 DTSTAMP:20261119T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261210T213000Z
 DTEND:20261210T233000Z
 SUMMARY:Bayonetta Origins: Cereza and the Lost Demon | Ep. 4
@@ -443,7 +466,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25402211@dr-ravenholm
 DTSTAMP:20261120T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261211T213000Z
 DTEND:20261211T233000Z
 SUMMARY: Alien: Fate of the Nostromo | Ep. 3 - Right, Who's Left the Acid
@@ -460,9 +483,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:stream-25412211@dr-ravenholm
+DTSTAMP:20261121T010000Z
+LAST-MODIFIED:20261124T112800Z
+DTSTART:20261212T213000Z
+DTEND:20261212T233000Z
+SUMMARY:The Elder Scrolls IV: Oblivion Remastered | Ep. 8
+DESCRIPTION: Return to the province of Cyrodiil in a remastered version of
+ the legendary open-world RPG. With the Emperor slain and mysterious
+ Oblivion Gates opening across the land, we'll create our character,
+ explore towns and ancient ruins, take on quests, join factions, delve into
+ dangerous dungeons and battle the forces of Mehrunes Dagon. Whether we
+ follow the main story or get completely distracted by side quests, there's
+ a huge fantasy world waiting to be rediscovered.
+URL:https://www.twitch.tv/dr_ravenholm
+CATEGORIES:The Elder Scrolls IV: Oblivion Remastered
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:stream-25422211@dr-ravenholm
 DTSTAMP:20261122T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261213T213000Z
 DTEND:20261213T233000Z
 SUMMARY:Movie Night | Ep. 93 - Star Trek IV: The Voyage Home (1986)
@@ -475,7 +517,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:stream-25432211@dr-ravenholm
 DTSTAMP:20261123T010000Z
-LAST-MODIFIED:20261119T230600Z
+LAST-MODIFIED:20261124T112800Z
 DTSTART:20261214T213000Z
 DTEND:20261214T233000Z
 SUMMARY:Motor Town: Behind The Wheel | Ep. 19
